@@ -1,0 +1,23 @@
+ADRB3	drug_target	
+Lisinopril	drug	
+ACE2	drug_target	
+CYP1A2	drug_target	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	phenotype	
+ADRA1A	drug_target	
+ADRB2	drug_target	
+ABCB1	drug_target	
+SLC22A2	drug_target	
+PAH	drug_target	
+ADRB1	drug_target	
+ACE	drug_target	
+CYP3A4	drug_target	
+TNF	drug_target	
+ADRA1B	drug_target	
+ADRA2A	drug_target	
+CYP2C9	drug_target	
+SLC22A1	drug_target	
+ADRA1D	drug_target	
+ADRA2C	drug_target	
+ADRA2B	drug_target	
+SLC22A5	drug_target	
+Epinephrine	drug	

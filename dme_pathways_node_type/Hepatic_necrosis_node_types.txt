@@ -1,0 +1,22 @@
+ATP5D	drug_target	
+CYP2D6	drug_target	
+OPRM1	drug_target	
+TRPM8	drug_target	
+CYP2B6	drug_target	
+ALB	drug_target	
+OPRK1	drug_target	
+ATP2C1	drug_target	
+Sevoflurane	drug	
+Hepatic necrosis	phenotype	
+Menthol	drug	
+CYP2E1	drug_target	
+OPRD1	drug_target	
+GLRA1	drug_target	
+Desflurane	drug	
+CYP3A4	drug_target	
+GRIA1	drug_target	
+MT-ND1	drug_target	
+KCNA1	drug_target	
+CYP2A6	drug_target	
+Hydrocodone	drug	
+GABRA1	drug_target	

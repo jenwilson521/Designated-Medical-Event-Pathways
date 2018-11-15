@@ -1,0 +1,30 @@
+Autoimmune hemolytic anemia	phenotype	
+Rituximab	drug	
+Alemtuzumab	drug	
+FCGR2B	drug_target	
+C1S	drug_target	
+Ipilimumab	drug	
+Natalizumab	drug	
+MS4A1	drug_target	
+Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	phenotype	
+ITGA4	drug_target	
+FCGR3A	drug_target	
+CD52	drug_target	
+C1R	drug_target	
+MPO	drug_target	
+C1QB	drug_target	
+FCGR3B	drug_target	
+PLA2G2E	drug_target	
+C1QA	drug_target	
+CHUK	drug_target	
+ALOX5	drug_target	
+GRB2	drug_target	
+CTLA4	drug_target	
+Pegademase Bovine	drug	
+FCGR2A	drug_target	
+FCGR1A	drug_target	
+ICAM1	drug_target	
+C1QC	drug_target	
+Aminosalicylic Acid	drug	
+FCGR2C	drug_target	
+PTGS2	drug_target	

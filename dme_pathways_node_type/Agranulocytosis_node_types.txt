@@ -1,0 +1,16 @@
+Tiopronin	drug	
+Tolmetin	drug	
+MPO	drug_target	
+CD3D	drug_target	
+Blinatumomab	drug	
+CD19	drug_target	
+Cefaclor	drug	
+Filgrastim	drug	
+Agranulocytosis	phenotype	
+CSF3R	drug_target	
+PTGS1	drug_target	
+SLC22A6	drug_target	
+PTGS2	drug_target	
+TDO2	drug_target	
+SLC15A2	drug_target	
+ELANE	drug_target	
