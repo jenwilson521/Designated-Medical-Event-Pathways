@@ -1,0 +1,284 @@
+ccollections
+defaultdict
+p0
+(c__builtin__
+list
+p1
+tp2
+Rp3
+S'pancreatitis'
+p4
+(lp5
+S'pancreatitis acute'
+p6
+aS''
+p7
+ag7
+ag7
+asS'sepsis'
+p8
+(lp9
+g7
+ag7
+ag7
+ag7
+asS'respiratory depression'
+p10
+(lp11
+S'hypoventilation'
+p12
+ag7
+ag7
+ag7
+asS'pulmonary edema'
+p13
+(lp14
+S'acute pulmonary edema'
+p15
+aS'respiratory tract edema'
+p16
+ag7
+ag7
+asS'angioedema'
+p17
+(lp18
+g7
+ag7
+ag7
+ag7
+asS'neuropathy peripheral'
+p19
+(lp20
+S'peripheral motor neuropathy'
+p21
+aS'peripheral sensory neuropathy'
+p22
+ag7
+ag7
+asS'blindness'
+p23
+(lp24
+S'blindness unilateral'
+p25
+ag7
+ag7
+ag7
+asS'ventricular arrhythmia'
+p26
+(lp27
+g7
+ag7
+ag7
+ag7
+asS'hemorrhage'
+p28
+(lp29
+S'gastrointestinal hemorrhage'
+p30
+aS'injection site hemorrhage'
+p31
+aS'vaginal hemorrhage'
+p32
+aS'rectal hemorrhage'
+p33
+asS'delirium'
+p34
+(lp35
+g7
+ag7
+ag7
+ag7
+asS'neuroleptic malignant syndrome'
+p36
+(lp37
+g7
+ag7
+ag7
+ag7
+asS'suicide attempt'
+p38
+(lp39
+g7
+ag7
+ag7
+ag7
+asS'thrombocytopenia'
+p40
+(lp41
+g7
+ag7
+ag7
+ag7
+asS'hepatic failure'
+p42
+(lp43
+S'acute hepatic failure'
+p44
+aS'subacute hepatic failure'
+p45
+ag7
+ag7
+asS'fracture'
+p46
+(lp47
+S'femur fracture'
+p48
+aS'hip fracture'
+p49
+aS'upper limb fracture'
+p50
+aS'rib fracture'
+p51
+asS'edema peripheral'
+p52
+(lp53
+g7
+ag7
+ag7
+ag7
+asS'agranulocytosis'
+p54
+(lp55
+g7
+ag7
+ag7
+ag7
+asS'insomnia'
+p56
+(lp57
+g7
+ag7
+ag7
+ag7
+asS'cellulitis'
+p58
+(lp59
+g7
+ag7
+ag7
+ag7
+asS'torsade de pointes'
+p60
+(lp61
+g7
+ag7
+ag7
+ag7
+asS'cardiac arrest'
+p62
+(lp63
+S'cardio-respiratory arrest'
+p64
+ag7
+ag7
+ag7
+asS'seizure'
+p65
+(lp66
+S'generalized tonic clonic seizure'
+p67
+aS'status epilepticus'
+p68
+ag7
+ag7
+asS'hemolytic anemia'
+p69
+(lp70
+g7
+ag7
+ag7
+ag7
+asS'interstitial lung disease'
+p71
+(lp72
+g7
+ag7
+ag7
+ag7
+asS'hypertension'
+p73
+(lp74
+g7
+ag7
+ag7
+ag7
+asS'renal failure'
+p75
+(lp76
+S'acute kidney injury'
+p77
+ag7
+ag7
+ag7
+asS'serotonin syndrome'
+p78
+(lp79
+g7
+ag7
+ag7
+ag7
+asS'deep vein thrombosis'
+p80
+(lp81
+g7
+ag7
+ag7
+ag7
+asS'impaired healing'
+p82
+(lp83
+g7
+ag7
+ag7
+ag7
+asS'stevens johnson syndrome'
+p84
+(lp85
+g7
+ag7
+ag7
+ag7
+asS'cerebral infarction'
+p86
+(lp87
+S'embolic stroke'
+p88
+aS'thrombotic stroke'
+p89
+aS'ischaemic stroke'
+p90
+ag7
+asS'hyperlipidemia'
+p91
+(lp92
+S'blood cholesterol increased'
+p93
+aS'hypercholesteraemia'
+p94
+ag7
+ag7
+asS'tardive dyskinesia'
+p95
+(lp96
+S'dyskinesia'
+p97
+ag7
+ag7
+ag7
+asS'myocardial infarction'
+p98
+(lp99
+S'acute myocardial infarction'
+p100
+aS'silent myocardial infarction'
+p101
+ag7
+ag7
+asS'rhabdomyolysis'
+p102
+(lp103
+g7
+ag7
+ag7
+ag7
+as.
