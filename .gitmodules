@@ -1,0 +1,3 @@
+[submodule "PathFX"]
+	path = PathFX
+	url = https://github.com/jenwilson521/PathFX.git
