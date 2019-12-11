@@ -1,0 +1,4 @@
+PFKFB4		1	
+GPI		1	
+PFKFB1		1	
+FBP1		1	

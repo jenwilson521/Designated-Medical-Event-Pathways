@@ -1,0 +1,5 @@
+UQCRFS1		1	
+MT-CYB		1	
+CYC1		1	
+UQCRB		1	
+UQCR10		1	

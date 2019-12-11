@@ -1,0 +1,2 @@
+FNTA		1	
+FNTB		1	

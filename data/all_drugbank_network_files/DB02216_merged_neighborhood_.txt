@@ -1,0 +1,3 @@
+FABP1		1	
+MGMT		1	
+CTSD		1	

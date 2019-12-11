@@ -1,0 +1,3 @@
+TPI1		1	
+ALDOA		1	
+ALDOB		1	

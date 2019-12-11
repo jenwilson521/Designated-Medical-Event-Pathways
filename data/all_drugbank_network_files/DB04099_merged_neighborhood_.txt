@@ -1,0 +1,2 @@
+NMNAT3		1	
+NMNAT1		1	

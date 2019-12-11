@@ -1,0 +1,2 @@
+ATP6V1B2		1	
+GAPDH		1	

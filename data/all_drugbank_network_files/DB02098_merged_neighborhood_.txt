@@ -1,0 +1,2 @@
+RNASE2		1	
+RNASE1		1	

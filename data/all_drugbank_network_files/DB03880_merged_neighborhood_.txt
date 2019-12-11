@@ -1,0 +1,4 @@
+MMP12		1	
+MMP8		1	
+MMP16		1	
+ADAMTS5		1	

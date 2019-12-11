@@ -1,0 +1,3 @@
+GSTM1	rs3754446	0.99	
+GSTM1		1	
+GSTM1	GSTM1 non-null, GSTM1 null	0.99	

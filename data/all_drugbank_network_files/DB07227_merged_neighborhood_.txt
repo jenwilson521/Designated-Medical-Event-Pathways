@@ -1,0 +1,3 @@
+PGGT1B		1	
+FNTB		1	
+FNTA		1	

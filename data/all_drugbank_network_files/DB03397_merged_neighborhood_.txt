@@ -1,0 +1,3 @@
+GALE		1	
+MGAT1		1	
+UAP1		1	

@@ -1,0 +1,2 @@
+RHCG		1	
+NAGS		1	

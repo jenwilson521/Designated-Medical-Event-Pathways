@@ -1,0 +1,4 @@
+LYZ		1	
+RTCB		1	
+ACTA1		1	
+ATOX1		1	

@@ -1,0 +1,3 @@
+TPI1		1	
+PGK1		1	
+PGAM2		1	

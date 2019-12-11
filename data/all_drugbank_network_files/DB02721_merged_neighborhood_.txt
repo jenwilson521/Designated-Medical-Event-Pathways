@@ -1,0 +1,3 @@
+ADH1B		1	
+ADH1C		1	
+ADH1A		1	

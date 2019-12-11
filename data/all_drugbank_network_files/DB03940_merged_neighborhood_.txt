@@ -1,0 +1,3 @@
+LDHA		1	
+SLC16A3		1	
+LDHB		1	
