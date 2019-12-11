@@ -1,0 +1,2 @@
+ATP6V1A		1	
+PTPRS		1	

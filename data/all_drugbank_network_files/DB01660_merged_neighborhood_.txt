@@ -1,0 +1,3 @@
+BCKDK		1	
+SYN1		1	
+BST1		1	

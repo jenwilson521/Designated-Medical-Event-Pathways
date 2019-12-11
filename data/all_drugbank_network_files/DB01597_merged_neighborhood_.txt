@@ -1,0 +1,3 @@
+DPEP1		1	
+SLC22A8		1	
+SLC22A6		1	

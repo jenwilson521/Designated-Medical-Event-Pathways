@@ -1,0 +1,2 @@
+MAOA		1	
+MAOB		1	

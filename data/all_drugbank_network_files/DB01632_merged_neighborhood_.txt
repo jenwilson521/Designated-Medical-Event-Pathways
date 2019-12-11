@@ -1,0 +1,3 @@
+UCKL1		1	
+APRT		1	
+HPRT1		1	

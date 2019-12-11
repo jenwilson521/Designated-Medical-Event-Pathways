@@ -1,0 +1,3 @@
+SLC4A7		1	
+SLC4A8		1	
+SLC4A4		1	
