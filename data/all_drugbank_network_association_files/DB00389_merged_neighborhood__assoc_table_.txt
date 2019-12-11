@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+38	Anaplastic carcinoma	C0205696	2	62	4.24259487839e-05	6.99815837937385e-05	CYP19A1,TPO
+43	Disorder of endocrine system	C0014130	2	68	5.5973079068e-05	7.918968692449357e-05	CYP19A1,TPO
+44	Mammographic breast density	C1268717	2	70	6.104804978e-05	8.103130755064457e-05	CYP19A1,CYP1A2

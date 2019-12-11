@@ -1,0 +1,21 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Dermatitis, Atopic	C0011615	1	567	0.0	5e-05	PDE3B
+2	Berardinelli-Seip congenital lipodystrophy	C0221032	1	25	0.0	0.0001	PDE3B
+3	Carcinogenesis	C0596263	1	3723	0.0	0.00015	PDE3B
+4	Symptomatic human immunodeficiency virus infection	C0019693	1	1900	0.0	0.0002	PDE3B
+5	Precursor Cell Lymphoblastic Leukemia-Lymphoma	C1961102	1	854	0.0	0.00025	PDE3B
+6	Chronic Lymphocytic Leukemia	C0023434	1	1176	0.0	0.0003	PDE3B
+7	Primary pulmonary hypertension	C0152171	1	227	0.0	0.00035	PDE3B
+8	Hypothyroidism	C0020676	1	341	0.0	0.0004	PDE3B
+9	Acute lymphoid leukemia	C0023449	1	824	0.0	0.00045000000000000004	PDE3B
+10	Normal pressure hydrocephalus	C0020258	1	33	0.0	0.0005	PDE3B
+11	Eczema	C0013595	1	474	0.0	0.00055	PDE3B
+12	Well Differentiated Oligodendroglioma	C0751396	1	191	0.0	0.0006	PDE3B
+13	Diabetes mellitus type 2	C0011860	1	1972	0.0	0.0006500000000000001	PDE3B
+14	Lupus Erythematosus, Systemic	C0024141	1	1467	0.0	0.0007	PDE3B
+15	Polycystic Ovary Syndrome	C0032460	1	477	0.0	0.00075	PDE3B
+16	Astrocytoma	C0004114	1	674	0.0	0.0008	PDE3B
+17	Pulmonary arterial hypertension	C3203102	1	314	0.0	0.00085	PDE3B
+18	Knee osteoarthritis	C0409959	1	118	0.0	0.0009000000000000001	PDE3B
+19	Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	C0334634	1	327	0.0	0.00095	PDE3B
+20	Pulmonary hypertension, neonatal, susceptibility to	C0020542	1	333	0.0	0.001	PDE3B

@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Symptomatic human immunodeficiency virus infection	C0019693	20	1900	6.00646199445e-11	1.6260162601626016e-06	PSMB4,PSME1,PSMD12,PSME2,PSMA5,PSMD7,PSME3,ADRM1,PSMC3,PSMA7,PSMD3,PSMD6,PSMC6,PSMD9,PSMB6,PSMA6,PSMA4,PSMB10,PSMD13,PSMD8

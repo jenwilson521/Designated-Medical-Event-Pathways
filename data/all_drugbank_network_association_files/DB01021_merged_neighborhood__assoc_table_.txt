@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+26	Aqueous Humor Disorders	C0595936	2	66	8.94499081416e-06	5.6399132321041216e-05	CA2,CA4
+37	Chronic ulcerative colitis	C2919828	2	94	2.59242950602e-05	8.026030368763558e-05	CA2,TPMT
+51	Peroxisome biogenesis disorder 6A	C0282528	1	25	0.000108924673316	0.00011062906724511932	CA1
+52	Basal ganglia calcification, idiopathic, 6	C1389280	1	25	0.000108924673316	0.00011279826464208243	CA2

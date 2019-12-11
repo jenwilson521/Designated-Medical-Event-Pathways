@@ -1,0 +1,3 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Choroideremia	C0008525	3	28	3.53425144706e-09	6.024096385542169e-06	CHML,CHM,RAB38
+5	Hermansky-Pudlak syndrome	C0079504	2	45	4.06435407074e-06	3.0120481927710845e-05	CHM,RAB38

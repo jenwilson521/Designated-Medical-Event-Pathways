@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+17	Heroin Dependence	C0019337	2	65	3.45133321716e-05	5.573770491803279e-05	SLC6A2,CYP3A4

@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+8	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	C0014548	3	70	8.36125770032e-06	1.4109347442680776e-05	SV2A,ABCB1,ABCC2

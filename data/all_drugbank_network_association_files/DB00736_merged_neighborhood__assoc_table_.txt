@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+17	Primary malignant neoplasm of liver	C0024620	2	25	9.20627569412e-06	4.670329670329671e-05	CYP2C19,CYP3A4
+20	Gastro-esophageal reflux disease with esophagitis	C0677659	2	39	3.60007475319e-05	5.4945054945054945e-05	CYP2C19,ATP4A
+21	21-hydroxylase deficiency	C1291314	2	40	3.88752649484e-05	5.76923076923077e-05	CYP2C19,CYP3A4

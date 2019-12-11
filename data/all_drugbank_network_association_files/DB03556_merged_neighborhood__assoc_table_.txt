@@ -1,0 +1,10 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+5	Partial Trisomy	C1297882	1	39	6.77626298429e-06	0.0001	CBR1
+6	Drug Resistant Epilepsy	C1096063	1	53	1.25968321387e-05	0.00012	CBR1
+7	Cortical dysplasia, complex, with other brain malformations 3	C0431380	1	60	1.61772839167e-05	0.00014000000000000001	CBR1
+8	Malformation of cortical development	C1955869	1	68	2.08158737564e-05	0.00016	CBR1
+9	Malignant Childhood Neoplasm	C0278704	1	76	2.60371788383e-05	0.00017999999999999998	CBR1
+10	Carcinoma, Small Cell	C0262584	1	108	5.27429259283e-05	0.0002	CBR1
+11	Ureteral obstruction	C0041956	1	154	0.000107410452707	0.00022	CBR1
+12	Tuberous sclerosis syndrome	C0041341	1	192	0.000167007953268	0.00024	CBR1
+13	Medullary thyroid carcinoma	C0238462	1	201	0.000183031730168	0.00026000000000000003	CBR1

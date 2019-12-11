@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+10	Neoplasm of the larynx	C0023055	2	106	2.42875346534e-05	6.097560975609756e-05	CYP1A2,MGST1
+15	Polyglandular Type I Autoimmune Syndrome	C0085859	1	25	8.27002240993e-05	9.146341463414634e-05	CYP1A2
+16	Pleural Neoplasms	C0032229	1	26	8.95639537599e-05	9.75609756097561e-05	CYP1A2

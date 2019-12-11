@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+6	Anaplastic Oligodendroglioma	C0334590	2	135	3.04621194647e-05	4.545454545454546e-05	PLA2G4A,PLA2G4C
+8	Isovaleryl-CoA dehydrogenase deficiency	C0268575	1	25	6.00522380442e-05	6.060606060606061e-05	PLA2G4A
+9	Chromosome 11p deletion syndrome	C0812435	1	25	6.00522380442e-05	6.818181818181818e-05	SLC22A6
+10	Flushing	C0016382	1	25	6.00522380442e-05	7.575757575757576e-05	PLA2G4A

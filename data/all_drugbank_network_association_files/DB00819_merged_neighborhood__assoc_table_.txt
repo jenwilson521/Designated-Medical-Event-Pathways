@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+13	Simple pneumoconiosis	C0032273	2	38	1.19115599112e-05	2.1487603305785124e-05	CA1,CA3

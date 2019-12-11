@@ -1,0 +1,6 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+17	Polyglandular Type I Autoimmune Syndrome	C0085859	2	25	9.20627569412e-06	3.89908256880734e-05	CYP2B6,CYP1A2
+21	 {Porphyria cutanea tarda, susceptibility to}, 176100 (3)	C0162566	2	32	1.96953991417e-05	4.81651376146789e-05	CYP2B6,CYP1A2
+22	Enzyme inhibition disorder	C0877008	2	33	2.16402021944e-05	5.0458715596330276e-05	BCHE,CYP2B6
+23	Paranoid Schizophrenia	C0036349	2	35	2.59003308596e-05	5.275229357798165e-05	CYP2B6,CYP1A2
+30	Chemical Carcinogenesis	C0596321	2	42	4.50678796922e-05	6.880733944954129e-05	CYP2B6,CYP1A2

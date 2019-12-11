@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+19	Weight Gain Adverse Event	C2911647	3	151	4.16418544925e-05	4.318181818181818e-05	ADCY9,ADCY8,ADCY1

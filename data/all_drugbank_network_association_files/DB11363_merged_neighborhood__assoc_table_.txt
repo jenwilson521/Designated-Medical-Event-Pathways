@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+23	Chronic leukemia	C1279296	2	31	3.03091909607e-05	3.4743202416918434e-05	ABCB1,ALK

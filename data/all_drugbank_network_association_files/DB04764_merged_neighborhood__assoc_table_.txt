@@ -1,0 +1,6 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Hypersensitivity	C0020517	2	186	0.0	0.0001	TPSAB1,TPSB2
+2	Mastocytosis	C0024899	2	57	0.0	0.0002	TPSAB1,TPSB2
+3	Contact Dermatitis	C0011616	1	90	1.22199370144e-05	0.0003	TPSAB1
+4	Keloid	C0022548	1	178	4.80649598383e-05	0.0004	TPSB2
+5	Fibrosarcoma	C0016057	1	254	9.80369581335e-05	0.0005	TPSAB1

@@ -1,0 +1,50 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Inflammation	C0021368	1	647	0.0	1.9607843137254903e-05	KYNU
+2	Coma	C0009421	1	93	0.0	3.9215686274509805e-05	KYNU
+3	Abnormality of metabolism/homeostasis	C4021768	1	1607	0.0	5.882352941176471e-05	KYNU
+4	Abnormality of acid-base homeostasis	C0001118	1	286	0.0	7.843137254901961e-05	KYNU
+5	Abnormality of the ear	C0266589	1	1354	0.0	9.80392156862745e-05	KYNU
+6	Hearing impairment	C1384666	1	1031	0.0	0.00011764705882352942	KYNU
+7	Hypertonia	C0026826	1	537	0.0	0.00013725490196078434	KYNU
+8	Neurodevelopmental delay	C4022738	1	1140	0.0	0.00015686274509803922	KYNU
+9	Congenital anomalies of kidney and urinary tract 1, susceptibility to	C0266292	1	820	0.0	0.00017647058823529413	KYNU
+10	Reduced consciousness/confusion	C0234428	1	213	0.0	0.000196078431372549	KYNU
+11	Abnormality of cardiovascular system electrophysiology	C0243050	1	1568	0.0	0.00021568627450980395	KYNU
+12	Abnormality of urine homeostasis	C4025655	1	409	0.0	0.00023529411764705883	KYNU
+13	Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	C0557874	1	964	0.0	0.00025490196078431374	KYNU
+14	Abnormality of central motor function	C4023354	1	1196	0.0	0.0002745098039215687	KYNU
+15	3-Methylglutaconic aciduria	C0278026	1	188	0.0	0.00029411764705882356	KYNU
+16	Abnormal systemic blood pressure	C0005826	1	300	0.0	0.00031372549019607844	KYNU
+17	Abnormality of the respiratory system	C4018871	1	1121	0.0	0.0003333333333333333	KYNU
+18	Abnormality of carboxylic acid metabolism	C4025344	1	197	0.0	0.00035294117647058826	KYNU
+19	Abnormality of nervous system physiology	C4022811	1	2307	0.0	0.00037254901960784314	KYNU
+21	Arrhythmias, Cardiac	C0003811	1	338	0.0	0.0004117647058823529	KYNU
+22	Upper motor neuron dysfunction	C1839042	1	864	0.0	0.0004313725490196079	KYNU
+23	Abnormality of the musculature	C4021745	1	1765	0.0	0.0004509803921568628	KYNU
+24	Encephalopathy, acute, infection-induced, 4, susceptibility to	C0085584	1	262	0.0	0.00047058823529411766	KYNU
+25	Abnormality of higher mental function	C4023352	1	920	0.0	0.0004901960784313725	KYNU
+26	Neurodegenerative Diseases	C0524851	1	706	0.0	0.0005098039215686275	KYNU
+27	Autosomal recessive inheritance	C0441748	1	2006	0.0	0.0005294117647058824	KYNU
+28	Tachycardia	C3827868	1	149	0.0	0.0005490196078431374	KYNU
+29	Intellectual developmental disorder with dysmorphic facies and ptosis	C3714756	1	1371	0.0	0.0005686274509803922	KYNU
+30	Abnormality of the genitourinary system	C0042063	1	1555	0.0	0.0005882352941176471	KYNU
+31	IgA nephropathy, susceptibility to, 3	C0017661	1	650	0.0	0.0006078431372549019	KYNU
+32	Metabolic acidosis	C0220981	1	66	0.0	0.0006274509803921569	KYNU
+33	Abnormal muscle tone	C0852413	1	1220	0.0	0.0006470588235294118	KYNU
+34	Aminoaciduria	C0238621	1	120	0.0	0.0006666666666666666	KYNU
+35	Abnormality of the nervous system	C0497552	1	2512	0.0	0.0006862745098039216	KYNU
+36	Abnormal renal physiology	C0151746	1	429	0.0	0.0007058823529411765	KYNU
+37	Abnormality of cardiovascular system physiology	C4023587	1	700	0.0	0.0007254901960784313	KYNU
+38	Acidosis	C0001122	1	289	0.0	0.0007450980392156863	KYNU
+39	Abnormality of amino acid metabolism	C1328440	1	172	0.0	0.0007647058823529411	KYNU
+40	Abnormality of the urinary system	C4021821	1	1136	0.0	0.000784313725490196	KYNU
+41	Abnormality of the urinary system physiology	C4023437	1	654	0.0	0.000803921568627451	KYNU
+42	Abnormality of muscle physiology	C4023182	1	1477	0.0	0.0008235294117647058	KYNU
+43	Hypotension	C0020649	1	129	0.0	0.0008431372549019609	KYNU
+44	Hearing abnormality	C4025860	1	921	0.0	0.0008627450980392158	KYNU
+45	Abnormality of the upper urinary tract	C4023641	1	827	0.0	0.0008823529411764706	KYNU
+46	Neurodevelopmental abnormality	C0679378	1	1639	0.0	0.0009019607843137256	KYNU
+47	Tobacco Use Disorder	C0040336	1	3066	0.0	0.0009215686274509804	KYNU
+48	Hypertension	C0020538	1	1647	0.0	0.0009411764705882353	KYNU
+50	Renal tubular dysfunction	C0151747	1	64	0.0	0.000980392156862745	KYNU
+51	Essential hypertension	C0085580	1	305	0.0	0.001	KYNU

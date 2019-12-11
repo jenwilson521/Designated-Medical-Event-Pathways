@@ -1,0 +1,22 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+2	Memory Loss	C0002622	1	61	0.0	8e-05	PREP
+3	Senile plaques	C0333463	1	259	0.0	0.00012	PREP
+4	Celiac Disease	C0007570	1	436	0.0	0.00016	PREP
+7	Glioma	C0017638	1	1997	0.0	0.00028000000000000003	PREP
+8	Neuroblastoma	C0700095	1	1612	0.0	0.00032	PREP
+10	Parkinson Disease	C0030567	1	789	0.0	0.0004	PREP
+11	Manic	C0564408	1	45	0.0	0.00044	PREP
+12	Stroke	C0038454	1	1229	0.0	0.00048	PREP
+13	Depressive Disorder	C0011581	1	543	0.0	0.0005200000000000001	PREP
+14	Ankylosing spondylitis	C0038013	1	269	0.0	0.0005600000000000001	PREP
+15	Tobacco Use Disorder	C0040336	1	3066	0.0	0.0006	PREP
+16	Diabetes mellitus type 2	C0011860	1	1972	0.0	0.00064	PREP
+17	Churg-Strauss Syndrome	C0008728	1	36	0.0	0.00068	PREP
+18	Stomach Neoplasms	C0038356	1	916	0.0	0.0007199999999999999	PREP
+19	Plaque, Atherosclerotic	C0011389	1	226	0.0	0.00076	PREP
+20	Chronic Lymphocytic Leukemia	C0023434	1	1176	0.0	0.0008	PREP
+21	Seborheic dermatitis	C0011603	1	181	0.0	0.00084	PREP
+22	{Unipolar depression, susceptibility to}, 608516 (3)	C0011570	1	555	0.0	0.00088	PREP
+23	Disease Progression	C0242656	1	233	0.0	0.00092	PREP
+24	Emotional lability	C0085633	1	100	0.0	0.00096	PREP
+25	Diabetes mellitus type 1	C0011854	1	1104	0.0	0.001	PREP

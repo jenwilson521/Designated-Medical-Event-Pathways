@@ -1,0 +1,117 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Sarcoma, Ewing	C1261473	1	829	0.0	7.8125e-06	PKLR
+2	Reticulocytosis	C0206160	1	26	0.0	1.5625e-05	PKLR
+3	Leukemogenesis	C0598766	1	660	0.0	2.34375e-05	PKLR
+4	Breast-ovarian cancer, familial 1	C0006142	1	4543	0.0	3.125e-05	PKLR
+5	Measles	C0025007	1	155	0.0	3.90625e-05	PKLR
+6	Chronic Fatigue Syndrome	C0015674	1	46	0.0	4.6875e-05	PKLR
+7	Malignant neoplasm of pancreas	C0346647	1	1625	0.0	5.46875e-05	PKLR
+8	Anemia due to reduced life span of red cells	C4021112	1	86	0.0	6.25e-05	PKLR
+9	Neurodegenerative Diseases	C0524851	1	706	0.0	7.031250000000001e-05	PKLR
+13	Abnormality of the spleen	C4025749	1	347	0.0	0.00010156250000000001	PKLR
+14	Malignant neoplasm of lung	C0242379	1	2460	0.0	0.000109375	PKLR
+15	Memory impairment	C0233794	1	255	0.0	0.0001171875	PKLR
+16	Virus Diseases	C0042769	1	772	0.0	0.000125	PKLR
+17	Lung Neoplasms	C0024121	1	1155	0.0	0.0001328125	PKLR
+20	Acute myeloid leukemia	C0023467	1	1733	0.0	0.00015625	PKLR
+21	Abnormality of reticulocytes	C4025358	1	34	0.0	0.0001640625	PKLR
+22	Abnormality of erythrocytes	C0391870	1	374	0.0	0.000171875	PKLR
+23	B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	C1292769	1	385	0.0	0.0001796875	PKLR
+24	Lung cancer	C0684249	1	2234	0.0	0.0001875	PKLR
+25	Lymphoid leukemia	C0023448	1	252	0.0	0.0001953125	PKLR
+27	Acute lymphoid leukemia	C0023449	1	824	0.0	0.0002109375	PKLR
+28	Abnormality of metabolism/homeostasis	C4021768	1	1607	0.0	0.00021875	PKLR
+29	Chronic Lymphocytic Leukemia	C0023434	1	1176	0.0	0.0002265625	PKLR
+30	Dystonia Disorders	C0393593	1	130	0.0	0.000234375	PKLR
+31	Dermatological manifestations of systemic disorders	C4025812	1	156	0.0	0.0002421875	PKLR
+32	Abnormality of the gallbladder	C0266249	1	65	0.0	0.00025	PKLR
+33	Abnormal QRS complex	C0205161	1	1098	0.0	0.0002578125	PKLR
+35	Carcinogenesis	C0596263	1	3723	0.0	0.0002734375	PKLR
+37	Prostate carcinoma	C0600139	1	2734	0.0	0.0002890625	PKLR
+38	Reperfusion Injury	C0035126	1	305	0.0	0.000296875	PKLR
+39	Hepatitis C	C0019196	1	721	0.0	0.0003046875	PKLR
+40	Verotoxigenic Escherichia coli gastrointestinal tract infection	C0009450	1	1111	0.0	0.0003125	PKLR
+41	Hyperbilirubinemia	C0020433	1	99	0.0	0.0003203125	PKLR
+42	Growth delay	C0456070	1	1102	0.0	0.000328125	PKLR
+43	Multiple Sclerosis	C0026769	1	1140	0.0	0.00033593750000000003	PKLR
+44	Alzheimer Disease	C0002395	1	1699	0.0	0.00034375	PKLR
+45	Hepatitis D Infection	C0011226	1	55	0.0	0.0003515625	PKLR
+46	Tumor necrosis	C0333516	1	170	0.0	0.000359375	PKLR
+48	FANCONI ANEMIA, COMPLEMENTATION GROUP A (disorder)	C3469521	1	223	0.0	0.000375	PKLR
+49	Amyotrophic Lateral Sclerosis	C0002736	1	812	0.0	0.0003828125	PKLR
+50	Abnormality of skin morphology	C4023528	1	1261	0.0	0.000390625	PKLR
+51	Respiratory Syncytial Virus Infections	C0035235	1	299	0.0	0.00039843750000000003	PKLR
+52	Squamous cell carcinoma	C0007137	1	1855	0.0	0.00040625000000000004	PKLR
+53	Hydrops fetalis, nonimmune, and/or atrial septal defect, susceptibility to	C0020305	1	64	0.0	0.0004140625	PKLR
+54	Melanoma	C0025202	1	2386	0.0	0.000421875	PKLR
+55	Malignant tumor of prostate	C0376358	1	2940	0.0	0.0004296875	PKLR
+56	Influenza	C0021400	1	497	0.0	0.0004375	PKLR
+57	Hepatocarcinogenesis	C1512409	1	471	0.0	0.0004453125	PKLR
+58	Jaundice	C0022346	1	141	0.0	0.000453125	PKLR
+59	Diabetes Mellitus, Type 1	C0011849	1	2081	0.0	0.00046093750000000003	PKLR
+60	Hyperglycemia	C0020456	1	459	0.0	0.00046875	PKLR
+61	Visceromegaly	C0042782	1	461	0.0	0.0004765625	PKLR
+62	Growth abnormality	C0262361	1	1578	0.0	0.000484375	PKLR
+63	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	C0002878	1	153	0.0	0.0004921875	PKLR
+64	Cholestasis, benign recurrent intrahepatic 1	C0008370	1	328	0.0	0.0005	PKLR
+65	Neoplasm of the liver	C0023903	1	1290	0.0	0.0005078125	PKLR
+66	Abnormality of T cell count	C1704258	1	903	0.0	0.000515625	PKLR
+67	Herpes Simplex Infections	C0019348	1	529	0.0	0.0005234375	PKLR
+70	Anemia	C0002871	1	627	0.0	0.000546875	PKLR
+71	Diabetes mellitus type 2	C0011860	1	1972	0.0	0.0005546875000000001	PKLR
+72	Osteosarcoma	C0585442	1	936	0.0	0.0005625000000000001	PKLR
+73	Abnormality of fluid regulation	C2364164	1	346	0.0	0.0005703125	PKLR
+74	Autosomal recessive inheritance	C0441748	1	2006	0.0	0.000578125	PKLR
+75	Abnormality of the skin	C0037268	1	1376	0.0	0.0005859375	PKLR
+76	Abnormality of the digestive system	C0266015	1	1679	0.0	0.00059375	PKLR
+77	Lupus Vulgaris	C0024131	1	307	0.0	0.0006015625	PKLR
+78	Acute type B viral hepatitis	C0019163	1	790	0.0	0.000609375	PKLR
+79	Generalized abnormality of skin	C4021157	1	712	0.0	0.0006171875	PKLR
+80	Hepatocellular carcinoma	C2239176	1	3108	0.0	0.000625	PKLR
+81	Abnormality of the integument	C4025761	1	1665	0.0	0.0006328125	PKLR
+82	Abnormality of the amniotic fluid	C0266781	1	205	0.0	0.000640625	PKLR
+83	Huntington's chorea	C0020179	1	320	0.0	0.0006484375	PKLR
+84	Abnormality of abdomen morphology	C4020869	1	505	0.0	0.00065625	PKLR
+85	Pancreatic Carcinoma	C0235974	1	1690	0.0	0.0006640625	PKLR
+86	Abnormality of the liver	C4021780	1	727	0.0	0.0006718750000000001	PKLR
+87	Discoid lupus erythematosus	C0024138	1	319	0.0	0.0006796875000000001	PKLR
+88	Symptomatic human immunodeficiency virus infection	C0019693	1	1900	0.0	0.0006875	PKLR
+89	Malaria	C0024530	1	539	0.0	0.0006953125	PKLR
+90	Neuroblastoma	C0700095	1	1612	0.0	0.000703125	PKLR
+91	Non-small cell lung carcinoma	C0007131	1	1993	0.0	0.0007109375	PKLR
+92	Breast carcinoma	C0678222	1	4281	0.0	0.00071875	PKLR
+93	Abnormality of the lymphatic system	C4021976	1	426	0.0	0.0007265625	PKLR
+94	Dystonia 2, torsion, autosomal recessive	C0013421	1	314	0.0	0.000734375	PKLR
+96	Abnormal gallbladder morphology	C4022904	1	54	0.0	0.00075	PKLR
+97	Creutzfeldt-Jakob Syndrome	C0022336	1	95	0.0	0.0007578125	PKLR
+98	Acquired CJD	C2931859	1	28	0.0	0.000765625	PKLR
+99	Hepatitis C, Chronic	C0524910	1	455	0.0	0.0007734375	PKLR
+100	Glioblastoma	C0017636	1	1645	0.0	0.00078125	PKLR
+101	T-cell lymphoma	C0079772	1	302	0.0	0.0007890625	PKLR
+102	Lupus Erythematosus, Systemic	C0024141	1	1467	0.0	0.0007968750000000001	PKLR
+103	Autosomal dominant non-syndromic sensorineural deafness type DFNA	C0443147	1	1262	0.0	0.0008046875000000001	PKLR
+104	Leukemia, Lymphocytic, Chronic, B-Cell	C0023418	1	1913	0.0	0.0008125000000000001	PKLR
+105	Precursor Cell Lymphoblastic Leukemia-Lymphoma	C1961102	1	854	0.0	0.0008203125	PKLR
+106	Abnormality of blood and blood-forming tissues	C0241657	1	1335	0.0	0.000828125	PKLR
+107	Senile plaques	C0333463	1	259	0.0	0.0008359375	PKLR
+108	Abnormality of the biliary system	C0940767	1	243	0.0	0.00084375	PKLR
+109	Chronic active hepatitis	C0520463	1	86	0.0	0.0008515625	PKLR
+110	Mammary adenocarcinoma	C3669246	1	37	0.0	0.000859375	PKLR
+111	Abnormality of the abdominal organs	C4021764	1	842	0.0	0.0008671875	PKLR
+112	Fatigue	C0015672	1	365	0.0	0.000875	PKLR
+113	Nonimmune hydrops fetalis	C0455988	1	26	0.0	0.0008828125	PKLR
+114	Abnormality of the immune system	C4021753	1	1164	0.0	0.000890625	PKLR
+115	Acute leukemia	C0085669	1	525	0.0	0.0008984375	PKLR
+116	Fanconi anemia	C0015625	1	249	0.0	0.00090625	PKLR
+117	{Systemic lupus erythematosus, susceptibility to, 8} (2)	C0409974	1	393	0.0	0.0009140625	PKLR
+118	Splenomegaly	C0038002	1	285	0.0	0.0009218750000000001	PKLR
+119	Lymphoma, Large B-Cell, Diffuse	C0024299	1	1362	0.0	0.0009296875000000001	PKLR
+120	Polycythemia	C0032461	1	81	0.0	0.0009375	PKLR
+121	Intrauterine growth retardation	C0015934	1	379	0.0	0.0009453125	PKLR
+122	Decrease in T cell count	C0392756	1	32	0.0	0.000953125	PKLR
+123	Polycystic kidney disease, autosomal dominant	C0022680	1	147	0.0	0.0009609375	PKLR
+124	Cholelithiasis	C0008350	1	171	0.0	0.00096875	PKLR
+125	Smallpox	C0037354	1	37	0.0	0.0009765625	PKLR
+126	Hydrops, lactic acidosis, and sideroblastic anemia	C0013604	1	335	0.0	0.000984375	PKLR
+127	Other disorders of the nervous system	C0027765	1	454	0.0	0.0009921875	PKLR
+128	Lymphoproliferative disorder	C0024314	1	236	0.0	0.001	PKLR

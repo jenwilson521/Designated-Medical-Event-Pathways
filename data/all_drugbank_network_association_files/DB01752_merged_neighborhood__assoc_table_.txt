@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+2	Spina bifida	C0080178	5	237	1.72802483434e-09	1.1363636363636365e-05	PCMT1,TRDMT1,PRMT1,GAMT,GNMT
+10	Non-alcoholic Fatty Liver Disease	C0400966	3	317	2.09287330035e-05	5.681818181818182e-05	PRMT3,PRMT1,GNMT
+16	Abnormality of sulfur amino acid metabolism	C4021660	1	25	8.27002240993e-05	9.090909090909092e-05	GNMT

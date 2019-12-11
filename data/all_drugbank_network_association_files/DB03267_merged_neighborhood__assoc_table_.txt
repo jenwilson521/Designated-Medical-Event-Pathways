@@ -1,0 +1,72 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Endotoxemia	C0376618	1	96	0.0	1.3513513513513515e-05	PCK1
+2	Abnormality of brain morphology	C4021085	1	1573	0.0	2.702702702702703e-05	PCK1
+3	Hepatocellular carcinoma	C2239176	1	3108	0.0	4.0540540540540545e-05	PCK1
+4	Functional respiratory abnormality	C4025677	1	722	0.0	5.405405405405406e-05	PCK1
+5	Liver Cirrhosis, Biliary	C0023890	1	919	0.0	6.756756756756757e-05	PCK1
+6	Diabetes mellitus type 2	C0011860	1	1972	0.0	8.108108108108109e-05	PCK1
+7	Morphological abnormality of the central nervous system	C4021765	1	1722	0.0	9.45945945945946e-05	PCK1
+8	Abnormality of the nervous system	C0497552	1	2512	0.0	0.00010810810810810812	PCK1
+9	Schizophrenia	C0036341	1	1947	0.0	0.00012162162162162163	PCK1
+10	Abnormality of the posterior segment of the globe	C4025354	1	810	0.0	0.00013513513513513514	PCK1
+11	Abnormality of the urinary system	C4021821	1	1136	0.0	0.00014864864864864866	PCK1
+12	Maturity-onset diabetes of the young, type 11	C0342276	1	112	0.0	0.00016216216216216218	PCK1
+13	Abnormality of T cell count	C1704258	1	903	0.0	0.00017567567567567568	PCK1
+14	Abnormal nervous system electrophysiology	C4021781	1	303	0.0	0.0001891891891891892	PCK1
+16	Neurodevelopmental abnormality	C0679378	1	1639	0.0	0.00021621621621621624	PCK1
+17	Abnormality of forebrain morphology	C4020967	1	1074	0.0	0.00022972972972972974	PCK1
+18	Abnormality of the abdominal organs	C4021764	1	842	0.0	0.00024324324324324326	PCK1
+19	Abnormality of the integument	C4025761	1	1665	0.0	0.0002567567567567567	PCK1
+20	Abnormality of the genitourinary system	C0042063	1	1555	0.0	0.0002702702702702703	PCK1
+21	Abnormality of the respiratory system	C4018871	1	1121	0.0	0.00028378378378378377	PCK1
+22	Abnormality of the cerebrum	C4021762	1	1054	0.0	0.0002972972972972973	PCK1
+23	Aplasia involving bones of the extremities	C0000846	1	1321	0.0	0.0003108108108108108	PCK1
+24	Seizures, Febrile	C0036572	1	1535	0.0	0.00032432432432432436	PCK1
+25	Abnormality of central nervous system electrophysiology	C4022597	1	232	0.0	0.00033783783783783786	PCK1
+26	Abnormality of the optic disc	C3808249	1	420	0.0	0.00035135135135135135	PCK1
+27	Abnormality of skin morphology	C4023528	1	1261	0.0	0.00036486486486486485	PCK1
+28	Obesity	C0028754	1	2181	0.0	0.0003783783783783784	PCK1
+29	Abnormal glucose homeostasis	C4023598	1	436	0.0	0.0003918918918918919	PCK1
+30	Brain atrophy	C0235946	1	395	0.0	0.00040540540540540544	PCK1
+31	Abnormality of the fundus	C4025804	1	807	0.0	0.00041891891891891893	PCK1
+32	Abnormality of digestive system physiology	C4293692	1	1132	0.0	0.0004324324324324325	PCK1
+33	Abnormality of nervous system physiology	C4022811	1	2307	0.0	0.000445945945945946	PCK1
+34	Decreased liver function	C0232744	1	157	0.0	0.00045945945945945947	PCK1
+35	Abnormality of carbohydrate metabolism/homeostasis	C4023599	1	491	0.0	0.00047297297297297297	PCK1
+36	Storage in hepatocytes	C0337174	1	90	0.0	0.0004864864864864865	PCK1
+37	Abnormality of the skin	C0037268	1	1376	0.0	0.0005	PCK1
+38	Abnormality of the liver	C4021780	1	727	0.0	0.0005135135135135135	PCK1
+39	EEG abnormality	C0151611	1	221	0.0	0.000527027027027027	PCK1
+40	Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	C0557874	1	964	0.0	0.0005405405405405405	PCK1
+41	Atrophy/Degeneration affecting the brainstem	C4055158	1	403	0.0	0.0005540540540540541	PCK1
+42	Abnormal pattern of respiration	C1837388	1	193	0.0	0.0005675675675675675	PCK1
+43	Metabolic Syndrome X	C0524620	1	638	0.0	0.0005810810810810811	PCK1
+44	Intrauterine growth retardation	C0015934	1	379	0.0	0.0005945945945945946	PCK1
+45	Cyanosis	C0010520	1	35	0.0	0.0006081081081081081	PCK1
+46	Abnormality of the upper urinary tract	C4023641	1	827	0.0	0.0006216216216216216	PCK1
+47	Alzheimer Disease	C0002395	1	1699	0.0	0.0006351351351351351	PCK1
+48	Onset	C0206132	1	713	0.0	0.0006486486486486487	PCK1
+49	Atherosclerosis	C0004153	1	1271	0.0	0.0006621621621621622	PCK1
+50	Abnormality of nervous system morphology	C4022810	1	1875	0.0	0.0006756756756756757	PCK1
+51	Dermatological manifestations of systemic disorders	C4025812	1	156	0.0	0.0006891891891891892	PCK1
+52	Neurodevelopmental delay	C4022738	1	1140	0.0	0.0007027027027027027	PCK1
+54	Abnormal eye morphology	C4022925	1	1529	0.0	0.0007297297297297297	PCK1
+56	Hepatic steatosis	C0015695	1	427	0.0	0.0007567567567567568	PCK1
+57	Abnormality of metabolism/homeostasis	C4021768	1	1607	0.0	0.0007702702702702703	PCK1
+58	Hypoglycemia, neonatal, simulating foetopathia diabetica	C0020615	1	265	0.0	0.0007837837837837838	PCK1
+59	Abnormality of the digestive system	C0266015	1	1679	0.0	0.0007972972972972973	PCK1
+60	Abnormality of the eye	C0015393	1	1900	0.0	0.0008108108108108109	PCK1
+61	Abnormality of the optic nerve	C0029131	1	505	0.0	0.0008243243243243243	PCK1
+62	Congenital anomalies of kidney and urinary tract 1, susceptibility to	C0266292	1	820	0.0	0.0008378378378378379	PCK1
+63	Brain very small	C0006104	1	328	0.0	0.0008513513513513513	PCK1
+64	Optic atrophy 10 with or without ataxia, mental retardation, and seizures	C0029124	1	402	0.0	0.000864864864864865	PCK1
+65	Lipid accumulation in hepatocytes	C1837257	1	90	0.0	0.0008783783783783784	PCK1
+66	Liver failure acute infantile	C0085605	1	223	0.0	0.000891891891891892	PCK1
+67	Kidney Failure, Chronic	C0022661	1	616	0.0	0.0009054054054054054	PCK1
+68	Abnormality of the globe	C4022923	1	1529	0.0	0.0009189189189189189	PCK1
+69	Autosomal recessive inheritance	C0441748	1	2006	0.0	0.0009324324324324325	PCK1
+70	Infantile-onset ascending hereditary spastic paralysis	C1848924	1	313	0.0	0.0009459459459459459	PCK1
+71	Generalized abnormality of skin	C4021157	1	712	0.0	0.0009594594594594595	PCK1
+72	Diabetes Mellitus, Type 1	C0011849	1	2081	0.0	0.000972972972972973	PCK1
+73	Abnormality of blood glucose concentration	C4023597	1	166	0.0	0.0009864864864864865	PCK1
+74	Apnea	C0003578	1	157	0.0	0.001	PCK1

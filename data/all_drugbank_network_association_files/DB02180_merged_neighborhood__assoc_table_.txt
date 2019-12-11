@@ -1,0 +1,6 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Hypogonadism, diabetes mellitus, alopecia, mental retardation and electrocardiographic abnormalities	C0020619	1	337	0.0	0.0002	NMT2
+2	Tobacco Use Disorder	C0040336	1	3066	0.0	0.0004	NMT2
+3	Epithelioma	C0553707	1	280	0.0	0.0006	NMT2
+4	Ovarian cyst	C0029927	1	116	0.0	0.0008	NMT2
+5	Brain neoplasm	C0006118	1	667	0.0	0.001	NMT2

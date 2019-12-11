@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+3	Polycythemia vera	C0032463	1	192	5.59461228037e-05	0.00042857142857142855	BCAT2
+4	Anemia, Sickle Cell	C0002895	1	271	0.000111626853036	0.0005714285714285714	BCAT2
+5	Precancerous Conditions	C0032927	1	455	0.000315139271945	0.0007142857142857143	BCAT2

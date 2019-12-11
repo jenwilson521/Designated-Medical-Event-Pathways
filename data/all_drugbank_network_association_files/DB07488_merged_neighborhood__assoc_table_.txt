@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Amyotrophic Lateral Sclerosis	C0002736	1	812	0.0	0.001	CSNK1G3

@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+7	Latent Tuberculosis	C1609538	1	25	9.13716145512e-06	0.0001590909090909091	CES1
+8	Inborn Errors of Metabolism	C0025521	1	70	7.3294953046e-05	0.00018181818181818183	CES1
+9	Spastic syndrome	C0270814	1	100	0.000149879548078	0.00020454545454545457	CES1
+10	Cocaine-Related Disorders	C0236736	1	117	0.000205197919293	0.00022727272727272727	CES1

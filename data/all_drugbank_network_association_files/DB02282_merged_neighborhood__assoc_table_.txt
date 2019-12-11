@@ -1,0 +1,69 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Osteosarcoma	C0585442	1	936	0.0	1.25e-05	MTAP
+2	Neoplasm of the skin	C0037286	1	438	0.0	2.5e-05	MTAP
+3	Retinoblastoma	C0035335	1	473	0.0	3.75e-05	MTAP
+4	Glioma	C0017638	1	1997	0.0	5e-05	MTAP
+5	Secondary hypertriglyceridemia	C0027627	1	3444	0.0	6.25e-05	MTAP
+6	Chondrosarcoma	C0008479	1	222	0.0	7.5e-05	MTAP
+7	Melanoma	C0025202	1	2386	0.0	8.75e-05	MTAP
+8	Lymphoma, Large B-Cell, Diffuse	C0024299	1	1362	0.0	0.0001	MTAP
+9	Precancerous Conditions	C0032927	1	455	0.0	0.00011250000000000001	MTAP
+10	Adenoma of large intestine	C1302401	1	257	0.0	0.000125	MTAP
+11	Hypertension	C0020538	1	1647	0.0	0.0001375	MTAP
+12	Diabetes mellitus type 2	C0011860	1	1972	0.0	0.00015	MTAP
+13	T-cell acute lymphoblastic leukemias	C1961099	1	371	0.0	0.00016250000000000002	MTAP
+14	Adenocarcinoma Of Esophagus	C0279628	1	300	0.0	0.000175	MTAP
+15	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	C0079744	1	568	0.0	0.0001875	MTAP
+16	Squamous cell carcinoma	C0007137	1	1855	0.0	0.0002	MTAP
+17	Neuroendocrine neoplasm	C0206754	1	252	0.0	0.0002125	MTAP
+18	Carcinoma of colon	C0699790	1	1856	0.0	0.00022500000000000002	MTAP
+19	Gastric Adenocarcinoma	C0278701	1	286	0.0	0.0002375	MTAP
+21	Malignant neoplasm of pancreas	C0346647	1	1625	0.0	0.00026250000000000004	MTAP
+22	Leukemia, Lymphocytic, Acute, L1	C0023452	1	388	0.0	0.000275	MTAP
+26	Severe combined immunodeficiency due to ADA deficiency	C0085110	1	545	0.0	0.00032500000000000004	MTAP
+27	Pancreatitis	C0030305	1	277	0.0	0.0003375	MTAP
+28	Adenomas, multiple colorectal, 608456 (3)	C0001430	1	975	0.0	0.00035	MTAP
+29	Pancreatic Carcinoma	C0235974	1	1690	0.0	0.0003625	MTAP
+30	Animal Mammary Neoplasms	C0024667	1	2352	0.0	0.000375	MTAP
+32	Pleural effusion	C0032227	1	137	0.0	0.0004	MTAP
+33	Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	C0334634	1	327	0.0	0.0004125	MTAP
+34	Pancreatic Neoplasms	C0030297	1	750	0.0	0.000425	MTAP
+35	Leukemia, Lymphocytic, Chronic, B-Cell	C0023418	1	1913	0.0	0.0004375	MTAP
+36	Precursor Cell Lymphoblastic Leukemia-Lymphoma	C1961102	1	854	0.0	0.00045000000000000004	MTAP
+37	Lung cancer	C0684249	1	2234	0.0	0.0004625	MTAP
+38	Acute myeloid leukemia	C0023467	1	1733	0.0	0.000475	MTAP
+39	Prostate carcinoma	C0600139	1	2734	0.0	0.0004875	MTAP
+40	Breast-ovarian cancer, familial 1	C0006142	1	4543	0.0	0.0005	MTAP
+41	Adult T-Cell Lymphoma/Leukemia	C0023493	1	469	0.0	0.0005124999999999999	MTAP
+44	Acute lymphoid leukemia	C0023449	1	824	0.0	0.00055	MTAP
+45	Prostatic Neoplasms	C0033578	1	1606	0.0	0.0005625000000000001	MTAP
+46	Gastrointestinal stromal tumor	C0238198	1	340	0.0	0.000575	MTAP
+47	Mesothelioma, malignant	C0025500	1	383	0.0	0.0005875	MTAP
+48	Myocardial Infarction	C0027051	1	1019	0.0	0.0006	MTAP
+49	Hyperkeratosis	C0870082	1	258	0.0	0.0006125000000000001	MTAP
+50	Leukemia, T-cell acute lymphoblastoid (2)	C0023492	1	348	0.0	0.000625	MTAP
+51	Hyperlipidemia, combined, 1	C0020473	1	293	0.0	0.0006374999999999999	MTAP
+52	Hepatic fibrosis	C0239946	1	416	0.0	0.0006500000000000001	MTAP
+53	Pleural Mesothelioma	C0812413	1	240	0.0	0.0006625	MTAP
+54	Diabetes Mellitus, Type 1	C0011849	1	2081	0.0	0.000675	MTAP
+55	Non-small cell lung carcinoma	C0007131	1	1993	0.0	0.0006875	MTAP
+57	Tumor Progression	C0178874	1	1969	0.0	0.0007125	MTAP
+59	Carcinogenesis	C0596263	1	3723	0.0	0.0007375000000000001	MTAP
+60	Cutaneous malignant melanoma 3	C0151779	1	264	0.0	0.00075	MTAP
+61	{Gastric cancer risk after H. pylori infection}, 137215 (3)	C0024623	1	2073	0.0	0.0007624999999999999	MTAP
+62	Malignant neoplasm of lung	C0242379	1	2460	0.0	0.0007750000000000001	MTAP
+64	Hereditary cutaneous melanoma	C1512419	1	45	0.0	0.0008	MTAP
+65	 Adenocarcinoma, ovarian, somatic, 167000 (3)	C0001418	1	1700	0.0	0.0008125000000000001	MTAP
+66	Laryngeal carcinoma	C0595989	1	184	0.0	0.000825	MTAP
+67	Hepatocellular carcinoma	C2239176	1	3108	0.0	0.0008375	MTAP
+69	Biliary Tract Cancer	C0750952	1	97	0.0	0.0008625000000000001	MTAP
+70	Brain Ischemia	C0007786	1	415	0.0	0.000875	MTAP
+71	Malignant tumor of prostate	C0376358	1	2940	0.0	0.0008874999999999999	MTAP
+72	Pancreatic adenocarcinoma	C0281361	1	320	0.0	0.0009000000000000001	MTAP
+73	Breast carcinoma	C0678222	1	4281	0.0	0.0009125	MTAP
+74	Chordoma	C0008487	1	83	0.0	0.000925	MTAP
+75	Laryngeal Squamous Cell Carcinoma	C0280324	1	134	0.0	0.0009375	MTAP
+77	Stomach cancer	C0699791	1	2109	0.0	0.0009625	MTAP
+78	Chronic liver disease	C0341439	1	144	0.0	0.000975	MTAP
+79	Nevus	C0497388	1	174	0.0	0.0009875	MTAP
+80	Melanocytic nevus	C0027962	1	185	0.0	0.001	MTAP

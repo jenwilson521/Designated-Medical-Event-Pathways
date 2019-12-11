@@ -1,0 +1,17 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Hypoglycemia, neonatal, simulating foetopathia diabetica	C0020615	1	265	0.0	5.555555555555555e-05	NNT
+2	Abnormal glucose homeostasis	C4023598	1	436	0.0	0.0001111111111111111	NNT
+3	IgA nephropathy, susceptibility to, 3	C0017661	1	650	0.0	0.00016666666666666666	NNT
+4	Abnormality of body weight	C4025357	1	970	0.0	0.0002222222222222222	NNT
+5	Failure to thrive	C0015544	1	622	0.0	0.0002777777777777778	NNT
+6	Obesity	C0028754	1	2181	0.0	0.0003333333333333333	NNT
+7	Glucose intolerance	C0271650	1	304	0.0	0.0003888888888888889	NNT
+8	Growth abnormality	C0262361	1	1578	0.0	0.0004444444444444444	NNT
+9	Hereditary pancreatitis	C0238339	1	377	0.0	0.0005	NNT
+10	Autosomal recessive inheritance	C0441748	1	2006	0.0	0.0005555555555555556	NNT
+11	Chronic hepatitis	C0019189	1	197	0.0	0.0006111111111111112	NNT
+12	Abnormality of blood glucose concentration	C4023597	1	166	0.0	0.0006666666666666666	NNT
+13	Abnormality of carbohydrate metabolism/homeostasis	C4023599	1	491	0.0	0.0007222222222222222	NNT
+14	Decreased body weight	C1262477	1	810	0.0	0.0007777777777777778	NNT
+16	Hepatitis B, Chronic	C0524909	1	272	0.0	0.0008888888888888888	NNT
+18	Abnormality of metabolism/homeostasis	C4021768	1	1607	0.0	0.001	NNT

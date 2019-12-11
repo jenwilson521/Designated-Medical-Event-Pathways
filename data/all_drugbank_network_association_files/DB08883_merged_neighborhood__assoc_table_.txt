@@ -1,0 +1,6 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+49	Hemorrhagic disorder due to intrinsic circulating anticoagulants	C0019087	3	32	3.28193432853e-06	2.3058823529411763e-05	F5,F8,SERPINA1
+80	Hereditary factor VIII deficiency disease	C0019069	4	105	2.23789851029e-05	3.764705882352941e-05	MCFD2,F5,F8,LMAN1
+81	Bleeding disorder, platelet-type, 21	C0005779	5	177	2.27260400728e-05	3.811764705882353e-05	MCFD2,F5,F8,SERPINA1,LMAN1
+105	Abnormality of coagulation	C1846821	4	113	3.18870744407e-05	4.941176470588235e-05	MCFD2,F5,F8,LMAN1
+107	Thromboembolism	C0040038	4	118	3.92535575204e-05	5.035294117647059e-05	CYP3A4,F5,F8,CYP3A5

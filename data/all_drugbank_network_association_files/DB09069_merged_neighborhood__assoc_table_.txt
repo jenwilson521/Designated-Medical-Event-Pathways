@@ -1,0 +1,10 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Diabetic Nephropathies	C0011881	1	616	0.0	8.333333333333333e-05	ACAA1
+2	Diabetes Mellitus, Type 1	C0011849	1	2081	0.0	0.00016666666666666666	ACAA1
+4	Colorectal cancer 1	C0009402	1	2543	0.0	0.0003333333333333333	ACAA1
+5	Allergic asthma	C0155877	1	200	0.0	0.0004166666666666667	ACAA1
+6	Colorectal cancer	C1527249	1	2681	0.0	0.0005	ACAA1
+8	Diabetes mellitus type 2	C0011860	1	1972	0.0	0.0006666666666666666	ACAA1
+9	Ketoacidosis	C0022638	1	57	0.0	0.00075	ACAA1
+11	Carotid Atherosclerosis	C0577631	1	111	0.0	0.0009166666666666666	ACAA1
+12	Adrenoleukodystrophy	C0162309	1	139	0.0	0.001	ACAA1

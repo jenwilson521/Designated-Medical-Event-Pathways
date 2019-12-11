@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+3	Chromosome 11p deletion syndrome	C0812435	2	25	2.97280241868e-07	1.948051948051948e-05	ABCC2,SLC22A8

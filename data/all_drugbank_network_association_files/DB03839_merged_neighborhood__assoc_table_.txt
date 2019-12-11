@@ -1,0 +1,11 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Carcinoma of cervix	C0302592	1	1045	0.0	8.333333333333333e-05	SLC16A10
+2	Malignant tumor of urinary bladder	C0005684	1	1371	0.0	0.00016666666666666666	SLC16A10
+3	Other disorders of the nervous system	C0027765	1	454	0.0	0.00025	SLC16A10
+4	Bladder carcinoma	C0699885	1	1087	0.0	0.0003333333333333333	SLC16A10
+5	Lymphoma, Follicular	C0024301	1	389	0.0	0.0004166666666666667	SLC16A10
+6	Malignant tumor of prostate	C0376358	1	2940	0.0	0.0005	SLC16A10
+7	Prostate carcinoma	C0600139	1	2734	0.0	0.0005833333333333334	SLC16A10
+8	Seizures, Febrile	C0036572	1	1535	0.0	0.0006666666666666666	SLC16A10
+10	Urinary Bladder Neoplasms	C0005695	1	463	0.0	0.0008333333333333334	SLC16A10
+12	Symptomatic human immunodeficiency virus infection	C0019693	1	1900	0.0	0.001	SLC16A10

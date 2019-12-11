@@ -1,0 +1,16 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Alcoholic Steatohepatitis	C2718067	1	40	0.0	6.25e-05	BCAT1
+2	Glioblastoma	C0017636	1	1645	0.0	0.000125	BCAT1
+3	Colorectal Neoplasms	C0009404	1	1164	0.0	0.0001875	BCAT1
+4	Tobacco Use Disorder	C0040336	1	3066	0.0	0.00025	BCAT1
+5	Nasopharyngeal carcinoma, susceptibility to, 3	C2931822	1	671	0.0	0.0003125	BCAT1
+6	IgA nephropathy, susceptibility to, 3	C0017661	1	650	0.0	0.000375	BCAT1
+7	Colorectal cancer 1	C0009402	1	2543	0.0	0.0004375	BCAT1
+8	Glioma	C0017638	1	1997	0.0	0.0005	BCAT1
+9	Increased body weight	C0043094	1	502	0.0	0.0005625000000000001	BCAT1
+10	Xenograft Model	C1520166	1	551	0.0	0.000625	BCAT1
+11	Colorectal cancer	C1527249	1	2681	0.0	0.0006875	BCAT1
+12	Diabetes mellitus type 1	C0011854	1	1104	0.0	0.00075	BCAT1
+13	Medulloblastoma	C0025149	1	543	0.0	0.0008125000000000001	BCAT1
+14	Non-Neoplastic Disorder	C1709246	1	461	0.0	0.000875	BCAT1
+16	Secondary hypertriglyceridemia	C0027627	1	3444	0.0	0.001	BCAT1

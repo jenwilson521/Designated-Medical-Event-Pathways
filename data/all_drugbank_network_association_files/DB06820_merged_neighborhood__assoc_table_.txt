@@ -1,0 +1,3 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+33	Nausea	C0027497	3	54	5.5109144202e-05	6.762295081967214e-05	CYP2D6,CYP1A2,CYP2C9
+34	Neoplasm of the larynx	C0023055	4	106	5.5333500505e-05	6.967213114754098e-05	CYP2D6,MGST1,CYP1A2,CYP2C9

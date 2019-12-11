@@ -1,0 +1,8 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Chronic Periodontitis	C0266929	1	182	0.0	0.000125	SLAMF7
+2	Gingival Diseases	C0017563	1	132	0.0	0.00025	SLAMF7
+3	Multiple Myeloma	C0026764	1	1236	0.0	0.000375	SLAMF7
+4	Lupus Erythematosus, Systemic	C0024141	1	1467	0.0	0.0005	SLAMF7
+5	Pulmonary Embolism	C0034065	1	133	0.0	0.000625	SLAMF7
+6	Periodontitis, Juvenile	C0031106	1	90	0.0	0.00075	SLAMF7
+7	Periodontitis	C0031099	1	331	0.0	0.000875	SLAMF7

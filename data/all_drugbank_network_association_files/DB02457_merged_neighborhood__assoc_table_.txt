@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Breast-ovarian cancer, familial 1	C0006142	1	4543	0.0	0.0002	LIPF
+2	Schizophrenia	C0036341	1	1947	0.0	0.0004	LIPF
+5	Breast carcinoma	C0678222	1	4281	0.0	0.001	LIPF

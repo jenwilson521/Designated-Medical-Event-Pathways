@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+14	Hippocampal sclerosis	C1504404	3	45	4.59717643853e-06	1.633605600933489e-05	ABCG2,ABCB1,ABCC1
+22	Pseudoxanthoma elasticum	C0473583	3	51	7.62587424641e-06	2.5670945157526253e-05	ABCC6,ABCG2,ABCC1
+23	Adverse drug events and drug allergies	C0041755	3	60	1.46359066425e-05	2.6837806301050176e-05	ABCG2,ABCB1,ABCC1

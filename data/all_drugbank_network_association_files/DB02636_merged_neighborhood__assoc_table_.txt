@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Ulcerative colitis	C0009324	1	837	0.0	0.00025	PLA2G2E
+2	Obesity	C0028754	1	2181	0.0	0.0005	PLA2G2E
+3	Symptomatic human immunodeficiency virus infection	C0019693	1	1900	0.0	0.00075	PLA2G2E
+4	Nasal polyposis	C0027430	1	236	0.0	0.001	PLA2G2E

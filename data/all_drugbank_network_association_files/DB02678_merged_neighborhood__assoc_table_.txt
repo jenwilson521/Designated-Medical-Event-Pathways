@@ -1,0 +1,25 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Carcinoma of cervix	C0302592	1	1045	0.0	4e-05	LGALS7B
+2	Secondary malignant neoplasm of pancreas	C3266877	1	1540	0.0	8e-05	LGALS7B
+3	Malignant tumor of cervix	C0007847	1	889	0.0	0.00012	LGALS7B
+4	Breast-ovarian cancer, familial 1	C0006142	1	4543	0.0	0.00016	LGALS7B
+5	Stomach Neoplasms	C0038356	1	916	0.0	0.0002	LGALS7B
+6	Tumor Progression	C0178874	1	1969	0.0	0.00024	LGALS7B
+7	Breast carcinoma	C0678222	1	4281	0.0	0.00028000000000000003	LGALS7B
+8	Bladder carcinoma	C0699885	1	1087	0.0	0.00032	LGALS7B
+9	Malignant tumor of urinary bladder	C0005684	1	1371	0.0	0.00035999999999999997	LGALS7B
+10	Stomach cancer	C0699791	1	2109	0.0	0.0004	LGALS7B
+11	Melanoma	C0025202	1	2386	0.0	0.00044	LGALS7B
+12	Neuroblastoma	C0700095	1	1612	0.0	0.00048	LGALS7B
+13	Secondary malignant neoplasm of lung	C0153676	1	614	0.0	0.0005200000000000001	LGALS7B
+14	Aggressive Non-Hodgkin Lymphoma	C1332225	1	33	0.0	0.0005600000000000001	LGALS7B
+15	Intraepithelial Neoplasia	C0878500	1	132	0.0	0.0006	LGALS7B
+16	Spots on skin	C0848332	1	198	0.0	0.00064	LGALS7B
+17	Secondary hypertriglyceridemia	C0027627	1	3444	0.0	0.00068	LGALS7B
+18	Carcinoma breast stage IV	C0278488	1	342	0.0	0.0007199999999999999	LGALS7B
+19	Lymphoma, Large B-Cell, Diffuse	C0024299	1	1362	0.0	0.00076	LGALS7B
+20	Squamous cell carcinoma	C0007137	1	1855	0.0	0.0008	LGALS7B
+21	Carcinoma of colon	C0699790	1	1856	0.0	0.00084	LGALS7B
+22	{Gastric cancer risk after H. pylori infection}, 137215 (3)	C0024623	1	2073	0.0	0.00088	LGALS7B
+23	Exanthema	C0015230	1	366	0.0	0.00092	LGALS7B
+25	Lymphatic Metastasis	C0024232	1	168	0.0	0.001	LGALS7B

@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+45	Mammographic breast density	C1268717	2	70	6.104804978e-05	6.955177743431221e-05	CYP1A2,CYP19A1

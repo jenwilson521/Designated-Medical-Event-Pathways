@@ -1,0 +1,97 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+2	Aggressive periodontitis, generalized	C1719495	1	38	0.0	2e-05	MMP8
+3	Glioma	C0017638	1	1997	0.0	3e-05	MMP8
+4	Pregnancy Complications, Hematologic	C0032964	1	133	0.0	4e-05	MMP8
+5	Premature Obstetric Labor	C0022876	1	203	0.0	5e-05	MMP8
+6	Hepatitis C, Chronic	C0524910	1	455	0.0	6e-05	MMP8
+7	Bronchiectasis	C0006267	1	117	0.0	7.000000000000001e-05	MMP8
+8	Diabetes Mellitus, Type 1	C0011849	1	2081	0.0	8e-05	MMP8
+9	Breast carcinoma	C0678222	1	4281	0.0	8.999999999999999e-05	MMP8
+10	Asthma	C0004096	1	1454	0.0	0.0001	MMP8
+11	Breast-ovarian cancer, familial 1	C0006142	1	4543	0.0	0.00011	MMP8
+12	Primary Myelofibrosis	C0001815	1	179	0.0	0.00012	MMP8
+13	Uterine leiomyoma	C0042133	1	331	0.0	0.00013000000000000002	MMP8
+14	Oral Submucous Fibrosis	C0029172	1	59	0.0	0.00014000000000000001	MMP8
+15	Aortic Aneurysm, Abdominal	C0162871	1	190	0.0	0.00015	MMP8
+16	Contact Dermatitis	C0011616	1	90	0.0	0.00016	MMP8
+17	Cardiovascular Diseases	C0007222	1	1029	0.0	0.00017	MMP8
+18	Fetal Diseases	C0015929	1	151	0.0	0.00017999999999999998	MMP8
+19	Keloid	C0022548	1	178	0.0	0.00019	MMP8
+20	Multiple Myeloma	C0026764	1	1236	0.0	0.0002	MMP8
+21	Liver Cirrhosis, Biliary	C0023890	1	919	0.0	0.00021	MMP8
+22	Preeclampsia/eclampsia 1	C0032914	1	371	0.0	0.00022	MMP8
+23	Coronary Artery Disease	C1956346	1	1366	0.0	0.00023	MMP8
+24	Periodontitis, Juvenile	C0031106	1	90	0.0	0.00024	MMP8
+25	Metabolic Syndrome X	C0524620	1	638	0.0	0.00025	MMP8
+26	Vascular Diseases	C0042373	1	410	0.0	0.00026000000000000003	MMP8
+27	Hepatic fibrosis	C0239946	1	416	0.0	0.00027	MMP8
+28	Aortic dissection	C0340643	1	63	0.0	0.00028000000000000003	MMP8
+29	Bleeding disorder, platelet-type, 21	C0005779	1	177	0.0	0.00029	MMP8
+31	Carcinogenesis	C0596263	1	3723	0.0	0.00031	MMP8
+32	 Adenocarcinoma, ovarian, somatic, 167000 (3)	C0001418	1	1700	0.0	0.00032	MMP8
+33	Secondary malignant neoplasm of lung	C0153676	1	614	0.0	0.00033	MMP8
+34	Major depressive disorder	C1269683	1	489	0.0	0.00034	MMP8
+35	Carotid Atherosclerosis	C0577631	1	111	0.0	0.00035	MMP8
+36	Rheumatoid arthritis	C0003873	1	1856	0.0	0.00035999999999999997	MMP8
+37	Animal Mammary Neoplasms	C0024667	1	2352	0.0	0.00037	MMP8
+38	Connective Tissue Diseases	C0009782	1	196	0.0	0.00038	MMP8
+40	Superficial ulcer	C0333307	1	134	0.0	0.0004	MMP8
+41	Bacterial Vaginosis	C0085166	1	47	0.0	0.00041	MMP8
+42	Secondary hypertriglyceridemia	C0027627	1	3444	0.0	0.00042	MMP8
+43	Lung Neoplasms	C0024121	1	1155	0.0	0.00043	MMP8
+44	Dermatosis NOS	C0037274	1	483	0.0	0.00044	MMP8
+45	Tongue Carcinoma	C0558353	1	54	0.0	0.00045000000000000004	MMP8
+47	Displacement of intervertebral disc	C0021818	1	42	0.0	0.00047	MMP8
+48	Diabetic Nephropathies	C0011881	1	616	0.0	0.00048	MMP8
+49	Lung cancer	C0684249	1	2234	0.0	0.00049	MMP8
+50	Inflammation	C0021368	1	647	0.0	0.0005	MMP8
+51	Malignant neoplasm of tongue	C0153349	1	50	0.0	0.00051	MMP8
+52	Coronary heart disease 7	C0010054	1	754	0.0	0.0005200000000000001	MMP8
+53	Cancer of Head and Neck	C0278996	1	430	0.0	0.0005300000000000001	MMP8
+54	Myelofibrosis	C0026987	1	102	0.0	0.00054	MMP8
+55	Basal cell carcinoma	C0007117	1	136	0.0	0.00055	MMP8
+56	Gingival Diseases	C0017563	1	132	0.0	0.0005600000000000001	MMP8
+57	Chronic Periodontitis	C0266929	1	182	0.0	0.00057	MMP8
+58	Malignant neoplasm of lung	C0242379	1	2460	0.0	0.00058	MMP8
+59	Melanoma	C0025202	1	2386	0.0	0.00059	MMP8
+60	Superinfection	C0038826	1	33	0.0	0.0006	MMP8
+61	Pulmonary Disease, Chronic Obstructive	C0024115	1	377	0.0	0.00061	MMP8
+62	Musculoskeletal Diseases	C0026857	1	132	0.0	0.00062	MMP8
+63	Aortic aneurysm, familial thoracic 11, susceptibility to	C0003486	1	229	0.0	0.00063	MMP8
+64	Verotoxigenic Escherichia coli gastrointestinal tract infection	C0009450	1	1111	0.0	0.00064	MMP8
+65	Sarcoma, Ewing	C1261473	1	829	0.0	0.0006500000000000001	MMP8
+66	Squamous cell carcinoma	C0007137	1	1855	0.0	0.00066	MMP8
+67	Heart Failure	C0018801	1	803	0.0	0.00067	MMP8
+68	Chronic myeloid leukemia	C0023473	1	822	0.0	0.00068	MMP8
+69	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	C1140680	1	1967	0.0	0.00069	MMP8
+70	Gallbladder disease 4	C0012634	1	785	0.0	0.0007	MMP8
+71	Periodontitis	C0031099	1	331	0.0	0.00071	MMP8
+72	Nephritis	C0027697	1	178	0.0	0.0007199999999999999	MMP8
+73	Breast Cancer Model	C1511291	1	74	0.0	0.00073	MMP8
+74	Unipolar Depression	C0041696	1	406	0.0	0.00074	MMP8
+75	Chorioamnionitis	C0008495	1	195	0.0	0.00075	MMP8
+76	Neoplasm of the skin	C0037286	1	438	0.0	0.00076	MMP8
+77	Multiple Sclerosis	C0026769	1	1140	0.0	0.0007700000000000001	MMP8
+78	Bronchiolitis Obliterans	C0006272	1	61	0.0	0.0007800000000000001	MMP8
+79	Airway Obstruction	C0001883	1	49	0.0	0.00079	MMP8
+80	Malignant tumor of urinary bladder	C0005684	1	1371	0.0	0.0008	MMP8
+81	Atherosclerosis	C0004153	1	1271	0.0	0.0008100000000000001	MMP8
+82	Hepatocellular carcinoma	C2239176	1	3108	0.0	0.00082	MMP8
+83	Experimental Autoimmune Encephalomyelitis	C0014072	1	389	0.0	0.00083	MMP8
+84	Fetal Membranes, Premature Rupture	C0015943	1	194	0.0	0.00084	MMP8
+85	Arthralgia	C0003862	1	149	0.0	0.00085	MMP8
+86	Pneumonia	C0032285	1	471	0.0	0.00086	MMP8
+87	Sepsis	C0243026	1	602	0.0	0.00087	MMP8
+88	Epilepsy	C0014544	1	673	0.0	0.00088	MMP8
+89	Premature Birth	C0151526	1	376	0.0	0.0008900000000000001	MMP8
+90	Ovarian epithelial cancer	C0677886	1	2172	0.0	0.0009000000000000001	MMP8
+91	Osteoarthritis	C0029408	1	942	0.0	0.00091	MMP8
+92	Secondary malignant neoplasm of pancreas	C3266877	1	1540	0.0	0.00092	MMP8
+93	Leiomyoma	C0023267	1	316	0.0	0.00093	MMP8
+94	Skin cancer	C0007114	1	222	0.0	0.00094	MMP8
+95	Arteriosclerosis	C0003850	1	1059	0.0	0.00095	MMP8
+96	Septicemia	C0036690	1	387	0.0	0.00096	MMP8
+97	{Aneurysm, familial abdominal 3} (2)	C0002940	1	151	0.0	0.0009699999999999999	MMP8
+98	Chronic Lymphocytic Leukemia	C0023434	1	1176	0.0	0.00098	MMP8
+99	Dissecting aneurysm of the thoracic aorta	C0729233	1	174	0.0	0.00099	MMP8
+100	Epiphyseal dysplasia, multiple, with myopia and conductive deafness	C0027092	1	363	0.0	0.001	MMP8

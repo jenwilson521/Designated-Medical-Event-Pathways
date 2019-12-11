@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+14	Severe myoclonic epilepsy in infancy	C0751122	3	30	4.30812357011e-07	1.7654476670870114e-05	CYP2C19,SCN1A,GABRA1
+35	Idiopathic generalized epilepsy	C0270850	3	61	7.82364874807e-06	4.413619167717529e-05	SCN1A,GABRA1,GRIK1
+42	Primary malignant neoplasm of liver	C0024620	2	25	1.86535189173e-05	5.2963430012610346e-05	CYP2C19,CYP3A4
+43	Absence seizures	C0014553	3	81	2.41912912794e-05	5.4224464060529636e-05	SCN1A,GABRA1,GRIK1

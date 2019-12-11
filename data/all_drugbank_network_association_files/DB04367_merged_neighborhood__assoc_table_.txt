@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+2	Helminthiasis	C0018889	1	63	5.9589747804e-06	6.25e-05	CLK1
+3	Schwannoma	C0027809	1	132	2.63804057121e-05	9.375e-05	TNK2
+4	androgen independent prostate cancer	C1654637	1	156	3.6888610726e-05	0.000125	TNK2
+5	Bronchopulmonary Dysplasia	C0006287	1	237	8.5328871883e-05	0.00015625	TNK2

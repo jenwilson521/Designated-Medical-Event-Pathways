@@ -1,0 +1,25 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Chronic kidney disease	C1561643	1	342	0.0	4e-05	FABP1
+2	Lipoidosis	C0023794	1	38	0.0	8e-05	FABP1
+3	Kidney Diseases	C0022658	1	755	0.0	0.00012	FABP1
+5	Anemia	C0002871	1	627	0.0	0.0002	FABP1
+6	Malabsorption	C0024523	1	224	0.0	0.00024	FABP1
+7	Kidney Failure, Chronic	C0022661	1	616	0.0	0.00028000000000000003	FABP1
+8	Hypogonadotropic hypogonadism 7 with or without anosmia	C0022735	1	183	0.0	0.00032	FABP1
+9	Asthma	C0004096	1	1454	0.0	0.00035999999999999997	FABP1
+10	Hepatocellular adenoma	C0206669	1	49	0.0	0.0004	FABP1
+11	Chronic Kidney Insufficiency	C0403447	1	186	0.0	0.00044	FABP1
+12	Hyperglycemia	C0020456	1	459	0.0	0.00048	FABP1
+13	Maturity-onset diabetes of the young, type 11	C0342276	1	112	0.0	0.0005200000000000001	FABP1
+14	Diabetes mellitus type 2	C0011860	1	1972	0.0	0.0005600000000000001	FABP1
+15	Metabolic Syndrome X	C0524620	1	638	0.0	0.0006	FABP1
+16	Hepatocellular carcinoma	C2239176	1	3108	0.0	0.00064	FABP1
+17	IgA nephropathy, susceptibility to, 3	C0017661	1	650	0.0	0.00068	FABP1
+18	Diabetic Nephropathies	C0011881	1	616	0.0	0.0007199999999999999	FABP1
+19	Acute kidney injury	C0022660	1	270	0.0	0.00076	FABP1
+20	Hepatic steatosis	C0015695	1	427	0.0	0.0008	FABP1
+21	Hyperlipidemia, combined, 1	C0020473	1	293	0.0	0.00084	FABP1
+22	Ureteral obstruction	C0041956	1	154	0.0	0.00088	FABP1
+23	Nasal polyposis	C0027430	1	236	0.0	0.00092	FABP1
+24	Obesity	C0028754	1	2181	0.0	0.00096	FABP1
+25	Ischaemic cerebral infarction	C0007785	1	297	0.0	0.001	FABP1

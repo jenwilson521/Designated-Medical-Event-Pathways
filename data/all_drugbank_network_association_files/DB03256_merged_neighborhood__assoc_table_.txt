@@ -1,0 +1,37 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Abnormality of carboxylic acid metabolism	C4025344	1	197	0.0	2.325581395348837e-05	FTCD
+2	Abnormality of the nervous system	C0497552	1	2512	0.0	4.651162790697674e-05	FTCD
+3	Abnormality of nervous system physiology	C4022811	1	2307	0.0	6.976744186046511e-05	FTCD
+4	Abnormality of granulocytes	C0427515	1	178	0.0	9.302325581395348e-05	FTCD
+5	Macrocytic anemia	C0002886	1	48	0.0	0.00011627906976744187	FTCD
+7	Abnormality of amino acid metabolism	C1328440	1	172	0.0	0.00016279069767441862	FTCD
+9	Abnormality of erythrocytes	C0391870	1	374	0.0	0.00020930232558139536	FTCD
+10	Abnormality of the urinary system	C4021821	1	1136	0.0	0.00023255813953488373	FTCD
+12	Abnormality of urine homeostasis	C4025655	1	409	0.0	0.00027906976744186045	FTCD
+14	Hepatocellular carcinoma	C2239176	1	3108	0.0	0.00032558139534883724	FTCD
+15	Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	C0002888	1	30	0.0	0.0003488372093023256	FTCD
+16	Abnormality of the immune system	C4021753	1	1164	0.0	0.00037209302325581393	FTCD
+17	Growth abnormality	C0262361	1	1578	0.0	0.00039534883720930233	FTCD
+18	Intellectual developmental disorder with dysmorphic facies and ptosis	C3714756	1	1371	0.0	0.0004186046511627907	FTCD
+19	Nodule	C0028259	1	116	0.0	0.00044186046511627907	FTCD
+20	Aminoaciduria	C0238621	1	120	0.0	0.00046511627906976747	FTCD
+21	3-Methylglutaconic aciduria	C0278026	1	188	0.0	0.0004883720930232558	FTCD
+22	Neurodevelopmental abnormality	C0679378	1	1639	0.0	0.0005116279069767442	FTCD
+23	Anemia	C0002871	1	627	0.0	0.0005348837209302325	FTCD
+24	Abnormality of the urinary system physiology	C4023437	1	654	0.0	0.0005581395348837209	FTCD
+25	Abnormal leukocyte count	C0152009	1	406	0.0	0.0005813953488372093	FTCD
+26	Abnormality of cellular immune system	C4023612	1	406	0.0	0.0006046511627906977	FTCD
+27	Growth delay	C0456070	1	1102	0.0	0.0006279069767441861	FTCD
+28	Spina bifida	C0080178	1	237	0.0	0.0006511627906976745	FTCD
+29	Abnormality of metabolism/homeostasis	C4021768	1	1607	0.0	0.0006744186046511628	FTCD
+30	Burkitt lymphoma	C0006413	1	210	0.0	0.0006976744186046512	FTCD
+31	Alzheimer Disease	C0002395	1	1699	0.0	0.0007209302325581395	FTCD
+33	Cleft Lip	C0008924	1	345	0.0	0.0007674418604651164	FTCD
+34	Abnormality of blood and blood-forming tissues	C0241657	1	1335	0.0	0.0007906976744186047	FTCD
+35	Hepatitis, Autoimmune	C0241910	1	123	0.0	0.0008139534883720931	FTCD
+36	Anemia of inadequate production	C0678199	1	108	0.0	0.0008372093023255815	FTCD
+38	Abnormality of myeloid leukocytes	C4023618	1	197	0.0	0.0008837209302325581	FTCD
+40	Cleft Palate	C0008925	1	571	0.0	0.0009302325581395349	FTCD
+41	Benign neoplasm of other endocrine glands	C0086692	1	213	0.0	0.0009534883720930233	FTCD
+42	Autosomal recessive inheritance	C0441748	1	2006	0.0	0.0009767441860465116	FTCD
+43	Abnormality of the genitourinary system	C0042063	1	1555	0.0	0.001	FTCD

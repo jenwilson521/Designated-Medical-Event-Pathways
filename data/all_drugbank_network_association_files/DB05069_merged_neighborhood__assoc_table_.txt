@@ -1,0 +1,7 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Tobacco Use Disorder	C0040336	1	3066	0.0	0.00016666666666666666	CHRNA9
+2	Increased body weight	C0043094	1	502	0.0	0.0003333333333333333	CHRNA9
+3	Weight Gain Adverse Event	C2911647	1	151	0.0	0.0005	CHRNA9
+4	Breast carcinoma	C0678222	1	4281	0.0	0.0006666666666666666	CHRNA9
+5	Scleroderma	C0036421	1	573	0.0	0.0008333333333333334	CHRNA9
+6	Breast-ovarian cancer, familial 1	C0006142	1	4543	0.0	0.001	CHRNA9

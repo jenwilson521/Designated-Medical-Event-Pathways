@@ -1,0 +1,7 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+9	Cocaine delirium	C0011206	2	35	3.54019773774e-06	1.7441860465116278e-05	CYP3A4,NR3C1
+11	21-hydroxylase deficiency	C1291314	2	40	5.32919949203e-06	2.131782945736434e-05	CYP3A4,NR3C1
+17	Bone necrosis	C0029445	2	45	7.63270243187e-06	3.294573643410853e-05	CYP3A4,NR3C1
+27	Adrenal hyperplasia	C0342492	2	63	2.11473467231e-05	5.232558139534884e-05	CYP3A4,NR3C1
+41	Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	C0271561	2	91	6.36940498309e-05	7.945736434108528e-05	CYP3A4,NR3C1
+42	Alcohol abuse	C0085762	2	95	7.24091051582e-05	8.139534883720931e-05	CYP3A4,NR3C1

@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+13	Cholecystolithiasis	C0947622	3	86	5.73734605624e-06	2.9411764705882354e-05	SLCO1A2,CYP1A1,SLCO1B1

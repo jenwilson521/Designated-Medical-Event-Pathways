@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+16	Steroid-sensitive nephrotic syndrome	C0403396	2	27	6.12323505955e-06	1.9393939393939395e-05	NR3C1,ABCB1
+17	Proteinuria Adverse Event	C1962972	2	29	7.63548336491e-06	2.0606060606060608e-05	NR3C1,PGR
+30	Manic	C0564408	2	45	2.92240534479e-05	3.6363636363636364e-05	NR3C1,ABCB1
+31	Bone necrosis	C0029445	2	45	2.92240534479e-05	3.757575757575758e-05	NR3C1,ABCB1

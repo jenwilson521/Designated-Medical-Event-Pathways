@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+27	Drug Allergy	C0013182	7	79	1.32042132117e-07	2.0626432391138274e-05	SLCO1B1,CYP2C9,CYP2C19,CYP3A4,CYP2C8,PTGS1,CYP2D6

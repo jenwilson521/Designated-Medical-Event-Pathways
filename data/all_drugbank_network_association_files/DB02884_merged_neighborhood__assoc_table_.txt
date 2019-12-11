@@ -1,0 +1,8 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	 Adenocarcinoma, ovarian, somatic, 167000 (3)	C0001418	1	1700	0.0	8.333333333333333e-05	ZFY
+4	46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	C0041408	1	164	0.0	0.0003333333333333333	ZFY
+6	Down Syndrome	C0013080	1	476	0.0	0.0005	ZFY
+7	Adenocarcinoma of prostate	C0007112	1	161	0.0	0.0005833333333333334	ZFY
+9	Penile hypospadias	C1691215	1	56	0.0	0.00075	ZFY
+10	Hypospadias	C0848558	1	279	0.0	0.0008333333333333334	ZFY
+11	Complete trisomy 18 syndrome	C0152096	1	36	0.0	0.0009166666666666666	ZFY

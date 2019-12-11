@@ -1,0 +1,28 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+2	Abnormality of circulating enzyme level	C4023591	1	194	0.0	5.882352941176471e-05	PGAM2
+4	Abnormality of circulating protein level	C4023679	1	274	0.0	0.00011764705882352942	PGAM2
+5	Muscle cramps	C0026821	1	87	0.0	0.00014705882352941178	PGAM2
+6	Abnormality of the musculature	C4021745	1	1765	0.0	0.00017647058823529413	PGAM2
+7	Abnormality of the urinary system	C4021821	1	1136	0.0	0.00020588235294117645	PGAM2
+8	Glycogen storage disease	C0017919	1	36	0.0	0.00023529411764705883	PGAM2
+9	Constitutional symptom	C0009812	1	572	0.0	0.0002647058823529412	PGAM2
+10	Abnormality of metabolism/homeostasis	C4021768	1	1607	0.0	0.00029411764705882356	PGAM2
+11	Pain	C0030193	1	628	0.0	0.0003235294117647059	PGAM2
+12	Autosomal recessive inheritance	C0441748	1	2006	0.0	0.00035294117647058826	PGAM2
+13	Rhabdomyolysis	C0035410	1	33	0.0	0.00038235294117647055	PGAM2
+14	Congenital anomalies of kidney and urinary tract 1, susceptibility to	C0266292	1	820	0.0	0.0004117647058823529	PGAM2
+15	Abnormality of muscle morphology	C4023181	1	942	0.0	0.0004411764705882353	PGAM2
+16	Abnormality of the urinary system physiology	C4023437	1	654	0.0	0.00047058823529411766	PGAM2
+17	Abnormality of muscle physiology	C4023182	1	1477	0.0	0.0005	PGAM2
+19	Abnormality of the genitourinary system	C0042063	1	1555	0.0	0.0005588235294117647	PGAM2
+20	Abnormal QRS complex	C0205161	1	1098	0.0	0.0005882352941176471	PGAM2
+22	Renal insufficiency	C1565489	1	351	0.0	0.0006470588235294118	PGAM2
+23	Elevated serum creatine phosphokinase	C0241005	1	195	0.0	0.0006764705882352942	PGAM2
+25	Functional motor problems	C4025360	1	159	0.0	0.0007352941176470589	PGAM2
+27	Abnormality of urine homeostasis	C4025655	1	409	0.0	0.0007941176470588235	PGAM2
+28	Prostatic Neoplasms	C0033578	1	1606	0.0	0.0008235294117647058	PGAM2
+29	Abnormal renal physiology	C0151746	1	429	0.0	0.0008529411764705882	PGAM2
+30	Exercise intolerance, riboflavin-responsive	C0424551	1	96	0.0	0.0008823529411764706	PGAM2
+31	Myopathy, scapulohumeroperoneal	C0026848	1	450	0.0	0.0009117647058823529	PGAM2
+32	Myalgia	C0231528	1	122	0.0	0.0009411764705882353	PGAM2
+34	Abnormality of the upper urinary tract	C4023641	1	827	0.0	0.001	PGAM2

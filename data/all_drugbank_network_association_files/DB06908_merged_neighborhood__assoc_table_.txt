@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+5	 Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	C0206081	3	68	1.02789469536e-06	5.6625141562853905e-06	PPARG,HDAC3,NCOR1
+8	Uterine leiomyoma	C0042133	5	331	1.64950085169e-06	9.060022650056626e-06	CDK19,PPARG,RXRA,NCOR2,NCOR1
+29	Coronary Restenosis	C0948480	2	49	2.32416181891e-05	3.2842582106455264e-05	PPARG,RXRA
+30	Leiomyoma	C0023267	4	316	2.58375767644e-05	3.397508493771234e-05	PPARG,RXRA,NCOR2,NCOR1

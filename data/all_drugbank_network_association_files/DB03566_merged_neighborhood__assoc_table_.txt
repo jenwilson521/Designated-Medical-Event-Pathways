@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+6	Intrahepatic cholestasis	C0008372	2	60	6.70457902541e-06	2.2304832713754645e-05	TXNRD1,SLC22A1
+12	Contact Dermatitis	C0011616	2	90	2.27554440853e-05	4.460966542750929e-05	TXNRD1,TXN
+19	Myocarditis	C0027059	2	112	4.37786363133e-05	7.063197026022306e-05	SLC22A4,TXN

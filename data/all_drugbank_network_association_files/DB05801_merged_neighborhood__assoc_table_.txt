@@ -1,0 +1,6 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+2	Amyotrophic Lateral Sclerosis, Sporadic	C1862941	1	78	2.74336196622e-05	3.7037037037037037e-05	RRM2
+3	Adenocarcinoma, Clear Cell	C0206681	1	94	3.99140649191e-05	5.555555555555555e-05	RRM2
+4	Cystitis	C0010692	1	100	4.51941746642e-05	7.407407407407407e-05	RRM2
+5	 Frontotemporal lobar degeneration, TARDBP-related, 612069 (3)	C0751072	1	108	5.27429259283e-05	9.259259259259259e-05	RRM2
+6	Frontotemporal dementia	C0338451	1	148	9.91931420157e-05	0.0001111111111111111	RRM2

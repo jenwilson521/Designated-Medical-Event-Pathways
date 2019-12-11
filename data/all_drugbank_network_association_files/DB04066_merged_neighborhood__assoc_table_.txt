@@ -1,0 +1,10 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Neoplasms, Experimental	C0027659	1	58	0.0	0.0001111111111111111	PTGR1
+2	Malignant mesothelioma	C0345967	1	266	0.0	0.0002222222222222222	PTGR1
+3	Hepatocellular carcinoma	C2239176	1	3108	0.0	0.0003333333333333333	PTGR1
+4	Malignant neoplasm of lung	C0242379	1	2460	0.0	0.0004444444444444444	PTGR1
+5	Hepatocarcinogenesis	C1512409	1	471	0.0	0.0005555555555555556	PTGR1
+6	Lung cancer	C0684249	1	2234	0.0	0.0006666666666666666	PTGR1
+7	Neoplasm of the liver	C0023903	1	1290	0.0	0.0007777777777777778	PTGR1
+8	Invasive breast carcinoma	C0853879	1	369	0.0	0.0008888888888888888	PTGR1
+9	 Adenocarcinoma, ovarian, somatic, 167000 (3)	C0001418	1	1700	0.0	0.001	PTGR1

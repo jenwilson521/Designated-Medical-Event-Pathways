@@ -1,0 +1,11 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Ovarian epithelial cancer	C0677886	1	2172	0.0	0.0001	BST1
+2	Autism 15	C0004352	1	868	0.0	0.0002	BST1
+3	Inflammation	C0021368	1	647	0.0	0.0003	BST1
+4	Tumor Progression	C0178874	1	1969	0.0	0.0004	BST1
+5	B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	C1292769	1	385	0.0	0.0005	BST1
+6	Secondary hypertriglyceridemia	C0027627	1	3444	0.0	0.0006	BST1
+7	Asthma	C0004096	1	1454	0.0	0.0007	BST1
+8	Pulmonary Disease, Chronic Obstructive	C0024115	1	377	0.0	0.0008	BST1
+9	Rheumatoid arthritis	C0003873	1	1856	0.0	0.0009000000000000001	BST1
+10	Parkinson Disease	C0030567	1	789	0.0	0.001	BST1

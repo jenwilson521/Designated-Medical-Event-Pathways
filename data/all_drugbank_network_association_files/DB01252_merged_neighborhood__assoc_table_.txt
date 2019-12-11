@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+16	 Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	C0206081	3	68	5.70139160161e-06	1.5080113100848256e-05	PPARG,NCOR1,HDAC3
+17	Mammographic breast density	C1268717	3	70	6.4030667537e-06	1.6022620169651273e-05	UGT2B7,PPARG,UGT1A3
+25	Pseudomonas aeruginosa infection	C0854135	2	25	1.06072444137e-05	2.35626767200754e-05	ABCC8,PPARG
+31	Insulin-resistant diabetes mellitus AND acanthosis nigricans	C0854110	2	32	2.26832612114e-05	2.9217719132893498e-05	ABCC8,PPARG

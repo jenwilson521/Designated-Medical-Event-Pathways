@@ -1,0 +1,19 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Tobacco Use Disorder	C0040336	1	3066	0.0	5e-05	LAP3
+2	Hereditary factor VIII deficiency disease	C0019069	1	105	0.0	0.0001	LAP3
+3	Acute Coronary Syndrome	C0948089	1	320	0.0	0.00015	LAP3
+4	Hemophilia, NOS	C0684275	1	49	0.0	0.0002	LAP3
+5	Essential thrombocythemia	C0040028	1	150	0.0	0.00025	LAP3
+6	Juvenile neuronal ceroid lipofuscinosis	C0751383	1	35	0.0	0.0003	LAP3
+8	Colitis, Ulcerative	C0009319	1	679	0.0	0.0004	LAP3
+9	Squamous cell carcinoma	C0007137	1	1855	0.0	0.00045000000000000004	LAP3
+10	Severe combined immunodeficiency due to ADA deficiency	C0085110	1	545	0.0	0.0005	LAP3
+11	Rheumatoid arthritis	C0003873	1	1856	0.0	0.00055	LAP3
+12	CADASIL	C0751587	1	41	0.0	0.0006	LAP3
+13	Carcinoma breast stage IV	C0278488	1	342	0.0	0.0006500000000000001	LAP3
+14	Breast-ovarian cancer, familial 1	C0006142	1	4543	0.0	0.0007	LAP3
+15	Chronic Lymphocytic Leukemia	C0023434	1	1176	0.0	0.00075	LAP3
+16	Neuroblastoma	C0700095	1	1612	0.0	0.0008	LAP3
+17	Chronic Periodontitis	C0266929	1	182	0.0	0.00085	LAP3
+18	Acute myeloid leukemia	C0023467	1	1733	0.0	0.0009000000000000001	LAP3
+20	Leukemia, Lymphocytic, Chronic, B-Cell	C0023418	1	1913	0.0	0.001	LAP3

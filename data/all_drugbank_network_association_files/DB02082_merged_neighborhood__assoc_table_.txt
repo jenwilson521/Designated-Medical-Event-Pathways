@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	IgA nephropathy, susceptibility to, 3	C0017661	1	650	0.0	0.0005	RAB8B

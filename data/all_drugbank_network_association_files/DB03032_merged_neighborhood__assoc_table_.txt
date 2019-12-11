@@ -1,0 +1,17 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Malignant neoplasm of lung	C0242379	1	2460	0.0	6.25e-05	GSTM4
+2	Neurodegenerative Diseases	C0524851	1	706	0.0	0.000125	GSTM4
+3	Sarcoma, Ewing	C1261473	1	829	0.0	0.0001875	GSTM4
+4	Hypertension	C0020538	1	1647	0.0	0.00025	GSTM4
+5	 Adenocarcinoma, ovarian, somatic, 167000 (3)	C0001418	1	1700	0.0	0.0003125	GSTM4
+6	Prenatal Exposure Delayed Effects	C0033054	1	52	0.0	0.000375	GSTM4
+7	Coronary Artery Disease	C1956346	1	1366	0.0	0.0004375	GSTM4
+8	Hearing impairment	C1384666	1	1031	0.0	0.0005	GSTM4
+9	Breast-ovarian cancer, familial 1	C0006142	1	4543	0.0	0.0005625000000000001	GSTM4
+10	Deafness, autosomal recessive 44	C0011053	1	257	0.0	0.000625	GSTM4
+11	Lung Neoplasms	C0024121	1	1155	0.0	0.0006875	GSTM4
+12	Lung cancer	C0684249	1	2234	0.0	0.00075	GSTM4
+13	Atherosclerosis	C0004153	1	1271	0.0	0.0008125000000000001	GSTM4
+14	Cancer of Head and Neck	C0278996	1	430	0.0	0.000875	GSTM4
+15	Ovarian epithelial cancer	C0677886	1	2172	0.0	0.0009375	GSTM4
+16	Hearing Loss, Partial	C0018772	1	150	0.0	0.001	GSTM4

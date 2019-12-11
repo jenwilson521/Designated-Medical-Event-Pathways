@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+19	Primary malignant neoplasm of liver	C0024620	4	25	3.22572883737e-07	1.9791666666666665e-05	CYP2D6,CYP3A4,ABCB1,CYP3A5
+22	Squamous Cell Neoplasms	C0206720	4	29	7.07302557079e-07	2.2916666666666667e-05	CYP3A4,CYP1A1,CYP3A5,CYP2E1
+28	Pain insensitivity	C0344307	4	52	1.38782840124e-05	2.9166666666666666e-05	CYP2D6,CYP3A4,ABCB1,CYP3A5

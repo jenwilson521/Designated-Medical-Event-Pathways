@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+19	Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	C0740394	2	69	7.21890388207e-05	9.090909090909092e-05	SLC22A11,SLC22A12

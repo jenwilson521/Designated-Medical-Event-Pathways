@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Mental retardation 63, X-linked	C0025362	1	504	0.0	0.00016666666666666666	ENOPH1
+3	Hydrocephalus	C0020255	1	285	0.0	0.0005	ENOPH1
+5	Chikungunya Fever	C0008055	1	30	0.0	0.0008333333333333334	ENOPH1

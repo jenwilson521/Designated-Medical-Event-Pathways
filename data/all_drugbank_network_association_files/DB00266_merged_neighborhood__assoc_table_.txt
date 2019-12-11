@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+20	Proteinuria Adverse Event	C1962972	2	29	3.11709857609e-05	5.2493438320209976e-05	CYP2C9,VKORC1

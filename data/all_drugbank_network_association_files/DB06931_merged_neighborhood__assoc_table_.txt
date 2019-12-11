@@ -1,0 +1,10 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Liver Cirrhosis, Biliary	C0023890	1	919	0.0	0.0001111111111111111	GGPS1
+2	Osteoporosis	C0029456	1	642	0.0	0.0002222222222222222	GGPS1
+3	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	C0221287	1	497	0.0	0.0003333333333333333	GGPS1
+4	Colorectal cancer	C1527249	1	2681	0.0	0.0004444444444444444	GGPS1
+5	Hyperinsulinemia	C0020459	1	355	0.0	0.0005555555555555556	GGPS1
+6	Colorectal cancer 1	C0009402	1	2543	0.0	0.0006666666666666666	GGPS1
+7	Hepatocellular carcinoma	C2239176	1	3108	0.0	0.0007777777777777778	GGPS1
+8	Hepatic cancer metastatic	C0345904	1	613	0.0	0.0008888888888888888	GGPS1
+9	Neoplasm of the liver	C0023903	1	1290	0.0	0.001	GGPS1

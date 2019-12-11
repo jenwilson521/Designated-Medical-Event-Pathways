@@ -1,0 +1,7 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+2	Small cell lung cancer	C0149925	1	638	0.0	0.0002857142857142857	MGAM
+3	Chronic Lymphocytic Leukemia	C0023434	1	1176	0.0	0.00042857142857142855	MGAM
+4	Squamous cell carcinoma	C0007137	1	1855	0.0	0.0005714285714285714	MGAM
+5	Breast carcinoma	C0678222	1	4281	0.0	0.0007142857142857143	MGAM
+6	Breast-ovarian cancer, familial 1	C0006142	1	4543	0.0	0.0008571428571428571	MGAM
+7	Leukemia, Lymphocytic, Acute, L1	C0023452	1	388	0.0	0.001	MGAM

@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+10	Pain insensitivity	C0344307	2	52	1.18412171112e-05	3.759398496240601e-05	CYP3A4,SLC6A1

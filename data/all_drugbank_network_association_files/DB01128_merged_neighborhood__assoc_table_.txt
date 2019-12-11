@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+36	Tubulointerstitial nephritis	C0027707	4	44	3.23720096851e-06	2.9654036243822076e-05	CYP2C19,AR,CYP2C9,CYP2D6
+37	Primary malignant neoplasm of liver	C0024620	3	25	8.08870505409e-06	3.0477759472817135e-05	CYP3A4,CYP2C19,CYP2D6
+39	Neoplasms, Germ Cell and Embryonal	C0027658	4	64	2.09139761189e-05	3.2125205930807246e-05	CYP3A4,CYP2C19,AR,CYP2C9

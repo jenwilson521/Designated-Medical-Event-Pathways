@@ -1,0 +1,6 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Ovarian epithelial cancer	C0677886	1	2172	0.0	0.00014285714285714284	BCAT2
+2	Obesity	C0028754	1	2181	0.0	0.0002857142857142857	BCAT2
+3	Polycythemia vera	C0032463	1	192	0.0	0.00042857142857142855	BCAT2
+4	Anemia, Sickle Cell	C0002895	1	271	0.0	0.0005714285714285714	BCAT2
+6	Precancerous Conditions	C0032927	1	455	0.0	0.0008571428571428571	BCAT2

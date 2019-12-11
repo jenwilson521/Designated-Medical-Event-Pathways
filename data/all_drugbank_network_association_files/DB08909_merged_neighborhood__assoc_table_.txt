@@ -1,0 +1,3 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+15	Chronic schizophrenia	C0221765	3	36	7.38008864676e-06	2.884615384615385e-05	CYP3A4,CYP2D6,CYP1A2
+30	Neoplasm of the larynx	C0023055	4	106	3.48318809398e-05	5.76923076923077e-05	MGST1,CYP3A4,CYP2D6,CYP1A2

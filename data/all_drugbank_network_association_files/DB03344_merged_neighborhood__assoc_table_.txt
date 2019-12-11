@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Pregnancy Complications	C0032962	2	132	0.0	7.142857142857142e-05	CYTH3,ARF1
+2	Occupational Diseases	C0028797	1	68	6.9505886201e-06	0.00014285714285714284	ARF1
+3	Invasive breast carcinoma	C0853879	1	369	0.000207161744406	0.00021428571428571427	ARF1

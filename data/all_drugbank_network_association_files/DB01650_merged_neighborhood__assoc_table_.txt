@@ -1,0 +1,10 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Virus Diseases	C0042769	1	772	0.0	0.0001	SLC22A8
+2	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	C0031117	1	756	0.0	0.0002	SLC22A8
+3	Chronic Lymphocytic Leukemia	C0023434	1	1176	0.0	0.0003	SLC22A8
+4	Diabetic Nephropathies	C0011881	1	616	0.0	0.0004	SLC22A8
+5	Acute kidney injury	C0022660	1	270	0.0	0.0005	SLC22A8
+6	Influenza	C0021400	1	497	0.0	0.0006	SLC22A8
+7	Chromosome 11p deletion syndrome	C0812435	1	25	0.0	0.0007	SLC22A8
+8	Lymphoma, Large B-Cell, Diffuse	C0024299	1	1362	0.0	0.0008	SLC22A8
+10	Kidney Diseases	C0022658	1	755	0.0	0.001	SLC22A8

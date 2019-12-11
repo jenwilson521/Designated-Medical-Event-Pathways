@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Autism 15	C0004352	1	868	0.0	0.0003333333333333333	PPCDC
+2	Scleroderma, Systemic	C0011644	1	30	0.0	0.0006666666666666666	PPCDC
+3	Lupus Erythematosus, Systemic	C0024141	1	1467	0.0	0.001	PPCDC

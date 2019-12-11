@@ -1,0 +1,14 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Rheumatoid arthritis	C0003873	1	1856	0.0	7.142857142857142e-05	HAGH
+2	Renal insufficiency	C1565489	1	351	0.0	0.00014285714285714284	HAGH
+3	Atrial septal defect	C0018817	1	476	0.0	0.00021428571428571427	HAGH
+4	Renal cell carcinoma, nonpapillary	C0007134	1	1418	0.0	0.0002857142857142857	HAGH
+5	Adenocarcinoma, Clear Cell	C0206681	1	94	0.0	0.00035714285714285714	HAGH
+6	Prostatic Neoplasms	C0033578	1	1606	0.0	0.00042857142857142855	HAGH
+7	Polycystic Kidney, Autosomal Dominant	C0085413	1	158	0.0	0.0005	HAGH
+8	Alzheimer Disease	C0002395	1	1699	0.0	0.0005714285714285714	HAGH
+9	 Adenocarcinoma, ovarian, somatic, 167000 (3)	C0001418	1	1700	0.0	0.0006428571428571429	HAGH
+10	Breast carcinoma	C0678222	1	4281	0.0	0.0007142857142857143	HAGH
+11	Breast-ovarian cancer, familial 1	C0006142	1	4543	0.0	0.0007857142857142857	HAGH
+12	Renal Insufficiency, Chronic	C0035078	1	363	0.0	0.0008571428571428571	HAGH
+14	Schizophrenia	C0036341	1	1947	0.0	0.001	HAGH

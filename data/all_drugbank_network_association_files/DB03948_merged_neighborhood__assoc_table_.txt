@@ -1,0 +1,6 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+10	Severe visual impairment	C1301509	1	29	1.8529399737e-05	6.211180124223603e-05	IMPDH1
+11	Abnormal full-field electroretinogram	C4072956	1	31	2.12176507939e-05	6.832298136645963e-05	IMPDH1
+12	Constriction of peripheral visual field	C0235095	1	52	6.03722752728e-05	7.453416149068323e-05	IMPDH1
+13	Photoreceptor degeneration	C1998028	1	56	7.00863286937e-05	8.074534161490683e-05	IMPDH1
+14	Leber congenital amaurosis	C0339527	1	59	7.784434174e-05	8.695652173913044e-05	IMPDH1

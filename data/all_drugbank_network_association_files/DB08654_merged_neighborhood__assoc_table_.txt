@@ -1,0 +1,21 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Stroke	C0038454	1	1229	0.0	5e-05	PNMT
+2	Alzheimer Disease	C0002395	1	1699	0.0	0.0001	PNMT
+3	Breast-ovarian cancer, familial 1	C0006142	1	4543	0.0	0.00015	PNMT
+4	Hypertension	C0020538	1	1647	0.0	0.0002	PNMT
+5	Von Hippel-Lindau syndrome	C0019562	1	112	0.0	0.00025	PNMT
+6	Weight Loss Adverse Event	C2911645	1	46	0.0	0.0003	PNMT
+7	Post MI	C0856742	1	37	0.0	0.00035	PNMT
+8	Myocardial Infarction	C0027051	1	1019	0.0	0.0004	PNMT
+9	Diabetes Mellitus, Type 1	C0011849	1	2081	0.0	0.00045000000000000004	PNMT
+10	Obesity	C0028754	1	2181	0.0	0.0005	PNMT
+11	Essential hypertension	C0085580	1	305	0.0	0.00055	PNMT
+12	Pheochromocytoma	C0031511	1	259	0.0	0.0006	PNMT
+13	Hypoglycemia, neonatal, simulating foetopathia diabetica	C0020615	1	265	0.0	0.0006500000000000001	PNMT
+14	Multiple Endocrine Neoplasia Type 2a	C0025268	1	71	0.0	0.0007	PNMT
+15	Breast carcinoma	C0678222	1	4281	0.0	0.00075	PNMT
+16	Acute kidney injury	C0022660	1	270	0.0	0.0008	PNMT
+17	Attention deficit hyperactivity disorder	C1263846	1	527	0.0	0.00085	PNMT
+18	Neuroblastoma	C0700095	1	1612	0.0	0.0009000000000000001	PNMT
+19	Multiple Sclerosis	C0026769	1	1140	0.0	0.00095	PNMT
+20	Chronic heart failure	C0264716	1	84	0.0	0.001	PNMT

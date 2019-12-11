@@ -1,0 +1,3 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+20	Acute postoperative pain	C0030201	4	37	7.09164372115e-07	2.0682523267838676e-05	TAC1,CYP3A4,TACR1,CYP2D6
+51	Drug Allergy	C0013182	4	79	3.14680147075e-05	5.274043433298863e-05	TAC1,CYP3A4,CYP2C9,CYP2D6

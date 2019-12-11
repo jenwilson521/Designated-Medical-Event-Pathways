@@ -1,0 +1,6 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+5	Reticulosarcoma	C0024302	1	45	3.01052031225e-05	0.00010416666666666667	DCK
+6	gliosarcoma	C0206726	1	64	6.12140879213e-05	0.000125	DCK
+7	Refractory cancer	C0677936	1	64	6.12140879213e-05	0.00014583333333333335	DCK
+8	Rash and Dermatitis Adverse Event Associated with Chemoradiation	C1559154	1	80	9.58305881138e-05	0.00016666666666666666	DCK
+9	tumor vasculature	C1658953	1	109	0.000178094886098	0.0001875	DCK

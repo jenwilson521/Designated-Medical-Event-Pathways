@@ -1,0 +1,41 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Multiple Myeloma	C0026764	1	1236	0.0	2.5e-05	SERPINA5
+2	Aortic Aneurysm, Abdominal	C0162871	1	190	0.0	5e-05	SERPINA5
+3	Anterior myocardial infarction	C0340293	1	33	0.0	7.5e-05	SERPINA5
+4	Severe combined immunodeficiency due to ADA deficiency	C0085110	1	545	0.0	0.0001	SERPINA5
+5	Thrombophilia	C0398623	1	125	0.0	0.000125	SERPINA5
+6	Breast-ovarian cancer, familial 1	C0006142	1	4543	0.0	0.00015	SERPINA5
+7	Animal Mammary Neoplasms	C0024667	1	2352	0.0	0.000175	SERPINA5
+8	Breast carcinoma	C0678222	1	4281	0.0	0.0002	SERPINA5
+9	Ovarian Neoplasms	C0919267	1	942	0.0	0.00022500000000000002	SERPINA5
+10	Granulomatosis with Polyangiitis	C3495801	1	74	0.0	0.00025	SERPINA5
+11	Azoospermia	C0004509	1	261	0.0	0.000275	SERPINA5
+12	Chronic Lymphocytic Leukemia	C0023434	1	1176	0.0	0.0003	SERPINA5
+13	Deep venous thrombosis	C0149871	1	112	0.0	0.00032500000000000004	SERPINA5
+14	Alpha-1-antitrypsin deficiency	C0221757	1	65	0.0	0.00035	SERPINA5
+15	Hodgkin Disease	C0019829	1	409	0.0	0.000375	SERPINA5
+16	Hepatocellular carcinoma	C2239176	1	3108	0.0	0.0004	SERPINA5
+17	Renal neoplasm	C0022665	1	363	0.0	0.000425	SERPINA5
+18	Non-Hodgkin lymphoma	C0024305	1	556	0.0	0.00045000000000000004	SERPINA5
+19	Pulmonary hypertension, neonatal, susceptibility to	C0020542	1	333	0.0	0.000475	SERPINA5
+20	Sarcoma, Ewing	C1261473	1	829	0.0	0.0005	SERPINA5
+21	Stomach cancer	C0699791	1	2109	0.0	0.0005250000000000001	SERPINA5
+22	{Gastric cancer risk after H. pylori infection}, 137215 (3)	C0024623	1	2073	0.0	0.00055	SERPINA5
+23	Neoplasm of the liver	C0023903	1	1290	0.0	0.000575	SERPINA5
+24	Gallbladder Carcinoma	C0235782	1	192	0.0	0.0006	SERPINA5
+25	Malignant neoplasm of pancreas	C0346647	1	1625	0.0	0.000625	SERPINA5
+26	Secondary hypertriglyceridemia	C0027627	1	3444	0.0	0.0006500000000000001	SERPINA5
+27	Myocardial Infarction	C0027051	1	1019	0.0	0.000675	SERPINA5
+28	Deep vein thrombosis of lower limb	C0340708	1	43	0.0	0.0007	SERPINA5
+29	Biliary Tract Cancer	C0750952	1	97	0.0	0.000725	SERPINA5
+30	Pancreatic Carcinoma	C0235974	1	1690	0.0	0.00075	SERPINA5
+31	X-linked ichthyosis with steryl-sulfatase deficiency	C0079588	1	92	0.0	0.0007750000000000001	SERPINA5
+32	Ovarian epithelial cancer	C0677886	1	2172	0.0	0.0008	SERPINA5
+33	Squamous cell carcinoma of the head and neck	C1168401	1	825	0.0	0.000825	SERPINA5
+34	alpha-1-Antitrypsin Deficiency, Autosomal Recessive	C3501835	1	29	0.0	0.00085	SERPINA5
+35	Hairy Cell Leukemia	C0023443	1	110	0.0	0.000875	SERPINA5
+36	Lymphoma, Large B-Cell, Diffuse	C0024299	1	1362	0.0	0.0009000000000000001	SERPINA5
+37	Amphetamine-Related Disorders	C0236733	1	84	0.0	0.000925	SERPINA5
+38	Recurrent tumor	C0521158	1	320	0.0	0.00095	SERPINA5
+39	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	C1140680	1	1967	0.0	0.000975	SERPINA5
+40	Renal cell carcinoma, nonpapillary	C0007134	1	1418	0.0	0.001	SERPINA5

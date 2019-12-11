@@ -1,0 +1,8 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Myopathy, scapulohumeroperoneal	C0026848	1	450	0.0	0.00014285714285714284	ADSSL1
+2	Carcinogenesis	C0596263	1	3723	0.0	0.0002857142857142857	ADSSL1
+3	Lung cancer	C0684249	1	2234	0.0	0.00042857142857142855	ADSSL1
+4	Malignant neoplasm of lung	C0242379	1	2460	0.0	0.0005714285714285714	ADSSL1
+5	Sarcoma, Ewing	C1261473	1	829	0.0	0.0007142857142857143	ADSSL1
+6	Cervical intraepithelial neoplasia (Cervical dysplasia)	C0206708	1	212	0.0	0.0008571428571428571	ADSSL1
+7	Diabetes Mellitus, Type 1	C0011849	1	2081	0.0	0.001	ADSSL1

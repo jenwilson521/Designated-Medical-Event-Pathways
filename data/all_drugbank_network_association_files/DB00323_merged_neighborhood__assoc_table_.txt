@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+43	Drug usage	C0242510	2	45	4.43586774654e-05	4.751381215469613e-05	COMT,CYP2C9

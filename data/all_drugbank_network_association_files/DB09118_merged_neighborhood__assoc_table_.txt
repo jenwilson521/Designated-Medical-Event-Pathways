@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+36	Primary malignant neoplasm of liver	C0024620	2	25	7.43717915458e-05	7.741935483870968e-05	CYP2D6,CYP2C19

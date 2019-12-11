@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+5	Enzyme inhibition disorder	C0877008	1	33	4.82921207789e-06	0.00016129032258064516	FDPS
+6	Heart valve disease	C0018824	1	46	9.46308438621e-06	0.0001935483870967742	FDPS
+7	Pruritus	C0033774	1	138	8.62215208933e-05	0.00022580645161290321	FDPS

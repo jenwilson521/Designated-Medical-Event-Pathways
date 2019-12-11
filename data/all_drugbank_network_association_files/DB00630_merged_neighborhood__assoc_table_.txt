@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+5	Choreoacanthocytosis	C0393576	1	28	2.41383062749e-05	8.928571428571429e-05	PTPN4
+6	Enzyme inhibition disorder	C0877008	1	33	3.36950607795e-05	0.00010714285714285714	FDPS
+7	Heart valve disease	C0018824	1	46	6.59381126105e-05	0.000125	FDPS
+8	Microsatellite Instability	C0796369	1	63	0.000124146931662	0.00014285714285714284	PTPRS

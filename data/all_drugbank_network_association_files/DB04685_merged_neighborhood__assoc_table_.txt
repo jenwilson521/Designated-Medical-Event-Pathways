@@ -1,0 +1,8 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+2	Lymphoma, Large B-Cell, Diffuse	C0024299	1	1362	0.0	0.0002222222222222222	DUT
+3	Psoriasis	C0033860	1	878	0.0	0.0003333333333333333	DUT
+4	Non-small cell lung carcinoma	C0007131	1	1993	0.0	0.0004444444444444444	DUT
+5	DNA Damage	C0012860	1	91	0.0	0.0005555555555555556	DUT
+6	Herpes Simplex Infections	C0019348	1	529	0.0	0.0006666666666666666	DUT
+8	Hepatocellular carcinoma	C2239176	1	3108	0.0	0.0008888888888888888	DUT
+9	Astrocytoma	C0004114	1	674	0.0	0.001	DUT

@@ -1,0 +1,94 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Abnormality of the posterior segment of the globe	C4025354	1	810	0.0	1.0101010101010101e-05	ACO2
+2	Neurodevelopmental abnormality	C0679378	1	1639	0.0	2.0202020202020203e-05	ACO2
+3	Decreased head circumference	C0424688	1	648	0.0	3.0303030303030306e-05	ACO2
+4	Aplasia/Hypoplasia of the corpus callosum	C1861866	1	342	0.0	4.0404040404040405e-05	ACO2
+5	Schizophrenia	C0036341	1	1947	0.0	5.0505050505050505e-05	ACO2
+6	Abnormality of the cerebral subcortex	C4021207	1	447	0.0	6.060606060606061e-05	ACO2
+7	Strabismus	C0038379	1	552	0.0	7.07070707070707e-05	ACO2
+8	Abnormality of the retina	C0035300	1	599	0.0	8.080808080808081e-05	ACO2
+9	Optic neuropathy	C0029132	1	57	0.0	9.090909090909092e-05	ACO2
+10	Abnormality of the musculature	C4021745	1	1765	0.0	0.00010101010101010101	ACO2
+11	Visual field defect	C3887875	1	151	0.0	0.0001111111111111111	ACO2
+12	Abnormal axial skeleton morphology	C4024586	1	1562	0.0	0.00012121212121212122	ACO2
+13	Abnormal muscle tone	C0852413	1	1220	0.0	0.00013131313131313133	ACO2
+14	Abnormality of nervous system physiology	C4022811	1	2307	0.0	0.0001414141414141414	ACO2
+15	Abnormality of forebrain morphology	C4020967	1	1074	0.0	0.00015151515151515152	ACO2
+16	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	C0031117	1	756	0.0	0.00016161616161616162	ACO2
+17	Hepatocellular carcinoma	C2239176	1	3108	0.0	0.00017171717171717173	ACO2
+18	Involuntary movements	C0427086	1	507	0.0	0.00018181818181818183	ACO2
+20	Abnormality of the metencephalon	C4023432	1	800	0.0	0.00020202020202020202	ACO2
+21	Decreased body weight	C1262477	1	810	0.0	0.00021212121212121213	ACO2
+22	Abnormal eye morphology	C4022925	1	1529	0.0	0.0002222222222222222	ACO2
+23	Sensorineural hearing impairment	C0018784	1	673	0.0	0.0002323232323232323	ACO2
+24	Abnormality of the fundus	C4025804	1	807	0.0	0.00024242424242424245	ACO2
+25	Autosomal recessive inheritance	C0441748	1	2006	0.0	0.0002525252525252525	ACO2
+26	Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	C0557874	1	964	0.0	0.00026262626262626266	ACO2
+27	Abnormal peripheral nervous system morphology	C4025831	1	587	0.0	0.00027272727272727274	ACO2
+28	Microcephaly, progressive, with seizures and cerebral and cerebellar atrophy	C1850456	1	47	0.0	0.0002828282828282828	ACO2
+29	Abnormality of the globe	C4022923	1	1529	0.0	0.00029292929292929295	ACO2
+31	Atrophy/Degeneration affecting the brainstem	C4055158	1	403	0.0	0.00031313131313131316	ACO2
+32	Morphological abnormality of the central nervous system	C4021765	1	1722	0.0	0.00032323232323232324	ACO2
+33	Hypoplasia of the corpus callosum	C0344482	1	168	0.0	0.0003333333333333333	ACO2
+34	Intellectual developmental disorder with dysmorphic facies and ptosis	C3714756	1	1371	0.0	0.00034343434343434346	ACO2
+35	Abnormality of the ear	C0266589	1	1354	0.0	0.00035353535353535354	ACO2
+36	Abnormality of hindbrain morphology	C4021170	1	800	0.0	0.00036363636363636367	ACO2
+37	Abnormality of brain morphology	C4021085	1	1573	0.0	0.00037373737373737375	ACO2
+38	Abnormality of muscle physiology	C4023182	1	1477	0.0	0.00038383838383838383	ACO2
+39	Hearing impairment	C1384666	1	1031	0.0	0.0003939393939393939	ACO2
+40	Abnormality of nervous system morphology	C4022810	1	1875	0.0	0.00040404040404040404	ACO2
+41	Abnormality of the cerebrum	C4021762	1	1054	0.0	0.0004141414141414142	ACO2
+42	Hypotonia, infantile, with psychomotor retardation	C0026827	1	1017	0.0	0.00042424242424242425	ACO2
+43	Colorectal Neoplasms	C0009404	1	1164	0.0	0.0004343434343434344	ACO2
+45	Cerebellar atrophy, visual impairment, and psychomotor retardation	C0740279	1	196	0.0	0.00045454545454545455	ACO2
+46	Abnormality of color vision	C0234629	1	72	0.0	0.0004646464646464646	ACO2
+47	Abnormality of the eye	C0015393	1	1900	0.0	0.00047474747474747476	ACO2
+48	Reduced tendon reflexes	C0700078	1	313	0.0	0.0004848484848484849	ACO2
+49	Brain very small	C0006104	1	328	0.0	0.000494949494949495	ACO2
+50	Severe global developmental delay	C1837397	1	65	0.0	0.000505050505050505	ACO2
+51	Areflexia	C0234146	1	136	0.0	0.0005151515151515151	ACO2
+52	Reduced visual acuity	C0234632	1	140	0.0	0.0005252525252525253	ACO2
+53	Aplasia involving bones of the extremities	C0000846	1	1321	0.0	0.0005353535353535354	ACO2
+54	Crohn Disease	C0010346	1	979	0.0	0.0005454545454545455	ACO2
+55	Abnormality of vision	C4025846	1	730	0.0	0.0005555555555555556	ACO2
+56	RETINAL DYSTROPHY WITH OR WITHOUT MACULAR STAPHYLOMA	C0854723	1	263	0.0	0.0005656565656565656	ACO2
+58	Abnormality of the corpus callosum	C1842581	1	358	0.0	0.0005858585858585859	ACO2
+60	Abnormality of movement	C0026650	1	1025	0.0	0.0006060606060606061	ACO2
+61	Abnormal conjugate eye movement	C1845274	1	550	0.0	0.0006161616161616161	ACO2
+62	Abnormality of eye movement	C0497202	1	975	0.0	0.0006262626262626263	ACO2
+63	Abnormal myelination	C1857704	1	217	0.0	0.0006363636363636364	ACO2
+64	Growth abnormality	C0262361	1	1578	0.0	0.0006464646464646465	ACO2
+65	Functional abnormality of the inner ear	C4023382	1	627	0.0	0.0006565656565656566	ACO2
+66	Microcephaly 16, primary, autosomal recessive	C0025958	1	721	0.0	0.0006666666666666666	ACO2
+68	Abnormal involuntary eye movements	C4022855	1	629	0.0	0.0006868686868686869	ACO2
+69	Infantile-onset ascending hereditary spastic paralysis	C1848924	1	313	0.0	0.000696969696969697	ACO2
+70	Neurodevelopmental delay	C4022738	1	1140	0.0	0.0007070707070707071	ACO2
+71	Aplasia/Hypoplasia of the cerebrum	C4024902	1	792	0.0	0.0007171717171717171	ACO2
+72	Optic atrophy 10 with or without ataxia, mental retardation, and seizures	C0029124	1	402	0.0	0.0007272727272727273	ACO2
+73	Cone dysfunction syndrome	C0543968	1	72	0.0	0.0007373737373737374	ACO2
+74	Nystagmus	C0028738	1	640	0.0	0.0007474747474747475	ACO2
+75	Abnormality of the nervous system	C0497552	1	2512	0.0	0.0007575757575757576	ACO2
+76	Abnormality of the optic nerve	C0029131	1	505	0.0	0.0007676767676767677	ACO2
+77	Brain atrophy	C0235946	1	395	0.0	0.0007777777777777778	ACO2
+78	Abnormality of skull size	C4025874	1	840	0.0	0.0007878787878787878	ACO2
+79	Abnormality of the skull	C0235942	1	1324	0.0	0.000797979797979798	ACO2
+80	Seizures, Febrile	C0036572	1	1535	0.0	0.0008080808080808081	ACO2
+81	Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	C0004134	1	740	0.0	0.0008181818181818183	ACO2
+82	Abnormality of the cerebellum	C1866129	1	798	0.0	0.0008282828282828283	ACO2
+83	Visual impairment	C3665347	1	519	0.0	0.0008383838383838383	ACO2
+84	Onset	C0206132	1	713	0.0	0.0008484848484848485	ACO2
+85	Abnormal eye physiology	C4022924	1	1479	0.0	0.0008585858585858586	ACO2
+86	Abnormality of the optic disc	C3808249	1	420	0.0	0.0008686868686868688	ACO2
+87	Abnormality of coordination	C4023353	1	598	0.0	0.0008787878787878789	ACO2
+88	Abnormality of the head	C4021812	1	1995	0.0	0.0008888888888888888	ACO2
+89	Failure to thrive	C0015544	1	622	0.0	0.000898989898989899	ACO2
+90	Hyporeflexia	C0151888	1	197	0.0	0.0009090909090909091	ACO2
+91	Abnormality of skeletal morphology	C4023165	1	1878	0.0	0.0009191919191919193	ACO2
+92	Abnormality of the skeletal system	C4021790	1	1961	0.0	0.0009292929292929292	ACO2
+93	Hearing abnormality	C4025860	1	921	0.0	0.0009393939393939394	ACO2
+94	Abnormality of the inner ear	C4021809	1	641	0.0	0.0009494949494949495	ACO2
+95	Scotoma	C0036454	1	52	0.0	0.0009595959595959596	ACO2
+96	Abnormality of the cerebral white matter	C0948163	1	412	0.0	0.0009696969696969698	ACO2
+97	Abnormality of head or neck	C0854297	1	2021	0.0	0.0009797979797979799	ACO2
+98	Abnormality of central motor function	C4023354	1	1196	0.0	0.00098989898989899	ACO2
+99	Abnormality of body weight	C4025357	1	970	0.0	0.001	ACO2

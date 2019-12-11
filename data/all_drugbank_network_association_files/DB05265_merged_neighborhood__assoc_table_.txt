@@ -1,0 +1,6 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	 Adenocarcinoma, ovarian, somatic, 167000 (3)	C0001418	1	1700	0.0	0.0002	NOXO1
+2	Alcoholic Steatohepatitis	C2718067	1	40	0.0	0.0004	NOXO1
+3	Chronic atrophic gastritis	C0017154	1	116	0.0	0.0006	NOXO1
+4	Carcinoma, Signet Ring Cell	C0206696	1	29	0.0	0.0008	NOXO1
+5	Stomach Neoplasms	C0038356	1	916	0.0	0.001	NOXO1

@@ -1,0 +1,94 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Growth abnormality	C0262361	1	1578	0.0	8.928571428571428e-06	ASL
+2	Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	C0557874	1	964	0.0	1.7857142857142855e-05	ASL
+4	Abnormality of forebrain morphology	C4020967	1	1074	0.0	3.571428571428571e-05	ASL
+5	Neurodevelopmental abnormality	C0679378	1	1639	0.0	4.464285714285714e-05	ASL
+6	Abnormality of hair texture	C4023722	1	124	0.0	5.357142857142857e-05	ASL
+7	Abnormality of amino acid metabolism	C1328440	1	172	0.0	6.25e-05	ASL
+8	Cleft Palate	C0008925	1	571	0.0	7.142857142857142e-05	ASL
+9	Mental retardation 63, X-linked	C0025362	1	504	0.0	8.035714285714287e-05	ASL
+11	Lethargy	C0023380	1	105	0.0	9.821428571428572e-05	ASL
+12	Onset	C0206132	1	713	0.0	0.00010714285714285714	ASL
+14	Abnormal hair quantity	C4023397	1	395	0.0	0.000125	ASL
+15	Hepatomegaly	C0019209	1	397	0.0	0.00013392857142857144	ASL
+16	Nausea and vomiting	C0027498	1	304	0.0	0.00014285714285714284	ASL
+17	Abnormality of body height	C4025901	1	908	0.0	0.00015178571428571427	ASL
+19	Abnormality of coordination	C4023353	1	598	0.0	0.00016964285714285717	ASL
+20	Abnormality of urine homeostasis	C4025655	1	409	0.0	0.00017857142857142857	ASL
+21	Hepatic cancer metastatic	C0345904	1	613	0.0	0.0001875	ASL
+22	Growth delay	C0456070	1	1102	0.0	0.00019642857142857144	ASL
+23	Irritability	C0022107	1	97	0.0	0.00020535714285714284	ASL
+24	Abnormality of the digestive system	C0266015	1	1679	0.0	0.00021428571428571427	ASL
+25	Abdominal symptom	C0740651	1	901	0.0	0.00022321428571428573	ASL
+26	Abnormality of acid-base homeostasis	C0001118	1	286	0.0	0.00023214285714285717	ASL
+27	Abnormality of the genitourinary system	C0042063	1	1555	0.0	0.00024107142857142857	ASL
+28	Alkalosis	C0002063	1	39	0.0	0.00025	ASL
+30	Abnormality of the cerebrum	C4021762	1	1054	0.0	0.00026785714285714287	ASL
+31	Aminoaciduria	C0238621	1	120	0.0	0.00027678571428571433	ASL
+32	Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	C0013336	1	949	0.0	0.0002857142857142857	ASL
+33	Necrotizing Enterocolitis	C4082937	1	88	0.0	0.00029464285714285714	ASL
+34	Abnormality of nitrogen compound homeostasis	C4025336	1	74	0.0	0.00030357142857142855	ASL
+35	Cerebral edema	C0006114	1	80	0.0	0.0003125	ASL
+37	Abnormal nervous system electrophysiology	C4021781	1	303	0.0	0.00033035714285714287	ASL
+38	Abnormality of the integument	C4025761	1	1665	0.0	0.00033928571428571433	ASL
+39	3-Methylglutaconic aciduria	C0278026	1	188	0.0	0.0003482142857142857	ASL
+40	Abnormality of hindbrain morphology	C4021170	1	800	0.0	0.00035714285714285714	ASL
+41	Hyperoxia	C0242706	1	45	0.0	0.00036607142857142855	ASL
+42	Acute hepatitis	C0267797	1	26	0.0	0.000375	ASL
+43	Abnormality of digestive system physiology	C4293692	1	1132	0.0	0.00038392857142857147	ASL
+44	Hepatic fibrosis	C0239946	1	416	0.0	0.0003928571428571429	ASL
+45	Abnormality of abdomen morphology	C4020869	1	505	0.0	0.00040178571428571433	ASL
+46	Abnormality of serum amino acid levels	C4025653	1	32	0.0	0.0004107142857142857	ASL
+47	Abnormality of the cerebellum	C1866129	1	798	0.0	0.00041964285714285714	ASL
+48	Neurodevelopmental delay	C4022738	1	1140	0.0	0.00042857142857142855	ASL
+49	Abnormality of the metencephalon	C4023432	1	800	0.0	0.0004375	ASL
+50	Intellectual developmental disorder with dysmorphic facies and ptosis	C3714756	1	1371	0.0	0.00044642857142857147	ASL
+51	Abnormality of central motor function	C4023354	1	1196	0.0	0.0004553571428571429	ASL
+53	Acute type B viral hepatitis	C0019163	1	790	0.0	0.0004732142857142857	ASL
+54	Abnormality of carboxylic acid metabolism	C4025344	1	197	0.0	0.00048214285714285715	ASL
+55	Abnormality of the urinary system physiology	C4023437	1	654	0.0	0.0004910714285714286	ASL
+56	Abnormality of skin adnexa morphology	C4023518	1	942	0.0	0.0005	ASL
+57	Abnormality of brain morphology	C4021085	1	1573	0.0	0.0005089285714285714	ASL
+58	Abnormality of nervous system physiology	C4022811	1	2307	0.0	0.0005178571428571429	ASL
+59	Abnormality of metabolism/homeostasis	C4021768	1	1607	0.0	0.0005267857142857143	ASL
+60	Abnormality of nervous system morphology	C4022810	1	1875	0.0	0.0005357142857142857	ASL
+61	Vomiting	C0042963	1	194	0.0	0.0005446428571428571	ASL
+62	Abnormality of body weight	C4025357	1	970	0.0	0.0005535714285714287	ASL
+63	Abnormality of the abdominal organs	C4021764	1	842	0.0	0.0005625000000000001	ASL
+64	Autosomal recessive inheritance	C0441748	1	2006	0.0	0.0005714285714285714	ASL
+65	Endotoxemia	C0376618	1	96	0.0	0.0005803571428571429	ASL
+66	Neoplasm of the liver	C0023903	1	1290	0.0	0.0005892857142857143	ASL
+67	Azotemia	C0242528	1	75	0.0	0.0005982142857142857	ASL
+68	EEG abnormality	C0151611	1	221	0.0	0.0006071428571428571	ASL
+69	Glioblastoma multiforme	C1621958	1	434	0.0	0.0006160714285714286	ASL
+70	Reduced consciousness/confusion	C0234428	1	213	0.0	0.000625	ASL
+71	Hydrops, lactic acidosis, and sideroblastic anemia	C0013604	1	335	0.0	0.0006339285714285714	ASL
+73	Morphological abnormality of the central nervous system	C4021765	1	1722	0.0	0.0006517857142857143	ASL
+75	Abnormality of the urinary system	C4021821	1	1136	0.0	0.0006696428571428571	ASL
+76	Abnormality of the nervous system	C0497552	1	2512	0.0	0.0006785714285714287	ASL
+77	Abnormality of central nervous system electrophysiology	C4022597	1	232	0.0	0.0006875	ASL
+79	Abnormality of fluid regulation	C2364164	1	346	0.0	0.0007053571428571429	ASL
+81	Seizures, Febrile	C0036572	1	1535	0.0	0.0007232142857142857	ASL
+82	Feeding difficulties	C0232466	1	453	0.0	0.0007321428571428571	ASL
+83	Abnormality of the liver	C4021780	1	727	0.0	0.0007410714285714286	ASL
+84	Failure to thrive	C0015544	1	622	0.0	0.00075	ASL
+85	Hypoxia	C0003130	1	335	0.0	0.0007589285714285714	ASL
+87	Autism 15	C0004352	1	868	0.0	0.0007767857142857143	ASL
+89	Hyperammonemia	C0220994	1	39	0.0	0.0007946428571428572	ASL
+90	Liver failure acute infantile	C0085605	1	223	0.0	0.0008035714285714287	ASL
+91	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	C0221287	1	497	0.0	0.0008125000000000001	ASL
+92	Abnormality of higher mental function	C4023352	1	920	0.0	0.0008214285714285714	ASL
+94	Acidosis	C0001122	1	289	0.0	0.0008392857142857143	ASL
+96	Hepatocellular carcinoma	C2239176	1	3108	0.0	0.0008571428571428571	ASL
+97	Behavioral abnormality	C0233514	1	890	0.0	0.0008660714285714286	ASL
+99	Cleft Lip	C0008924	1	345	0.0	0.0008839285714285714	ASL
+100	Visceromegaly	C0042782	1	461	0.0	0.0008928571428571429	ASL
+101	Feeding difficulties in infancy	C2674608	1	295	0.0	0.0009017857142857143	ASL
+103	Glioblastoma	C0017636	1	1645	0.0	0.0009196428571428572	ASL
+104	Abnormal emotion/affect behavior	C1443059	1	430	0.0	0.0009285714285714287	ASL
+105	Abnormality of the hair	C0157733	1	766	0.0	0.0009375	ASL
+106	Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	C0004134	1	740	0.0	0.0009464285714285714	ASL
+108	Abnormality of nucleobase metabolism	C4023643	1	39	0.0	0.0009642857142857143	ASL
+109	Coma	C0009421	1	93	0.0	0.0009732142857142857	ASL
+110	Decreased body weight	C1262477	1	810	0.0	0.0009821428571428572	ASL
+112	Disorder of amino acid metabolism	C0002514	1	30	0.0	0.001	ASL

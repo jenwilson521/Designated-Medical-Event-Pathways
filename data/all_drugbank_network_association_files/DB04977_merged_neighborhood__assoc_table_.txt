@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+5	Neoplasm of the larynx	C0023055	4	106	1.47747019785e-06	1.3333333333333335e-05	CYP2E1,MGST1,CYP3A4,CYP2A6
+12	Pleural Neoplasms	C0032229	2	26	1.46334298236e-05	3.2e-05	CYP2E1,CYP2A6
+17	Squamous Cell Neoplasms	C0206720	2	29	2.04862664589e-05	4.5333333333333335e-05	CYP2E1,CYP3A4
+21	Genomic Instability	C0919532	2	37	4.31160961938e-05	5.6e-05	CYP2E1,CYP2A6

@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+17	Neoplasm of the larynx	C0023055	4	106	2.48484911021e-05	2.7375201288244768e-05	CYP2A6,CYP1A2,CYP3A4,MGST1

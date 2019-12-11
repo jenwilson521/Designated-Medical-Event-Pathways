@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+4	Peroxisome biogenesis disorder 6A	C0282528	1	25	3.28147290362e-05	5.128205128205128e-05	NR1I3
+5	Cholestatic liver disease	C0860204	1	30	4.75379018713e-05	6.41025641025641e-05	NR1I3
+6	Myelosuppression	C0854467	1	35	6.49638996831e-05	7.692307692307693e-05	NR1I3
+7	Hypoparathyroidism - autosomal dominant	C0342345	1	36	6.87727579071e-05	8.974358974358975e-05	NR1I3

@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Metabolic Syndrome X	C0524620	2	638	1.54026998859e-05	0.00014285714285714284	FNTA,FNTB
+2	Chromosome 8, trisomy	C0008671	1	59	1.5638427816e-05	0.0002857142857142857	FNTA
+3	Giant Cell Tumors	C0017525	1	70	2.206658422e-05	0.00042857142857142855	PGGT1B
+4	Multiple Sclerosis, Relapsing-Remitting	C0751967	1	88	3.49611948008e-05	0.0005714285714285714	PGGT1B

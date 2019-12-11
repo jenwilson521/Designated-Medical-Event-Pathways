@@ -1,0 +1,33 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Abnormality of skeletal muscles	C0241052	1	465	0.0	2.7777777777777776e-05	YARS
+2	Sideroblastic anemia 3, pyridoxine-refractory	C0002896	1	49	0.0	5.555555555555555e-05	YARS
+3	Abnormality of the musculature of the limbs	C4024582	1	202	0.0	8.333333333333333e-05	YARS
+4	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	C0031117	1	756	0.0	0.0001111111111111111	YARS
+5	Myopathy, scapulohumeroperoneal	C0026848	1	450	0.0	0.0001388888888888889	YARS
+6	Breast carcinoma	C0678222	1	4281	0.0	0.00016666666666666666	YARS
+7	Limb muscle weakness	C0587246	1	109	0.0	0.00019444444444444446	YARS
+8	Abnormality of the nervous system	C0497552	1	2512	0.0	0.0002222222222222222	YARS
+9	Abnormality of muscle morphology	C4023181	1	942	0.0	0.00025	YARS
+10	Distal muscle weakness	C0427065	1	91	0.0	0.0002777777777777778	YARS
+11	Autosomal dominant non-syndromic sensorineural deafness type DFNA	C0443147	1	1262	0.0	0.0003055555555555556	YARS
+13	Retinal degeneration	C0035304	1	287	0.0	0.0003611111111111111	YARS
+15	Breast-ovarian cancer, familial 1	C0006142	1	4543	0.0	0.0004166666666666667	YARS
+16	Muscle weakness	C0030552	1	735	0.0	0.0004444444444444444	YARS
+17	Heterogeneous	C0019409	1	248	0.0	0.00047222222222222224	YARS
+18	Abnormality of nervous system morphology	C4022810	1	1875	0.0	0.0005	YARS
+19	Mitochondrial diseases	C0751651	1	206	0.0	0.0005277777777777778	YARS
+20	Neuroblastoma	C0700095	1	1612	0.0	0.0005555555555555556	YARS
+21	Abnormality of the musculature	C4021745	1	1765	0.0	0.0005833333333333334	YARS
+23	Abnormality of the foot	C0016506	1	787	0.0	0.0006388888888888888	YARS
+24	Peripheral axonal degeneration	C4025830	1	88	0.0	0.0006666666666666666	YARS
+25	Charcot-Marie-Tooth disease, type 2N	C0007959	1	191	0.0	0.0006944444444444445	YARS
+26	Abnormality of muscle size	C4022563	1	475	0.0	0.0007222222222222222	YARS
+27	Abnormality of the lower limb	C1096086	1	947	0.0	0.00075	YARS
+28	Skeletal muscle atrophy	C0541794	1	367	0.0	0.0007777777777777778	YARS
+29	Abnormality of limbs	C0239337	1	1290	0.0	0.0008055555555555556	YARS
+30	Distal sensory impairment	C1847584	1	80	0.0	0.0008333333333333334	YARS
+31	Sensory impairment	C0020580	1	153	0.0	0.0008611111111111112	YARS
+32	Abnormality of muscle physiology	C4023182	1	1477	0.0	0.0008888888888888888	YARS
+33	Abnormal peripheral nervous system morphology	C4025831	1	587	0.0	0.0009166666666666666	YARS
+34	Distal amyotrophy	C1848736	1	90	0.0	0.0009444444444444445	YARS
+36	Neuropathy ataxia retinitis pigmentosa syndrome	C0442874	1	265	0.0	0.001	YARS

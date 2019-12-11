@@ -1,0 +1,51 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+2	Intellectual developmental disorder with dysmorphic facies and ptosis	C3714756	1	1371	0.0	3.846153846153846e-05	PSPH
+3	Abnormality of central motor function	C4023354	1	1196	0.0	5.76923076923077e-05	PSPH
+4	Monosomy	C0026499	1	158	0.0	7.692307692307693e-05	PSPH
+5	Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	C0557874	1	964	0.0	9.615384615384617e-05	PSPH
+6	Onset	C0206132	1	713	0.0	0.0001153846153846154	PSPH
+7	Abnormality of the skeletal system	C4021790	1	1961	0.0	0.0001346153846153846	PSPH
+8	Abnormality of skull size	C4025874	1	840	0.0	0.00015384615384615385	PSPH
+9	Growth delay	C0456070	1	1102	0.0	0.00017307692307692307	PSPH
+10	Upper motor neuron dysfunction	C1839042	1	864	0.0	0.00019230769230769233	PSPH
+11	Brain very small	C0006104	1	328	0.0	0.00021153846153846155	PSPH
+13	Abnormality of forebrain morphology	C4020967	1	1074	0.0	0.00025	PSPH
+14	Disorder of amino acid metabolism	C0002514	1	30	0.0	0.0002692307692307692	PSPH
+15	Progressive supranuclear ophthalmoplegia	C0038868	1	65	0.0	0.00028846153846153843	PSPH
+16	Neurodevelopmental abnormality	C0679378	1	1639	0.0	0.0003076923076923077	PSPH
+17	Growth abnormality	C0262361	1	1578	0.0	0.0003269230769230769	PSPH
+18	Abnormality of the musculature	C4021745	1	1765	0.0	0.00034615384615384613	PSPH
+19	Abnormality of head or neck	C0854297	1	2021	0.0	0.00036538461538461535	PSPH
+20	Abnormality of the cerebrum	C4021762	1	1054	0.0	0.00038461538461538467	PSPH
+21	Abnormality of the head	C4021812	1	1995	0.0	0.0004038461538461539	PSPH
+22	Brain atrophy	C0235946	1	395	0.0	0.0004230769230769231	PSPH
+23	Prostate carcinoma	C0600139	1	2734	0.0	0.0004423076923076923	PSPH
+24	Abnormality of muscle physiology	C4023182	1	1477	0.0	0.0004615384615384616	PSPH
+25	Seizures, Febrile	C0036572	1	1535	0.0	0.0004807692307692308	PSPH
+26	Decreased head circumference	C0424688	1	648	0.0	0.0005	PSPH
+27	Aplasia involving bones of the extremities	C0000846	1	1321	0.0	0.0005192307692307693	PSPH
+28	Neurodevelopmental delay	C4022738	1	1140	0.0	0.0005384615384615384	PSPH
+29	Abnormality of skeletal morphology	C4023165	1	1878	0.0	0.0005576923076923078	PSPH
+30	Pancreatitis	C0030305	1	277	0.0	0.0005769230769230769	PSPH
+31	Intrauterine growth retardation	C0015934	1	379	0.0	0.0005961538461538462	PSPH
+32	Abnormality of nervous system morphology	C4022810	1	1875	0.0	0.0006153846153846154	PSPH
+33	Infantile-onset ascending hereditary spastic paralysis	C1848924	1	313	0.0	0.0006346153846153846	PSPH
+34	Autosomal recessive inheritance	C0441748	1	2006	0.0	0.0006538461538461538	PSPH
+35	Postnatal growth retardation	C1859778	1	107	0.0	0.0006730769230769232	PSPH
+36	Morphological abnormality of the central nervous system	C4021765	1	1722	0.0	0.0006923076923076923	PSPH
+37	Abnormality of brain morphology	C4021085	1	1573	0.0	0.0007115384615384616	PSPH
+38	Microcephaly 16, primary, autosomal recessive	C0025958	1	721	0.0	0.0007307692307692307	PSPH
+39	Abnormality of the skull	C0235942	1	1324	0.0	0.00075	PSPH
+40	Pancreatic Ductal Adenocarcinoma	C1335302	1	567	0.0	0.0007692307692307693	PSPH
+41	Abnormal muscle tone	C0852413	1	1220	0.0	0.0007884615384615384	PSPH
+42	Hypertonia	C0026826	1	537	0.0	0.0008076923076923078	PSPH
+43	Malignant tumor of prostate	C0376358	1	2940	0.0	0.0008269230769230769	PSPH
+44	Abnormality of nervous system physiology	C4022811	1	2307	0.0	0.0008461538461538462	PSPH
+45	 Frontotemporal lobar degeneration, TARDBP-related, 612069 (3)	C0751072	1	108	0.0	0.0008653846153846154	PSPH
+46	Atrophy/Degeneration affecting the brainstem	C4055158	1	403	0.0	0.0008846153846153846	PSPH
+47	Cognitive Dysfunction	C0338656	1	769	0.0	0.0009038461538461538	PSPH
+48	Aplasia/Hypoplasia of the cerebrum	C4024902	1	792	0.0	0.0009230769230769232	PSPH
+49	Abnormal axial skeleton morphology	C4024586	1	1562	0.0	0.0009423076923076923	PSPH
+50	Tauopathies	C0949664	1	123	0.0	0.0009615384615384616	PSPH
+51	Obstructive sleep apnea	C0520679	1	166	0.0	0.0009807692307692308	PSPH
+52	Abnormality of the nervous system	C0497552	1	2512	0.0	0.001	PSPH

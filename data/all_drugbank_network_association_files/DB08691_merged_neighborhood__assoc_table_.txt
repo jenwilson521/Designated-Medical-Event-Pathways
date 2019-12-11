@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+2	Helminthiasis	C0018889	1	63	5.9589747804e-06	0.0004	CLK1
+3	Influenza	C0021400	1	497	0.000376074077671	0.0006	CLK1
+4	Neurodegenerative Diseases	C0524851	1	706	0.000759327424908	0.0008	CLK1

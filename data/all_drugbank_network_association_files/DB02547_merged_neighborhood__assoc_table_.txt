@@ -1,0 +1,11 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Primary open angle glaucoma juvenile onset 1	C0339573	1	172	0.0	0.0001	GMDS
+2	Carcinoma of colon	C0699790	1	1856	0.0	0.0002	GMDS
+3	Tobacco Use Disorder	C0040336	1	3066	0.0	0.0003	GMDS
+4	Colorectal cancer 1	C0009402	1	2543	0.0	0.0004	GMDS
+5	Glaucoma, Angle-Closure	C0017601	1	461	0.0	0.0005	GMDS
+6	Colorectal cancer	C1527249	1	2681	0.0	0.0006	GMDS
+7	Colon cancer	C0007102	1	1727	0.0	0.0007	GMDS
+8	Tumor Progression	C0178874	1	1969	0.0	0.0008	GMDS
+9	Glaucoma, Open-Angle	C0017612	1	112	0.0	0.0009000000000000001	GMDS
+10	Secondary hypertriglyceridemia	C0027627	1	3444	0.0	0.001	GMDS

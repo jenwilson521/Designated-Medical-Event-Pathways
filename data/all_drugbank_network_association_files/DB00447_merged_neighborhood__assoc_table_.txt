@@ -1,0 +1,8 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Melanoma	C0025202	1	2386	0.0	0.00014285714285714284	SLC15A2
+2	Cystic Fibrosis	C0010674	1	451	0.0	0.0002857142857142857	SLC15A2
+3	Secondary hyperparathyroidism	C0020503	1	182	0.0	0.00042857142857142855	SLC15A2
+4	Deafness, autosomal recessive 44	C0011053	1	257	0.0	0.0005714285714285714	SLC15A2
+5	Multiple Sclerosis	C0026769	1	1140	0.0	0.0007142857142857143	SLC15A2
+6	Hearing Loss, Partial	C0018772	1	150	0.0	0.0008571428571428571	SLC15A2
+7	Hearing impairment	C1384666	1	1031	0.0	0.001	SLC15A2

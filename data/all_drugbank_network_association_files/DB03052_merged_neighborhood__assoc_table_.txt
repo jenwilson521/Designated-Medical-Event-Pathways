@@ -1,0 +1,118 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Neurological speech impairment	C0037822	1	553	0.0	8e-06	TBXAS1
+2	Abnormal appendicular skeleton morphology	C4023163	1	992	0.0	1.6e-05	TBXAS1
+3	Cranial hyperostosis	C0020496	1	35	0.0	2.4e-05	TBXAS1
+4	Pancreatitis, Acute Necrotizing	C0267941	1	39	0.0	3.2e-05	TBXAS1
+5	Chorioamnionitis	C0008495	1	195	0.0	4e-05	TBXAS1
+7	Myocardial Infarction	C0027051	1	1019	0.0	5.6e-05	TBXAS1
+8	Abnormality of head or neck	C0854297	1	2021	0.0	6.4e-05	TBXAS1
+9	Hypertension	C0020538	1	1647	0.0	7.2e-05	TBXAS1
+10	Brain Infarction	C0751955	1	77	0.0	8e-05	TBXAS1
+11	Abnormal cortical bone morphology	C4021741	1	54	0.0	8.8e-05	TBXAS1
+12	Abnormality of the integument	C4025761	1	1665	0.0	9.6e-05	TBXAS1
+13	Abnormality of erythrocytes	C0391870	1	374	0.0	0.000104	TBXAS1
+14	Hydronephrosis	C0020295	1	157	0.0	0.000112	TBXAS1
+15	Skeletal dysplasia	C0029422	1	206	0.0	0.00012	TBXAS1
+16	Abnormality of the vertebrae	C0158775	1	299	0.0	0.000128	TBXAS1
+17	Abnormality of skin morphology	C4023528	1	1261	0.0	0.00013600000000000003	TBXAS1
+18	Breast-ovarian cancer, familial 1	C0006142	1	4543	0.0	0.000144	TBXAS1
+19	Abnormality of skeletal morphology	C4023165	1	1878	0.0	0.000152	TBXAS1
+20	Pleural Mesothelioma	C0812413	1	240	0.0	0.00016	TBXAS1
+21	Abnormal diaphysis morphology	C4021787	1	192	0.0	0.00016800000000000002	TBXAS1
+22	Anemia	C0002871	1	627	0.0	0.000176	TBXAS1
+23	Abnormal QRS complex	C0205161	1	1098	0.0	0.000184	TBXAS1
+24	Abnormality of the nervous system	C0497552	1	2512	0.0	0.000192	TBXAS1
+25	Premature Birth	C0151526	1	376	0.0	0.0002	TBXAS1
+26	Abnormality of cellular immune system	C4023612	1	406	0.0	0.000208	TBXAS1
+27	Abnormality of bone mineral density	C4021657	1	397	0.0	0.000216	TBXAS1
+28	Vascular skin abnormality	C0162819	1	359	0.0	0.000224	TBXAS1
+29	Thrombosis	C0040053	1	157	0.0	0.00023200000000000003	TBXAS1
+30	Lung Neoplasms	C0024121	1	1155	0.0	0.00024	TBXAS1
+31	Abnormality of the spleen	C4025749	1	347	0.0	0.000248	TBXAS1
+32	Abnormality of long bone morphology	C4021165	1	437	0.0	0.000256	TBXAS1
+33	Abnormality of the calf	C4021832	1	151	0.0	0.000264	TBXAS1
+34	Ovarian epithelial cancer	C0677886	1	2172	0.0	0.00027200000000000005	TBXAS1
+35	Autosomal dominant non-syndromic sensorineural deafness type DFNA	C0443147	1	1262	0.0	0.00028000000000000003	TBXAS1
+36	Visceromegaly	C0042782	1	461	0.0	0.000288	TBXAS1
+37	Prostatic Neoplasms	C0033578	1	1606	0.0	0.000296	TBXAS1
+38	Abnormality of limb bone morphology	C4082761	1	921	0.0	0.000304	TBXAS1
+39	Abnormality of the skeletal system	C4021790	1	1961	0.0	0.000312	TBXAS1
+40	Generalized abnormality of skin	C4021157	1	712	0.0	0.00032	TBXAS1
+41	Abnormality of the lower limb	C1096086	1	947	0.0	0.000328	TBXAS1
+42	Abnormality of the immune system	C4021753	1	1164	0.0	0.00033600000000000004	TBXAS1
+43	Abnormality of limb bone	C4022456	1	931	0.0	0.00034399999999999996	TBXAS1
+45	Epistaxis	C0014591	1	62	0.0	0.00035999999999999997	TBXAS1
+46	Abnormality of femur morphology	C0015811	1	161	0.0	0.000368	TBXAS1
+47	Pulmonary Embolism	C0034065	1	133	0.0	0.00037600000000000003	TBXAS1
+48	Narcolepsy	C0027404	1	266	0.0	0.000384	TBXAS1
+49	Pituitary Neoplasms	C0032019	1	321	0.0	0.00039200000000000004	TBXAS1
+50	Increased bone mineral density	C0029464	1	87	0.0	0.0004	TBXAS1
+52	Abnormal bleeding	C1458140	1	319	0.0	0.000416	TBXAS1
+53	Abnormal leukocyte count	C0152009	1	406	0.0	0.000424	TBXAS1
+54	Verotoxigenic Escherichia coli gastrointestinal tract infection	C0009450	1	1111	0.0	0.000432	TBXAS1
+55	Anomaly of the limb diaphyses	C4021594	1	173	0.0	0.00044	TBXAS1
+56	Abnormality of T cell count	C1704258	1	903	0.0	0.000448	TBXAS1
+57	Refractory anemia	C0002893	1	55	0.0	0.000456	TBXAS1
+58	Hyperostosis	C0020492	1	52	0.0	0.00046400000000000006	TBXAS1
+59	Abnormality of the nose	C0265736	1	1028	0.0	0.000472	TBXAS1
+60	Subcutaneous hemorrhage	C0854107	1	164	0.0	0.00048	TBXAS1
+61	Abnormality of the vertebral column	C4021789	1	835	0.0	0.000488	TBXAS1
+62	Abnormality of the lymphatic system	C4021976	1	426	0.0	0.000496	TBXAS1
+63	Mesothelioma, malignant	C0025500	1	383	0.0	0.000504	TBXAS1
+64	Membranous nephropathy, susceptibility to	C0017665	1	84	0.0	0.000512	TBXAS1
+65	Prolonged bleeding time	C0439590	1	36	0.0	0.0005200000000000001	TBXAS1
+66	Abnormality of the face	C4025871	1	1817	0.0	0.000528	TBXAS1
+67	Endotoxemia	C0376618	1	96	0.0	0.000536	TBXAS1
+68	Reperfusion Injury	C0035126	1	305	0.0	0.0005440000000000001	TBXAS1
+69	Abnormal morphology of bones of the lower limbs	C4022457	1	213	0.0	0.0005520000000000001	TBXAS1
+70	Abnormality of nervous system physiology	C4022811	1	2307	0.0	0.0005600000000000001	TBXAS1
+71	Secondary hypertriglyceridemia	C0027627	1	3444	0.0	0.0005679999999999999	TBXAS1
+72	Myelofibrosis	C0026987	1	102	0.0	0.000576	TBXAS1
+73	Urinary Bladder Neoplasms	C0005695	1	463	0.0	0.000584	TBXAS1
+74	Tobacco Use Disorder	C0040336	1	3066	0.0	0.000592	TBXAS1
+76	Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	C0040034	1	253	0.0	0.000608	TBXAS1
+77	Abnormality of the calvaria	C4025691	1	636	0.0	0.000616	TBXAS1
+78	Arteriosclerosis	C0003850	1	1059	0.0	0.000624	TBXAS1
+79	Abnormality of the head	C4021812	1	1995	0.0	0.000632	TBXAS1
+80	Asthma	C0004096	1	1454	0.0	0.00064	TBXAS1
+81	Abnormal axial skeleton morphology	C4024586	1	1562	0.0	0.000648	TBXAS1
+82	Glomerulonephritis, Membranous	C0017658	1	267	0.0	0.000656	TBXAS1
+83	Phenotypic variability	C1837514	1	434	0.0	0.0006640000000000001	TBXAS1
+84	Splenomegaly	C0038002	1	285	0.0	0.0006720000000000001	TBXAS1
+85	Abnormality of limbs	C0239337	1	1290	0.0	0.00068	TBXAS1
+86	Alzheimer Disease	C0002395	1	1699	0.0	0.0006879999999999999	TBXAS1
+87	Abnormal bone structure	C4025630	1	530	0.0	0.000696	TBXAS1
+88	Iron Overload	C0282193	1	83	0.0	0.000704	TBXAS1
+89	Abnormality of cardiovascular system electrophysiology	C0243050	1	1568	0.0	0.000712	TBXAS1
+90	Tibia, hypoplasia or aplasia of, with polydactyly	C0040184	1	50	0.0	0.0007199999999999999	TBXAS1
+91	Abnormality of immune system physiology	C4023616	1	884	0.0	0.000728	TBXAS1
+92	Bowing of the long bones	C1855340	1	170	0.0	0.000736	TBXAS1
+93	Leukopenia	C0023530	1	301	0.0	0.000744	TBXAS1
+94	Abnormality of thrombocytes	C0151854	1	243	0.0	0.0007520000000000001	TBXAS1
+95	Abnormality of lower limb bone	C4022455	1	431	0.0	0.00076	TBXAS1
+96	Abnormality of the skull	C0235942	1	1324	0.0	0.000768	TBXAS1
+97	Stroke	C0038454	1	1229	0.0	0.000776	TBXAS1
+98	Autosomal recessive inheritance	C0441748	1	2006	0.0	0.0007840000000000001	TBXAS1
+99	Abnormality of the digestive system	C0266015	1	1679	0.0	0.0007920000000000001	TBXAS1
+100	Abnormal form of the vertebral bodies	C1839326	1	219	0.0	0.0008	TBXAS1
+101	Drug Allergy	C0013182	1	79	0.0	0.000808	TBXAS1
+103	Bruising susceptibility	C0009938	1	94	0.0	0.000824	TBXAS1
+104	Malignant mesothelioma	C0345967	1	266	0.0	0.000832	TBXAS1
+105	Abnormality of the abdominal organs	C4021764	1	842	0.0	0.00084	TBXAS1
+106	Abnormality of facial skeleton	C2315229	1	715	0.0	0.000848	TBXAS1
+107	Premature Obstetric Labor	C0022876	1	203	0.0	0.000856	TBXAS1
+108	Abnormal bone ossification	C4023161	1	471	0.0	0.000864	TBXAS1
+110	Preeclampsia/eclampsia 1	C0032914	1	371	0.0	0.00088	TBXAS1
+111	Fetal Membranes, Premature Rupture	C0015943	1	194	0.0	0.000888	TBXAS1
+112	Abnormality of the skin	C0037268	1	1376	0.0	0.000896	TBXAS1
+113	Brain Ischemia	C0007786	1	415	0.0	0.0009040000000000001	TBXAS1
+114	Ischaemic cerebral infarction	C0007785	1	297	0.0	0.000912	TBXAS1
+115	Abnormality of bone marrow cell morphology	C4021634	1	183	0.0	0.00092	TBXAS1
+116	Abnormality of abdomen morphology	C4020869	1	505	0.0	0.0009280000000000001	TBXAS1
+117	Bone marrow hypocellularity	C0151773	1	33	0.0	0.0009360000000000001	TBXAS1
+119	Abnormality of higher mental function	C4023352	1	920	0.0	0.0009519999999999999	TBXAS1
+121	Abnormality of pelvic girdle bone morphology	C4020847	1	353	0.0	0.000968	TBXAS1
+122	Abnormal platelet count	C0580317	1	212	0.0	0.000976	TBXAS1
+123	Abnormality of multiple cell lineages in the bone marrow	C0000772	1	79	0.0	0.000984	TBXAS1
+124	Abnormality of blood and blood-forming tissues	C0241657	1	1335	0.0	0.000992	TBXAS1
+125	Breast carcinoma	C0678222	1	4281	0.0	0.001	TBXAS1

@@ -1,0 +1,6 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+3	Taste bitter	C0235290	1	30	0.0	0.00042857142857142855	CA6
+4	Colorectal cancer	C1527249	1	2681	0.0	0.0005714285714285714	CA6
+5	Dryness of eye	C0314719	1	43	0.0	0.0007142857142857143	CA6
+6	Dental Caries	C0011334	1	259	0.0	0.0008571428571428571	CA6
+7	Tobacco Use Disorder	C0040336	1	3066	0.0	0.001	CA6

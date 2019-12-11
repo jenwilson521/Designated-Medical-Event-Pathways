@@ -1,0 +1,10 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Tobacco Use Disorder	C0040336	1	3066	0.0	0.0001111111111111111	PDE7A
+2	Chronic Lymphocytic Leukemia	C0023434	1	1176	0.0	0.0002222222222222222	PDE7A
+3	Exanthema	C0015230	1	366	0.0	0.0003333333333333333	PDE7A
+4	Pneumonia	C0032285	1	471	0.0	0.0004444444444444444	PDE7A
+5	Melioidosis, susceptibility to	C0025229	1	29	0.0	0.0005555555555555556	PDE7A
+6	Iron deficiency	C0240066	1	61	0.0	0.0006666666666666666	PDE7A
+7	Chronic obstructive pulmonary disease	C0024117	1	865	0.0	0.0007777777777777778	PDE7A
+8	Cystic Fibrosis	C0010674	1	451	0.0	0.0008888888888888888	PDE7A
+9	Pulmonary hypertension, neonatal, susceptibility to	C0020542	1	333	0.0	0.001	PDE7A

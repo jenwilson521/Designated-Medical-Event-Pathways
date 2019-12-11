@@ -1,0 +1,6 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+13	Cocaine Dependence	C0600427	2	56	5.43928723262e-06	4.545454545454546e-05	NSF,NAPA
+17	Progressive supranuclear ophthalmoplegia	C0038868	2	65	8.54169514319e-06	5.944055944055944e-05	NSF,STX6
+31	Myoclonus, intractable, neonatal	C0027066	2	146	9.63347209333e-05	0.00010839160839160839	STX16,GOSR2
+32	Pseudohypoparathyroidism, type IB, 603233 (3)	C1864100	1	25	0.000108924673316	0.00011188811188811189	STX16
+33	Hyperphosphatemia	C0085681	1	25	0.000108924673316	0.0001153846153846154	STX16

@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+14	Adverse drug events and drug allergies	C0041755	3	60	4.90800652164e-06	2.456140350877193e-05	ABCC2,CYP1A2,ABCC1
+19	Chromosome 11p deletion syndrome	C0812435	2	25	1.38168091026e-05	3.3333333333333335e-05	ABCC2,SLC22A6
+20	Growth Disorders	C0018273	3	81	1.62690999556e-05	3.508771929824561e-05	SLC22A4,CYP1A2,SLC22A5

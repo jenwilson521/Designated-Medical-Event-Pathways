@@ -1,0 +1,8 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Diabetes Mellitus, Type 1	C0011849	1	2081	0.0	0.00014285714285714284	HMGCS1
+2	Obesity	C0028754	1	2181	0.0	0.0002857142857142857	HMGCS1
+3	Neoplasm of the liver	C0023903	1	1290	0.0	0.00042857142857142855	HMGCS1
+4	Alzheimer Disease	C0002395	1	1699	0.0	0.0005714285714285714	HMGCS1
+5	Non-Hodgkin lymphoma	C0024305	1	556	0.0	0.0007142857142857143	HMGCS1
+6	Spinal cord compression	C0037926	1	31	0.0	0.0008571428571428571	HMGCS1
+7	Hepatocellular carcinoma	C2239176	1	3108	0.0	0.001	HMGCS1

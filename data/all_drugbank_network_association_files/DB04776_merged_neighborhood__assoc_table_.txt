@@ -1,0 +1,7 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Liver Cirrhosis, Biliary	C0023890	1	919	0.0	0.00016666666666666666	PDXK
+2	Non-small cell lung carcinoma	C0007131	1	1993	0.0	0.0003333333333333333	PDXK
+3	Parkinson Disease	C0030567	1	789	0.0	0.0005	PDXK
+4	Congenital chromosomal disease	C0008626	1	537	0.0	0.0006666666666666666	PDXK
+5	Status epilepticus	C0038220	1	185	0.0	0.0008333333333333334	PDXK
+6	Down Syndrome	C0013080	1	476	0.0	0.001	PDXK

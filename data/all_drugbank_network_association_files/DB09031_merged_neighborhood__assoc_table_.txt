@@ -1,0 +1,7 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Colorectal cancer 1	C0009402	2	2543	0.0	3.3333333333333335e-05	PLD1,LPCAT2
+2	Tobacco Use Disorder	C0040336	2	3066	0.0	6.666666666666667e-05	PLD1,LPCAT2
+3	Colorectal cancer	C1527249	2	2681	0.0	0.0001	PLD1,LPCAT2
+7	Infarction, Middle Cerebral Artery	C0740392	1	83	1.03832037511e-05	0.00023333333333333333	PLD1
+8	Epilepsy, Temporal Lobe	C0014556	1	192	5.59461228037e-05	0.0002666666666666667	PLD1
+9	Cardiomegaly	C0018800	1	279	0.000118327214812	0.0003	PLD1

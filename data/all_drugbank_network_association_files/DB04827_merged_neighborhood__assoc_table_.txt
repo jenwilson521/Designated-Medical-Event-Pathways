@@ -1,0 +1,6 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+9	Enteritis	C0014335	2	35	1.05290983932e-06	2.5495750708215297e-05	MPO,PLA2G4A
+16	Neurodegeneration with brain iron accumulation 4	C4055506	2	66	7.28127330107e-06	4.53257790368272e-05	MPO,PLA2G4A
+17	Duodenal Ulcer	C0013295	2	80	1.30089108871e-05	4.8158640226628896e-05	MPO,PLA2G4A
+19	Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	C0023485	2	107	3.11301521281e-05	5.38243626062323e-05	MPO,PLA2G4A
+24	Anaplastic Oligodendroglioma	C0334590	2	135	6.22748351016e-05	6.79886685552408e-05	PLA2G4A,PLA2G4C

@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+12	Latent Tuberculosis	C1609538	1	25	0.000108924673316	0.00013043478260869564	CES1

@@ -1,0 +1,11 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Colon cancer	C0007102	1	1727	0.0	0.0001	CA13
+2	Colorectal cancer 1	C0009402	1	2543	0.0	0.0002	CA13
+3	Congenital chromosomal disease	C0008626	1	537	0.0	0.0003	CA13
+4	Colorectal cancer	C1527249	1	2681	0.0	0.0004	CA13
+5	Carcinoma of colon	C0699790	1	1856	0.0	0.0005	CA13
+6	Age-related macular degeneration 2	C0242383	1	423	0.0	0.0006	CA13
+7	Rheumatoid arthritis	C0003873	1	1856	0.0	0.0007	CA13
+8	Osteoarthritis	C0029408	1	942	0.0	0.0008	CA13
+9	Colorectal Neoplasms	C0009404	1	1164	0.0	0.0009000000000000001	CA13
+10	Multiple Myeloma	C0026764	1	1236	0.0	0.001	CA13

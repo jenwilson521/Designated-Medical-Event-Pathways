@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+11	Chromosome 11p deletion syndrome	C0812435	3	25	2.8160822354e-06	1.4473684210526317e-05	ABCC2,SLC22A8,SLC22A6
+12	Adverse drug events and drug allergies	C0041755	4	60	4.17241720074e-06	1.5789473684210526e-05	ABCC2,SLCO1B1,ABCC1,ABCB1
+13	Extrahepatic cholestasis	C0005398	3	30	6.00804990158e-06	1.710526315789474e-05	ABCC2,SLC22A2,SLC22A1

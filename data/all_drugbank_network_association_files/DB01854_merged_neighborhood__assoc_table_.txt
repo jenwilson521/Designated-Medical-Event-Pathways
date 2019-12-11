@@ -1,0 +1,6 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Melanoma	C0025202	1	2386	0.0	0.0002	ART1
+2	Malignant neoplasm of pancreas	C0346647	1	1625	0.0	0.0004	ART1
+3	Pancreatic Carcinoma	C0235974	1	1690	0.0	0.0006	ART1
+4	Squamous cell carcinoma	C0007137	1	1855	0.0	0.0008	ART1
+5	Hepatocellular carcinoma	C2239176	1	3108	0.0	0.001	ART1

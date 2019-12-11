@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+7	Adverse drug events and drug allergies	C0041755	4	60	2.93906577642e-06	9.320905459387483e-06	ABCG2,ABCC2,ABCC1,ABCB1
+20	Ovarian epithelial cancer stage III	C0280220	3	43	1.96451449764e-05	2.663115845539281e-05	ABCG2,ABCC2,ABCB1
+21	Juvenile myoclonic epilepsy	C0270853	3	44	2.15484274759e-05	2.7962716378162453e-05	ABCG2,GABRB3,ABCB1
+23	Hippocampal sclerosis	C1504404	3	45	2.35836380045e-05	3.062583222370173e-05	ABCG2,ABCC1,ABCB1

@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Infection by Cryptococcus neoformans	C0010414	1	57	0.0	0.00014285714285714284	CYP51A1
+2	Mycoses	C0026946	1	241	0.0	0.0002857142857142857	CYP51A1
+4	Chronic Chagas' disease	C0041234	1	176	0.0	0.0005714285714285714	CYP51A1
+6	Leishmaniasis, Visceral	C0023290	1	89	0.0	0.0008571428571428571	CYP51A1

@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+15	Primary malignant neoplasm of liver	C0024620	3	25	4.23610025035e-06	1.9867549668874173e-05	CYP2D6,CYP3A4,ABCB1
+16	Heroin Dependence	C0019337	4	65	1.02457153462e-05	2.119205298013245e-05	CYP2D6,CYP3A4,SLC6A2,ABCB1
+32	Acute postoperative pain	C0030201	3	37	2.12313161203e-05	4.23841059602649e-05	CYP2D6,CYP3A4,ABCB1

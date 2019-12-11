@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+20	Bone necrosis	C0029445	3	45	6.62094469339e-06	1.8518518518518518e-05	CYP3A4,ESR1,ABCB1
+56	Menopause present (finding)	C0150312	3	61	2.24493831066e-05	5.185185185185185e-05	ESR1,ESR2,ABCB1
+59	Primary malignant neoplasm of liver	C0024620	2	25	4.12920421529e-05	5.462962962962963e-05	CYP3A4,ABCB1
+64	Malignant neoplasm of adrenal cortex	C0346402	2	26	4.65879078269e-05	5.925925925925926e-05	ESR1,ABCB1

@@ -1,0 +1,34 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Ischemic stroke	C0948008	1	401	0.0	2.631578947368421e-05	GAMT
+2	Abnormality of coordination	C4023353	1	598	0.0	5.263157894736842e-05	GAMT
+3	Seizures, Febrile	C0036572	1	1535	0.0	7.894736842105263e-05	GAMT
+4	Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	C0004134	1	740	0.0	0.00010526315789473683	GAMT
+5	Hypertonia	C0026826	1	537	0.0	0.00013157894736842105	GAMT
+6	Ischemic Cerebrovascular Accident	C3272363	1	338	0.0	0.00015789473684210527	GAMT
+7	Neurodevelopmental delay	C4022738	1	1140	0.0	0.00018421052631578948	GAMT
+8	Abnormality of the cerebellum	C1866129	1	798	0.0	0.00021052631578947367	GAMT
+9	Abnormal muscle tone	C0852413	1	1220	0.0	0.00023684210526315788	GAMT
+10	Hypotonia, infantile, with psychomotor retardation	C0026827	1	1017	0.0	0.0002631578947368421	GAMT
+11	Abnormality of movement	C0026650	1	1025	0.0	0.00028947368421052634	GAMT
+12	Abnormality of the metencephalon	C4023432	1	800	0.0	0.00031578947368421053	GAMT
+13	Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	C0557874	1	964	0.0	0.00034210526315789477	GAMT
+14	Abnormality of hindbrain morphology	C4021170	1	800	0.0	0.00036842105263157896	GAMT
+15	Disorder of amino acid metabolism	C0002514	1	30	0.0	0.00039473684210526315	GAMT
+16	Autosomal recessive inheritance	C0441748	1	2006	0.0	0.00042105263157894734	GAMT
+17	Abnormality of the musculature	C4021745	1	1765	0.0	0.0004473684210526316	GAMT
+18	Delayed speech and language development	C0241210	1	245	0.0	0.00047368421052631577	GAMT
+19	Neurodevelopmental abnormality	C0679378	1	1639	0.0	0.0005	GAMT
+20	Hyperreflexia	C0151889	1	472	0.0	0.0005263157894736842	GAMT
+21	Myoclonus, intractable, neonatal	C0027066	1	146	0.0	0.0005526315789473685	GAMT
+23	Upper motor neuron dysfunction	C1839042	1	864	0.0	0.0006052631578947369	GAMT
+24	Involuntary movements	C0427086	1	507	0.0	0.0006315789473684211	GAMT
+26	Abnormality of brain morphology	C4021085	1	1573	0.0	0.0006842105263157895	GAMT
+28	Abnormality of the nervous system	C0497552	1	2512	0.0	0.0007368421052631579	GAMT
+29	Morphological abnormality of the central nervous system	C4021765	1	1722	0.0	0.0007631578947368421	GAMT
+30	Spina bifida	C0080178	1	237	0.0	0.0007894736842105263	GAMT
+32	Abnormality of nervous system morphology	C4022810	1	1875	0.0	0.0008421052631578947	GAMT
+33	Abnormality of muscle physiology	C4023182	1	1477	0.0	0.000868421052631579	GAMT
+34	Intellectual developmental disorder with dysmorphic facies and ptosis	C3714756	1	1371	0.0	0.0008947368421052632	GAMT
+35	Abnormality of nervous system physiology	C4022811	1	2307	0.0	0.0009210526315789473	GAMT
+36	Abnormality of extrapyramidal motor function	C0234133	1	177	0.0	0.0009473684210526315	GAMT
+37	Abnormality of central motor function	C4023354	1	1196	0.0	0.0009736842105263158	GAMT

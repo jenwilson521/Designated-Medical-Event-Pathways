@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+22	Peptic Ulcer Hemorrhage	C0041582	2	36	1.00975923514e-05	3.235294117647059e-05	MME,AGT
+44	Aortic valve disease 2	C3542024	2	60	4.74852611395e-05	6.470588235294118e-05	MME,AGT
+64	Homocysteinemia due to MTHFR deficiency	C3495426	2	74	8.89630740666e-05	9.411764705882353e-05	AGT,SLCO1B1

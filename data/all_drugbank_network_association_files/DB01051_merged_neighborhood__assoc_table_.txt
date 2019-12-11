@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+7	Chromosome 11p deletion syndrome	C0812435	2	25	1.08117828757e-06	2.058823529411765e-05	SLC22A8,SLC22A6
+8	Cholestasis of pregnancy	C0268318	2	39	4.26422232425e-06	2.3529411764705884e-05	ABCB11,ABCG2
+18	Intrahepatic cholestasis	C0008372	2	60	1.57909516069e-05	5.294117647058824e-05	ABCB11,ABCG2
+24	Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	C0740394	2	69	2.40628222244e-05	7.058823529411764e-05	SLC22A11,ABCG2

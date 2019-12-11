@@ -1,0 +1,14 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Gallbladder disease 4	C0012634	1	785	0.0	6.25e-05	BLVRB
+2	Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	C0013336	1	949	0.0	0.000125	BLVRB
+3	Chronic myelomonocytic leukemia	C0023480	1	115	0.0	0.0001875	BLVRB
+4	Acute myeloid leukemia	C0023467	1	1733	0.0	0.00025	BLVRB
+5	Abnormality of the pituitary gland	C0032002	1	645	0.0	0.0003125	BLVRB
+6	Esophageal Squamous Cell Carcinoma	C0279626	1	888	0.0	0.000375	BLVRB
+7	Malnutrition	C0162429	1	122	0.0	0.0004375	BLVRB
+8	Graves Disease	C0018213	1	374	0.0	0.0005	BLVRB
+10	Ovarian epithelial cancer	C0677886	1	2172	0.0	0.000625	BLVRB
+11	Hepatocellular carcinoma	C2239176	1	3108	0.0	0.0006875	BLVRB
+12	Neurofibromatosis, type 1, 162200 (3)	C0027831	1	152	0.0	0.00075	BLVRB
+15	Neoplasm of the liver	C0023903	1	1290	0.0	0.0009375	BLVRB
+16	Stomach Neoplasms	C0038356	1	916	0.0	0.001	BLVRB

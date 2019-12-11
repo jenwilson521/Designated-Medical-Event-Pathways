@@ -1,0 +1,13 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Gastrointestinal stromal tumor	C0238198	1	340	0.0	7.692307692307693e-05	CMAS
+2	Hepatic steatosis	C0015695	1	427	0.0	0.00015384615384615385	CMAS
+3	Clear cell renal cell carcinoma	C0279702	1	368	0.0	0.0002307692307692308	CMAS
+4	Glioblastoma multiforme	C1621958	1	434	0.0	0.0003076923076923077	CMAS
+5	Sarcoma, Ewing	C1261473	1	829	0.0	0.00038461538461538467	CMAS
+6	Glioblastoma	C0017636	1	1645	0.0	0.0004615384615384616	CMAS
+7	Steatohepatitis	C2711227	1	222	0.0	0.0005384615384615384	CMAS
+8	Immunodeficiency due to defect in CD3-gamma	C0021051	1	571	0.0	0.0006153846153846154	CMAS
+9	Vasculitis	C0042384	1	183	0.0	0.0006923076923076923	CMAS
+10	Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	C0013336	1	949	0.0	0.0007692307692307693	CMAS
+11	Paragangliomas 1	C0030421	1	76	0.0	0.0008461538461538462	CMAS
+13	Colorectal cancer 1	C0009402	1	2543	0.0	0.001	CMAS
