@@ -1,0 +1,4 @@
+VARS		1	
+PCCB		1	
+SLC16A10		1	
+BCAT1		1	

@@ -1,0 +1,5 @@
+FADS1		1	
+SLC8A1		1	
+FADS2		1	
+TRPV1		1	
+FABP7		1	

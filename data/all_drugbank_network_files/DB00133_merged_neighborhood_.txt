@@ -1,0 +1,7 @@
+SLC16A10		1	
+AGXT		1	
+SPTLC1		1	
+SRR		1	
+SARS		1	
+CBS		1	
+SPTLC2		1	

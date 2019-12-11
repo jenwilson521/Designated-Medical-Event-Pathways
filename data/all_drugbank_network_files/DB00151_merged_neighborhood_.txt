@@ -1,0 +1,13 @@
+GCLC		1	
+SLC16A10		1	
+SLC19A3		1	
+CBS		1	
+CARS		1	
+GOT1		1	
+CDO1		1	
+MGMT		1	
+GSS		1	
+GCLM		1	
+CTH		1	
+CSAD		1	
+NFS1		1	

@@ -1,0 +1,5 @@
+GLRB		1	
+GLRA3		1	
+GLRA1		1	
+GLRA2		1	
+GABRB1		1	

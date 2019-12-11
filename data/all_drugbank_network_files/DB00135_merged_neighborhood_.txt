@@ -1,0 +1,6 @@
+YARS2		1	
+SLC16A10		1	
+YARS		1	
+SLC16A2		1	
+TH		1	
+TAT		1	

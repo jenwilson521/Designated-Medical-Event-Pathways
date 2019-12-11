@@ -1,0 +1,8 @@
+PAH		1	
+SLC16A10		1	
+FARSB		1	
+FARSA		1	
+TAT		1	
+FARS2		1	
+TH		1	
+SLC7A8		1	
