@@ -1,0 +1,489 @@
+PIK3R1	EGFR	
+FYN	SRC	
+Indomethacin	GLO1	
+NCOR1	PPARA	
+Diflunisal	ALB	
+VEGFA	NCK1	
+SRC	PAK1	
+Ibuprofen	ABCC4	
+LCK	FYN	
+Sulindac	PTGDR2	
+PDGFRB	FGF5	
+Indomethacin	PTGS1	
+FGFR3	FYN	
+VEGFA	PAK2	
+Oxcarbazepine	SCN5A	
+Indomethacin	UGT2B7	
+NCOR2	PPARA	
+EREG	FYN	
+PPBP	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	
+Dasatinib	CYP1A1	
+Ramucirumab	KDR	
+Celecoxib	PDPK1	
+Valsartan	SLCO1B1	
+SRC	VEGFA	
+CDC42	FYN	
+PDGFRB	FGFR2	
+Sulindac	ALB	
+Sulindac	PTGS2	
+FGA	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+FGF22	FYN	
+Ibuprofen	ABCB1	
+PDGFRB	NCK1	
+Celecoxib	CYP2C8	
+Dasatinib	LCK	
+Vandetanib	PTK6	
+GRB2	FYN	
+AGT	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+PDGFRB	ERBB2	
+EGFR	OCRL	
+PDGFRB	FGF7	
+PIK3CA	VEGFA	
+Naproxen	SLCO1A2	
+Perindopril	SLC15A2	
+Naproxen	CYP2C8	
+Flurbiprofen	UGT1A1	
+SOS1	FYN	
+Ibuprofen	SLCO1A2	
+Ibuprofen	PPARG	
+PDGFRB	PTPN11	
+Auranofin	PRDX5	
+Ibuprofen	ABCC1	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PPBP	
+Etodolac	SLC22A6	
+PDGFRB	FGF9	
+CFTR	SCARB2	
+Etodolac	CYP2C9	
+PAK1	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+Sulindac	PTGS1	
+Diflunisal	TTR	
+VEGFA	PIK3CA	
+ALB	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+PDGFRB	FGF16	
+Acitretin	RXRB	
+Indomethacin	PTGS2	
+PIK3CA	LCK	
+PDGFRB	FGF8	
+LCK	YES1	
+PDGFRB	NRG1	
+PDGFRB	HRAS	
+PDGFRB	PIK3R2	
+PDGFRB	BTC	
+RHOA	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+ERBB2	FYN	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CTSL	
+Dasatinib	ABCB1	
+Etodolac	PTGS1	
+LCK	B2M	
+NCK2	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+FGF4	FYN	
+Dasatinib	KIT	
+OCRL	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+Valsartan	SLCO1B3	
+Celecoxib	PTGS2	
+Ibuprofen	SLC22A8	
+HP	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+MTHFR	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+PTGDR2	PPBP	
+EPHA2	SRC	
+KDR	PAK2	
+AGT	Proteinuria Adverse Event	
+PIK3R2	FYN	
+Flurbiprofen	ABCC4	
+PIK3R1	LCK	
+SRC	NCK2	
+FYN	B2M	
+Captopril	MMP2	
+PIK3R1	VEGFA	
+PTK6	EGFR	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	NPHS1	
+Dasatinib	STAT5B	
+CTSL	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+Piroxicam	CYP2C8	
+FGF9	FYN	
+Naproxen	CYP2C9	
+Ibuprofen	UGT1A3	
+Flurbiprofen	CYP2C9	
+Naproxen	UGT1A1	
+EGFR	PIK3R1	
+PIK3R2	EGFR	
+Ibuprofen	BCL2	
+FYN	CD80	
+FYN	EGFR	
+STAT5B	JAK2	
+SRC	FGA	
+Vandetanib	CYP3A4	
+PIK3CA	FYN	
+CFH	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+EGFR	SCARB2	
+FGFR2	FYN	
+YES1	CD80	
+HBEGF	FYN	
+Ibuprofen	PTGS1	
+HDAC3	PPARA	
+PDPK1	CD80	
+Trandolapril	ACE	
+LCK	CD80	
+KITLG	YES1	
+Ibuprofen	SLCO2B1	
+Vandetanib	EGFR	
+PDGFRB	FGF20	
+RARA	RXRA	
+PPARG	HDAC3	
+Ibuprofen	FABP2	
+PDGFRB	FGF6	
+Sulindac	SLC22A6	
+Celecoxib	CYP2D6	
+Dasatinib	CYP1A2	
+FYN	CD2AP	
+Dasatinib	PDGFRB	
+PDGFRB	FGF19	
+ERBB4	FYN	
+ACE	AGT	
+FGF16	FYN	
+ADRA1B	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	
+GRB2	LCK	
+Ramipril	SLC15A2	
+LCK	HLA-DQA1	
+FYN	RHOA	
+HRAS	FYN	
+PIK3CB	FYN	
+NCK1	FYN	
+Flurbiprofen	UGT1A3	
+SRC	NCK1	
+CFTR	DERL1	
+FABP2	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+PDGFRB	FGF1	
+ACE	Proteinuria Adverse Event	
+FGF5	FYN	
+JAK2	SRC	
+AGTR1	Proteinuria Adverse Event	
+JAK2	LCK	
+PTPN11	FYN	
+Piroxicam	SLC22A11	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	HP	
+Acitretin	RBP1	
+Ibuprofen	UGT1A9	
+EGFR	PIK3CA	
+Diflunisal	UGT1A8	
+Vandetanib	ORM1	
+Indomethacin	UGT1A9	
+SCN5A	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	
+Dasatinib	ABL2	
+FGF3	FYN	
+Etodolac	UGT1A3	
+PDGFRB	ERBB4	
+YES1	FYN	
+PTGS2	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ALB	
+Flurbiprofen	SLC22A6	
+FGF19	FYN	
+Acitretin	ALB	
+PDGFRB	FGF23	
+BTC	FYN	
+PDGFRB	KL	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	FN1	
+Flurbiprofen	UGT2B7	
+PTPN11	LCK	
+Benazepril	MTHFR	
+LCK	PTPN22	
+Vandetanib	FMO1	
+REN	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+PDGFRB	FGFR3	
+Ibuprofen	THBD	
+Ibuprofen	PTGS2	
+Dasatinib	YES1	
+FYN	LCK	
+Dasatinib	ABL1	
+Vandetanib	ALB	
+Acitretin	RARG	
+Indomethacin	ABCC1	
+PDGFRB	FGF18	
+SRC	FN1	
+APOE	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+Naproxen	CYP1A2	
+Ibuprofen	CYP2C19	
+HSP90AA1	VEGFA	
+Indomethacin	UGT1A1	
+FYN	PAK2	
+Indomethacin	ALB	
+LCK	HLA-DPB1	
+INSR	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+Ibuprofen	CYP2C9	
+SOS1	LCK	
+Indomethacin	ABCC6	
+Etodolac	UGT1A9	
+Trandolapril	CES1	
+VEGFA	PTK2	
+Etodolac	UGT2B7	
+HSP90AA1	EGFR	
+Indomethacin	ABCC11	
+SRC	EGFR	
+LAT	EGFR	
+Vandetanib	TEK	
+PTPN22	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+Diflunisal	PTGS1	
+Indomethacin	CYP2C19	
+Valsartan	AGTR1	
+Indomethacin	PLA2G2A	
+VEGFA	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+PDGFRB	GRB2	
+Flurbiprofen	PTGS1	
+PIK3CB	VEGFA	
+PDGFRB	FGF3	
+Insulin Detemir	CYP1A2	
+EGFR	SRC	
+FGF10	FYN	
+POMC	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+SRC	RHOA	
+PIK3R2	LCK	
+FN1	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+Acitretin	RXRA	
+Dasatinib	CYP3A5	
+NRG1	FYN	
+Indomethacin	ABCC4	
+Piroxicam	PTGS1	
+PDGFRB	FGF2	
+Ramipril	BCHE	
+Captopril	ACE	
+Perindopril	BCHE	
+EGFR	RET	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	DERL1	
+Benazepril	ACE	
+ALB	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	
+PDGFRB	FGF10	
+KIT	FYN	
+CYP2C9	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+EGFR	LAT	
+Oxcarbazepine	CYP3A5	
+Flurbiprofen	UGT2B4	
+Celecoxib	ABCC4	
+PDGFRB	PIK3CB	
+ABL2	ABL1	
+Indomethacin	CES1	
+Captopril	ABCB1	
+Ibuprofen	CYP2C8	
+Indomethacin	SLC22A11	
+Etodolac	PTGS2	
+Etodolac	ALB	
+PPARG	MED1	
+NCK1	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ADRA1B	
+Indomethacin	ABCC3	
+Valsartan	CYP2C9	
+Sulindac	PPARD	
+Captopril	LTA4H	
+Insulin Detemir	INSR	
+ABL1	CDC42	
+INSR	INS	
+PDGFRB	FGF22	
+CD80	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+Sulindac	CYP1A1	
+Sulindac	AKR1B1	
+CRABP2	RXRA	
+Insulin Detemir	ALB	
+PTGDR2	POMC	
+FGF18	FYN	
+HLA-DQA1	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+VEGFA	PIK3R2	
+PDGFRB	SRC	
+Auranofin	ALB	
+Ibuprofen	PLAT	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	APOE	
+VEGFA	FYN	
+ACE	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+CDC42	LCK	
+FRS2	LCK	
+INS	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+KLB	FYN	
+Indomethacin	ABCB1	
+PDGFRB	EREG	
+YES1	RHOA	
+PIK3R2	VEGFA	
+Captopril	SLC22A6	
+Oxcarbazepine	CYP2C19	
+Diflunisal	PTGS2	
+PAK2	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+KIT	LCK	
+Dasatinib	SRC	
+Flurbiprofen	PTGS2	
+PPBP	PTGDR2	
+EGFR	PIK3CB	
+FGF20	FYN	
+JAK2	YES1	
+EPHA2	RHOA	
+SRC	CD80	
+FYN	NCK2	
+EPHA2	LYN	
+Benazepril	SLC15A2	
+APOA1	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+Indomethacin	SLC22A6	
+RXRB	CRABP2	
+NRG4	FYN	
+Indomethacin	CYP2C9	
+SCARB2	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+Ibuprofen	SLC22A6	
+TTR	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	
+Captopril	ALB	
+Celecoxib	ALB	
+ACE	REN	
+CD2AP	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+Vandetanib	VEGFA	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	LAT	
+Indomethacin	ABCC2	
+CFTR	LRP2	
+LYN	LCK	
+PDGFRB	FGFR4	
+PTGDR2	SAA1	
+YES1	SRC	
+EGFR	LRP2	
+PIK3CB	EGFR	
+Diflunisal	SLC22A6	
+MTHFR	Proteinuria Adverse Event	
+Dasatinib	FYN	
+Naproxen	ALB	
+Celecoxib	CYP2C9	
+Dasatinib	CYP1B1	
+Sulindac	MAPK3	
+VEGFA	HSP90AA1	
+FGF7	FYN	
+Perindopril	ACE	
+FYN	VEGFA	
+PDGFRB	FGF4	
+PPARA	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+FYN	NCK1	
+Piroxicam	SLC22A8	
+NPHS1	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+B2M	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+Piroxicam	SLC22A6	
+PDGFRB	KLB	
+Acitretin	RXRG	
+Piroxicam	CYP2C9	
+FGFR1	FYN	
+Naproxen	PTGS2	
+HLA-DRB1	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+AGTR1	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+Etodolac	RXRA	
+PTK2	VEGFA	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CFH	
+VEGFA	RHOA	
+AGTR1	SAA1	
+Naproxen	UGT2B7	
+RARG	CRABP2	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	APOA1	
+RXRA	NCOA3	
+KL	FYN	
+Trandolapril	SLC15A2	
+KDR	RHOA	
+EGFR	FYN	
+PPARG	NCOR1	
+FGF2	FYN	
+Ibuprofen	CFTR	
+Indomethacin	PPARG	
+LCK	HLA-DRB1	
+Vandetanib	ABCC1	
+DERL1	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	
+FYN	NPHS1	
+Vandetanib	ABCG2	
+TEK	EGFR	
+Oxcarbazepine	ALB	
+EPHA2	FYN	
+Valsartan	ALB	
+Ibuprofen	SLC22A11	
+Piroxicam	PTGS2	
+Piroxicam	ALB	
+Flurbiprofen	UGT1A9	
+PDGFRB	FGF17	
+KIT	YES1	
+KIT	SRC	
+PDGFRB	PIK3CA	
+YES1	LCK	
+MED1	PPARA	
+NPHS1	Proteinuria Adverse Event	
+Flurbiprofen	ALB	
+Captopril	MMP9	
+Vandetanib	FMO3	
+VEGFA	SRC	
+FGF1	FYN	
+Auranofin	IKBKB	
+AGTR1	AGT	
+CDC42	SRC	
+DERL1	CFTR	
+NCOA3	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	
+FGFR4	FYN	
+Indomethacin	SLC10A1	
+FYN	PAK1	
+EGFR	PIK3R2	
+Ibuprofen	UGT2B7	
+PDGFRB	SOS1	
+Indomethacin	SLCO1A2	
+RARB	CRABP2	
+CFTR	OCRL	
+Celecoxib	CYP3A4	
+SAA1	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+FRS2	FYN	
+PDGFRB	SHC1	
+VEGFA	PIK3R1	
+SRC	FYN	
+RXRG	CRABP2	
+LCK	SRC	
+Ibuprofen	UGT2B4	
+PDGFRB	NRG4	
+FGF6	FYN	
+PIK3CB	LCK	
+Acitretin	RARB	
+STAT5B	KITLG	
+Etodolac	UGT1A10	
+Sulindac	CYP1A2	
+Indomethacin	SLC22A8	
+VEGFA	NCK2	
+LRP2	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+FGF17	FYN	
+KITLG	FYN	
+Naproxen	PTGS1	
+Dasatinib	EPHA2	
+Indomethacin	PTGDR2	
+SRC	LCK	
+Perindopril	ABCB1	
+Celecoxib	ORM1	
+FGF8	FYN	
+EPHA2	YES1	
+EGFR	HSP90AA1	
+PIK3CA	EGFR	
+PDGFRB	FGFR1	
+KDR	NCK2	
+Acitretin	CYP26A1	
+Indomethacin	PTGR2	
+Ibuprofen	ALB	
+PDGFRB	PIK3R1	
+Dasatinib	CYP3A4	
+PDGFRB	HBEGF	
+STAT5B	KIT	
+PPARG	NCOR2	
+Captopril	CYP2D6	
+Ibuprofen	UGT1A1	
+KITLG	LCK	
+FGF23	FYN	
+Ramipril	ACE	
+LAT	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	
+Naproxen	SLC22A6	
+Acitretin	RARA	
+HLA-DPB1	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+RET	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	
+ADRA1B	AGTR1	
+Dasatinib	ABCG2	
+EGFR	PTK2	
+JAK2	FYN	
+Dasatinib	FMO3	
+CYP2C9	Proteinuria Adverse Event	
+PDGFRB	FRS2	
+SHC1	FYN	
+PIK3R1	FYN	
+PTK2	EGFR	
+KITLG	SRC	
+KDR	NCK1	
+VEGFA	PIK3CB	
+AGTR1	ADRA1B	
+Oxcarbazepine	CYP3A4	
+PDPK1	RHOA	
+Indomethacin	PPARA	
