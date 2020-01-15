@@ -15,6 +15,14 @@ new_cols = ['Predicted Cotherapy','Relationship','dme','Drugs with labeled DME',
 sumdf = sumdf[new_cols]
 sumdf.to_csv(open('../data/cotherapy/summary_data_for_EHR.csv','w'),index=False)
 
+# count unique predictions
+uniqe_pre = set()
+for (c,r,d,dlist,pgenes,p,n,ext) in sumdf.itertuples(index=False):
+	d_split = list(set([d for a in dlist.split('|') for d in a.split(',')]))
+	for dname in d_split:
+		uniqe_pre.add((c,dname,d))
+print('number of unique combinations: '+str(len(uniqe_pre)))
+
 # specifically select for DME combinations that would exacerbate a DME
 toi = ['Activates','Aggravates','Induces'] # interaction types of interest
 actdf = sumdf.loc[sumdf['Relationship'].isin(toi)]
@@ -25,6 +33,7 @@ for (c,r,d,dlist,pgenes,p,n,ext) in actdf.itertuples(index=False):
 		split_data.append([c,r,d,dname,pgenes,p,n,ext])
 actdf_split = pd.DataFrame(split_data, columns = actdf.columns)
 actdf_split.to_csv(open('../data/cotherapy/activate_summary_data_for_EHR.csv','w'),index=False)
+print('number of activating combinations: '+str(len(split_data)))
 
 # repeat process to look for combinations that prevent a DME
 toi = ['Prevcents','Prevents','Prevents?','Inhibits']
@@ -36,4 +45,4 @@ for (c,r,d,dlist,pgenes,p,n,ext) in predf.itertuples(index=False):
 		split_data.append([c,r,d,dname,pgenes,p,n,ext])
 predf_split = pd.DataFrame(split_data, columns = predf.columns)
 predf_split.to_csv(open('../data/cotherapy/prevent_summary_data_for_EHR.csv','w'),index=False) 
-
+print('number of mitigating combinations: '+str(len(split_data)))
