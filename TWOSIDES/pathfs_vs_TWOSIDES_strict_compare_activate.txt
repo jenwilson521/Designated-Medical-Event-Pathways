@@ -1,0 +1,74 @@
+drug1	drug2	DME	TWOSIDES condition name	PRR	PRR error	mean reporting freq	
+aspirin	nabumetone	gastric ulcer	gastric ulcer	5.55556	0.555761	0.0101833	
+dronabinol	gabapentin	pancreatitis	pancreatitis	4.16667	0.525952	0.0304878	
+aspirin	ibuprofen	gastric ulcer	gastric ulcer	10.4598	0.149418	0.0130298	
+aspirin	ibuprofen	gastric ulcer	gastric ulcer haemorrhage	8.42105	0.2396	0.0045819	
+aspirin	ibuprofen	gastric ulcer	gastric ulcer perforation	18.0	0.394206	0.00257732	
+dabigatran etexilate	clonidine	myocardial infarction	acute myocardial infarction	6.66667	0.909941	0.00970874	
+dabigatran etexilate	clonidine	myocardial infarction	myocardial infarction	0.689655	0.511763	0.0194175	
+dabigatran etexilate	cyclobenzaprine	myocardial infarction	acute myocardial infarction	10.0	0.810117	0.0283019	
+dabigatran etexilate	cyclobenzaprine	myocardial infarction	myocardial infarction	1.2	0.602458	0.0283019	
+dabigatran etexilate	diphenhydramine	myocardial infarction	myocardial infarction	0.454545	1.01667	0.0107527	
+epinephrine	metoprolol	gastric ulcer	gastric ulcer	3.33333	1.15334	0.00285714	
+epinephrine	metoprolol	gastric ulcer	gastric ulcer haemorrhage	10.0	1.4131	0.00285714	
+dabigatran etexilate	pramipexole	myocardial infarction	myocardial infarction	2.22222	0.540796	0.047619	
+candesartan	dabigatran etexilate	myocardial infarction	acute myocardial infarction	5.0	0.497089	0.0158311	
+candesartan	dabigatran etexilate	myocardial infarction	myocardial infarction	1.66667	0.294688	0.0343008	
+dabigatran etexilate	losartan	myocardial infarction	acute myocardial infarction	4.44444	0.423225	0.0104439	
+dabigatran etexilate	losartan	myocardial infarction	myocardial infarction	0.606061	0.323457	0.0130548	
+dabigatran etexilate	donepezil	myocardial infarction	acute myocardial infarction	3.33333	1.15216	0.00531915	
+dabigatran etexilate	donepezil	myocardial infarction	myocardial infarction	0.952381	0.517647	0.0212766	
+dabigatran etexilate	hydroxyzine	myocardial infarction	myocardial infarction	1.11111	1.04536	0.0166667	
+dabigatran etexilate	telmisartan	myocardial infarction	acute myocardial infarction	7.14286	0.581662	0.0205761	
+dabigatran etexilate	telmisartan	myocardial infarction	myocardial infarction	0.425532	0.718853	0.00823045	
+dabigatran etexilate	doxazosin	myocardial infarction	acute myocardial infarction	6.66667	0.90997	0.00961538	
+dabigatran etexilate	doxazosin	myocardial infarction	myocardial infarction	0.425532	0.718323	0.00961538	
+aspirin	thalidomide	gastric ulcer	gastric ulcer	3.84615	0.525193	0.00498008	
+dabigatran etexilate	imipramine	myocardial infarction	myocardial infarction	10.0	1.37477	0.1	
+olanzapine	dabigatran etexilate	myocardial infarction	myocardial infarction	10.0	1.3972	0.0434783	
+memantine	promethazine	delirium	delirium	3.33333	1.14788	0.0142857	
+dabigatran etexilate	escitalopram	myocardial infarction	acute myocardial infarction	3.33333	0.813673	0.0083682	
+dabigatran etexilate	escitalopram	myocardial infarction	myocardial infarction	0.689655	0.512483	0.0167364	
+dronabinol	mirtazapine	pancreatitis	pancreatitis	10.0	0.805903	0.046875	
+dronabinol	mirtazapine	pancreatitis	pancreatitis acute	5.0	1.21771	0.015625	
+dabigatran etexilate	trazodone	myocardial infarction	acute myocardial infarction	2.5	1.11492	0.00632911	
+dabigatran etexilate	trazodone	myocardial infarction	myocardial infarction	0.555556	0.721676	0.0126582	
+dabigatran etexilate	disopyramide	myocardial infarction	myocardial infarction	2.0	1.08012	0.030303	
+dabigatran etexilate	mirtazapine	myocardial infarction	acute myocardial infarction	8.0	0.665062	0.027972	
+dabigatran etexilate	mirtazapine	myocardial infarction	myocardial infarction	2.0	0.438529	0.041958	
+valsartan	dabigatran etexilate	myocardial infarction	acute myocardial infarction	7.69231	0.418894	0.0131926	
+valsartan	dabigatran etexilate	myocardial infarction	myocardial infarction	0.526316	0.360732	0.0105541	
+dabigatran etexilate	heparin	myocardial infarction	acute myocardial infarction	15.0	0.638045	0.0521739	
+dabigatran etexilate	tramadol	myocardial infarction	acute myocardial infarction	6.66667	0.454014	0.0160321	
+dabigatran etexilate	tramadol	myocardial infarction	myocardial infarction	0.824742	0.364835	0.0160321	
+dabigatran etexilate	amitriptyline	myocardial infarction	acute myocardial infarction	5.0	0.860761	0.0165289	
+dabigatran etexilate	amitriptyline	myocardial infarction	myocardial infarction	0.645161	0.723303	0.0165289	
+quetiapine	dronabinol	pancreatitis	pancreatitis	5.0	0.852406	0.0425532	
+dabigatran etexilate	citalopram	myocardial infarction	acute myocardial infarction	4.44444	0.598154	0.0120846	
+dabigatran etexilate	citalopram	myocardial infarction	myocardial infarction	1.55172	0.353595	0.0271903	
+dabigatran etexilate	ropinirole	myocardial infarction	myocardial infarction	0.416667	1.01522	0.01	
+dabigatran etexilate	ropinirole	sepsis	sepsis	1.66667	0.756527	0.02	
+dronabinol	diphenoxylate	pancreatitis	pancreatitis	35.0	0.787945	0.14	
+dabigatran etexilate	metoclopramide	myocardial infarction	acute myocardial infarction	6.66667	0.907059	0.0192308	
+dabigatran etexilate	metoclopramide	myocardial infarction	myocardial infarction	0.666667	0.723019	0.0192308	
+epinephrine	lidocaine	myopathy	stress cardiomyopathy	10.0	0.815626	0.00387597	
+epinephrine	lidocaine	myopathy	cardiomyopathy	7.77778	0.502541	0.00904393	
+epinephrine	lidocaine	myopathy	congestive cardiomyopathy	2.5	1.1174	0.00129199	
+epinephrine	lidocaine	myopathy	ischaemic cardiomyopathy	10.0	1.41371	0.00129199	
+dabigatran etexilate	olmesartan	myocardial infarction	acute myocardial infarction	0.833333	1.03934	0.0028169	
+dabigatran etexilate	olmesartan	myocardial infarction	myocardial infarction	0.375	0.585436	0.0084507	
+erlotinib	sorafenib	neuropathy	optic ischaemic neuropathy	10.0	1.41254	0.00431034	
+erlotinib	sorafenib	neuropathy	polyneuropathy	2.5	1.11591	0.00431034	
+aspirin	caffeine	gastric ulcer	gastric ulcer	13.6842	0.300067	0.0248804	
+aspirin	caffeine	gastric ulcer	gastric ulcer haemorrhage	25.0	0.836031	0.00478469	
+dabigatran etexilate	nortriptyline	myocardial infarction	myocardial infarction	10.0	1.39792	0.0416667	
+dabigatran etexilate	irbesartan	myocardial infarction	acute myocardial infarction	8.33333	0.60239	0.0172414	
+dabigatran etexilate	irbesartan	myocardial infarction	myocardial infarction	1.5	0.352115	0.0310345	
+aspirin	meloxicam	gastric ulcer	gastric ulcer	8.20513	0.237595	0.0127847	
+aspirin	meloxicam	gastric ulcer	gastric ulcer haemorrhage	11.6667	0.392839	0.00559329	
+aspirin	meloxicam	gastric ulcer	gastric ulcer perforation	20.0	1.22457	0.000799041	
+sulfasalazine	aspirin	sepsis	neutropenic sepsis	70.0	1.06834	0.00960219	
+sulfasalazine	aspirin	sepsis	staphylococcal sepsis	2.5	1.11736	0.00137174	
+sulfasalazine	aspirin	sepsis	streptococcal sepsis	10.0	1.41368	0.00137174	
+sulfasalazine	aspirin	sepsis	bacterial sepsis	10.0	1.41368	0.00137174	
+sulfasalazine	aspirin	sepsis	sepsis	3.6	0.272115	0.0246914	

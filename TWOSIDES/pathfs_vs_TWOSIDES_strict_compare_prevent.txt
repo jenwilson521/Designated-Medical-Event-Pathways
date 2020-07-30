@@ -1,0 +1,715 @@
+drug1	drug2	DME	TWOSIDES condition name	PRR	PRR error	mean reporting freq	
+aripiprazole	ambrisentan	hypertension	pulmonary arterial hypertension	5.0	1.20416	0.0454545	
+dronabinol	gabapentin	myocardial infarction	myocardial infarction	1.08108	0.519923	0.0243902	
+aspirin	ibuprofen	myocardial infarction	acute myocardial infarction	5.72368	0.13385	0.012457	
+aspirin	ibuprofen	myocardial infarction	myocardial infarction	2.14841	0.0619571	0.0435281	
+aspirin	ibuprofen	myocardial infarction	silent myocardial infarction	1.42857	0.755825	0.000286369	
+losartan	ambrisentan	hypertension	pulmonary arterial hypertension	40.0	1.1162	0.0148699	
+losartan	ambrisentan	hypertension	pulmonary hypertension	20.0	0.609024	0.0297398	
+losartan	ambrisentan	hypertension	hypertension	0.833333	0.733197	0.00743494	
+aspirin	escitalopram	myocardial infarction	acute myocardial infarction	3.70787	0.203079	0.00893341	
+aspirin	escitalopram	myocardial infarction	myocardial infarction	1.44531	0.100067	0.0300487	
+hydrochlorothiazide	cabergoline	hypertension	hypertension	7.5	0.745542	0.075	
+clopidogrel	mirtazapine	myocardial infarction	acute myocardial infarction	4.78261	0.364233	0.0172144	
+clopidogrel	mirtazapine	myocardial infarction	myocardial infarction	2.55814	0.190614	0.0516432	
+ambrisentan	midodrine	hypertension	hypertension	10.0	1.40074	0.0344828	
+atropine	carvedilol	sepsis	sepsis	13.3333	0.750052	0.0754717	
+atropine	clonidine	sepsis	sepsis	5.0	0.689991	0.0652174	
+aspirin	apomorphine	myocardial infarction	acute myocardial infarction	5.0	1.21771	0.015625	
+aspirin	apomorphine	myocardial infarction	myocardial infarction	6.36364	0.46538	0.109375	
+aspirin	doxazosin	myocardial infarction	acute myocardial infarction	3.94737	0.214824	0.00932836	
+aspirin	doxazosin	myocardial infarction	myocardial infarction	1.35359	0.106034	0.0304726	
+aspirin	doxazosin	myocardial infarction	silent myocardial infarction	1.66667	1.07997	0.000310945	
+paroxetine	clopidogrel	myocardial infarction	acute myocardial infarction	3.75	0.389497	0.00875486	
+paroxetine	clopidogrel	myocardial infarction	myocardial infarction	3.58491	0.129633	0.07393	
+aspirin	amoxapine	myocardial infarction	myocardial infarction	10.0	0.681554	0.129032	
+ibuprofen	alteplase	pneumonia	pneumonia	3.33333	0.792074	0.0714286	
+pseudoephedrine	aspirin	myocardial infarction	acute myocardial infarction	11.0	0.434887	0.0178282	
+pseudoephedrine	aspirin	myocardial infarction	myocardial infarction	2.12598	0.207673	0.0437601	
+amitriptyline	cevimeline	sepsis	sepsis	5.0	1.20208	0.05	
+trimipramine	clopidogrel	myocardial infarction	myocardial infarction	10.0	1.38804	0.0666667	
+hydrochlorothiazide	quetiapine	hypertension	pulmonary hypertension	2.91667	0.428799	0.00416915	
+hydrochlorothiazide	quetiapine	hypertension	hypertension	5.97345	0.105721	0.080405	
+hydrochlorothiazide	quetiapine	hypertension	orthostatic hypertension	10.0	1.41398	0.000595593	
+aspirin	metoclopramide	myocardial infarction	acute myocardial infarction	7.97101	0.179637	0.0202578	
+aspirin	metoclopramide	myocardial infarction	myocardial infarction	1.80887	0.103611	0.0390424	
+aspirin	metoclopramide	myocardial infarction	silent myocardial infarction	10.0	1.41407	0.000368324	
+atropine	dobutamine	sepsis	sepsis	7.5	0.757065	0.0277778	
+aspirin	ketoprofen	myocardial infarction	acute myocardial infarction	3.0	0.656335	0.00697674	
+aspirin	ketoprofen	myocardial infarction	myocardial infarction	1.375	0.31757	0.0255814	
+aspirin	ketoprofen	pancreatitis	pancreatitis	0.434783	1.02025	0.00232558	
+aspirin	ketoprofen	pancreatitis	pancreatitis acute	2.0	1.09428	0.00232558	
+aripiprazole	chlorpromazine	delirium	delirium	5.71429	0.625113	0.00760456	
+ambrisentan	mirtazapine	hypertension	pulmonary hypertension	50.0	1.0869	0.0847458	
+aspirin	trazodone	myocardial infarction	acute myocardial infarction	3.56322	0.2083	0.0102479	
+aspirin	trazodone	myocardial infarction	myocardial infarction	1.58983	0.105954	0.0330578	
+aspirin	trazodone	myocardial infarction	silent myocardial infarction	5.0	1.2246	0.000330579	
+hydrochlorothiazide	oxymetazoline	hypertension	hypertension	2.5	1.09966	0.037037	
+hydrochlorothiazide	epinephrine	myocardial infarction	acute myocardial infarction	4.28571	0.685672	0.0164835	
+hydrochlorothiazide	epinephrine	myocardial infarction	myocardial infarction	0.666667	0.591195	0.0164835	
+hydrochlorothiazide	epinephrine	hypertension	pulmonary arterial hypertension	10.0	1.41208	0.00549451	
+hydrochlorothiazide	epinephrine	hypertension	pulmonary hypertension	4.0	0.83304	0.010989	
+hydrochlorothiazide	epinephrine	hypertension	hypertension	0.810811	0.595245	0.0164835	
+hydrochlorothiazide	risperidone	myocardial infarction	acute myocardial infarction	3.52941	0.47334	0.0078534	
+hydrochlorothiazide	risperidone	myocardial infarction	myocardial infarction	1.19497	0.239752	0.0248691	
+sucralfate	paroxetine	gastric ulcer	gastric ulcer	7.5	0.758979	0.0198676	
+atropine	propranolol	sepsis	sepsis	30.0	1.13972	0.09375	
+aspirin	bromocriptine	myocardial infarction	acute myocardial infarction	10.0	0.994194	0.0210526	
+aspirin	bromocriptine	myocardial infarction	myocardial infarction	0.833333	0.728071	0.0210526	
+aspirin	quetiapine	pancreatitis	pancreatitis	6.82759	0.129024	0.0315387	
+aspirin	quetiapine	pancreatitis	pancreatitis acute	6.4	0.225609	0.0101943	
+aspirin	quetiapine	pancreatitis	pancreatitis chronic	50.0	0.632178	0.00477859	
+aspirin	quetiapine	pancreatitis	pancreatitis haemorrhagic	5.0	1.2246	0.000318573	
+aspirin	quetiapine	pancreatitis	pancreatitis relapsing	13.3333	0.763533	0.00127429	
+aspirin	leuprolide	myocardial infarction	acute myocardial infarction	6.08696	0.337479	0.0129151	
+aspirin	leuprolide	myocardial infarction	myocardial infarction	1.41463	0.195821	0.0267528	
+menthol	clopidogrel	myocardial infarction	myocardial infarction	20.0	0.829993	0.222222	
+paroxetine	carvedilol	sepsis	staphylococcal sepsis	3.33333	1.15392	0.00163399	
+paroxetine	carvedilol	sepsis	sepsis	2.38095	0.349302	0.0163399	
+aspirin	dihydroergotamine	myocardial infarction	myocardial infarction	1.0	1.03805	0.0204082	
+lisinopril	aliskiren	ventricular tachy	supraventricular tachycardia	2.5	0.788017	0.00732601	
+lisinopril	aliskiren	ventricular tachy	ventricular tachycardia	3.33333	0.814025	0.00732601	
+lisinopril	aliskiren	myocardial infarction	myocardial infarction	0.727273	0.513958	0.014652	
+hydrochlorothiazide	losartan	myocardial infarction	acute myocardial infarction	3.22917	0.205895	0.00794261	
+hydrochlorothiazide	losartan	myocardial infarction	myocardial infarction	1.0882	0.106724	0.0243403	
+hydrochlorothiazide	losartan	myocardial infarction	silent myocardial infarction	5.0	0.865863	0.000512426	
+hydrochlorothiazide	losartan	hypertension	portal hypertension	3.33333	0.816324	0.000512426	
+hydrochlorothiazide	losartan	hypertension	pulmonary hypertension	4.0	0.264042	0.00512426	
+hydrochlorothiazide	losartan	hypertension	accelerated hypertension	3.33333	1.15458	0.000256213	
+hydrochlorothiazide	losartan	hypertension	malignant hypertension	3.33333	1.15458	0.000256213	
+hydrochlorothiazide	losartan	hypertension	essential hypertension	10.0	0.577106	0.00153728	
+hydrochlorothiazide	losartan	hypertension	hypertension	3.71369	0.0859037	0.0458622	
+hydrochlorothiazide	losartan	hypertension	labile hypertension	10.0	1.41411	0.000256213	
+ropinirole	carvedilol	sepsis	sepsis	3.52941	0.470276	0.023622	
+tramadol	cinacalcet	pancreatitis	pancreatitis	2.5	1.11243	0.0113636	
+valsartan	cinacalcet	pancreatitis	pancreatitis	0.833333	1.03753	0.00625	
+ergotamine	hydrochlorothiazide	hypertension	hypertension	6.66667	0.883715	0.0952381	
+hydrochlorothiazide	valsartan	myocardial infarction	acute myocardial infarction	2.48	0.200157	0.00550035	
+hydrochlorothiazide	valsartan	myocardial infarction	myocardial infarction	1.3805	0.0831723	0.0283889	
+aspirin	danazol	myocardial infarction	acute myocardial infarction	20.0	1.21698	0.0344828	
+aspirin	danazol	myocardial infarction	myocardial infarction	1.42857	0.743279	0.0344828	
+aspirin	phenylephrine	myocardial infarction	acute myocardial infarction	2.0	0.77266	0.00544959	
+aspirin	phenylephrine	myocardial infarction	myocardial infarction	3.89831	0.239646	0.0626703	
+paroxetine	amitriptyline	sepsis	neutropenic sepsis	2.5	1.11762	0.000835422	
+paroxetine	amitriptyline	sepsis	staphylococcal sepsis	2.5	1.11762	0.000835422	
+paroxetine	amitriptyline	sepsis	sepsis	2.11268	0.282546	0.0125313	
+hydrochlorothiazide	paliperidone	hypertension	hypertension	3.33333	0.804592	0.0350877	
+tetracycline	levothyroxine	neuropathy	diabetic neuropathy	5.0	1.21957	0.0114943	
+tetracycline	levothyroxine	neuropathy	neuropathy peripheral	5.0	0.858695	0.0229885	
+hydrochlorothiazide	bromocriptine	myocardial infarction	myocardial infarction	2.5	1.09895	0.0384615	
+quetiapine	ambrisentan	hypertension	pulmonary hypertension	10.0	0.989157	0.0392157	
+trastuzumab	carvedilol	neuropathy	neuropathy peripheral	10.0	0.991502	0.0307692	
+aspirin	clonidine	myocardial infarction	acute myocardial infarction	7.58065	0.192451	0.0157401	
+aspirin	clonidine	myocardial infarction	myocardial infarction	2.8278	0.0824499	0.0599464	
+aspirin	clonidine	pancreatitis	pancreatitis	2.29167	0.192039	0.0110516	
+aspirin	clonidine	pancreatitis	pancreatitis acute	2.2	0.332477	0.00368386	
+aspirin	clonidine	pancreatitis	pancreatitis chronic	8.0	0.670546	0.00133958	
+aspirin	clonidine	pancreatitis	pancreatitis necrotising	3.33333	1.15454	0.000334896	
+valsartan	caffeine	myocardial infarction	myocardial infarction	1.66667	0.752773	0.030303	
+aspirin	paroxetine	myocardial infarction	acute myocardial infarction	3.88235	0.204322	0.00960699	
+aspirin	paroxetine	myocardial infarction	myocardial infarction	2.23611	0.085322	0.0468705	
+aspirin	paroxetine	myocardial infarction	silent myocardial infarction	15.0	0.912696	0.000873362	
+aspirin	paroxetine	pancreatitis	pancreatitis	3.23944	0.168704	0.0133916	
+aspirin	paroxetine	pancreatitis	pancreatitis acute	5.2	0.241125	0.00756914	
+aspirin	paroxetine	pancreatitis	pancreatitis chronic	6.25	0.569807	0.0014556	
+aspirin	paroxetine	pancreatitis	pancreatitis necrotising	7.5	0.763553	0.000873362	
+cetirizine	ambrisentan	hypertension	pulmonary arterial hypertension	4.0	0.831985	0.0141844	
+cetirizine	ambrisentan	hypertension	pulmonary hypertension	50.0	1.09188	0.035461	
+cetirizine	ambrisentan	hypertension	hypertension	0.769231	1.03398	0.0070922	
+aspirin	flurbiprofen	myocardial infarction	acute myocardial infarction	10.0	1.41054	0.00943396	
+aspirin	flurbiprofen	myocardial infarction	myocardial infarction	0.322581	1.01088	0.00943396	
+ramipril	aliskiren	myocardial infarction	acute myocardial infarction	5.45455	0.503807	0.0204778	
+ramipril	aliskiren	myocardial infarction	myocardial infarction	1.23077	0.369635	0.0273038	
+ramipril	aliskiren	proteinuria	proteinuria	20.0	1.22321	0.00682594	
+eletriptan	clopidogrel	myocardial infarction	myocardial infarction	20.0	0.819407	0.285714	
+albuterol	paroxetine	sepsis	staphylococcal sepsis	2.5	1.11776	0.000562746	
+albuterol	paroxetine	sepsis	sepsis	1.72414	0.240835	0.0112549	
+albuterol	paroxetine	sepsis	urosepsis	10.0	0.816117	0.00168824	
+hydrochlorothiazide	doxazosin	myocardial infarction	acute myocardial infarction	5.29412	0.410758	0.00992282	
+hydrochlorothiazide	doxazosin	myocardial infarction	myocardial infarction	1.25	0.213687	0.0264609	
+aspirin	sulindac	myocardial infarction	acute myocardial infarction	5.0	1.22181	0.00653595	
+aspirin	sulindac	myocardial infarction	myocardial infarction	1.38889	0.469668	0.0326797	
+aspirin	sulindac	pancreatitis	pancreatitis	2.72727	0.645796	0.0196078	
+bivalirudin	heparin	myocardial infarction	acute myocardial infarction	16.0	0.398539	0.0533333	
+bivalirudin	heparin	myocardial infarction	myocardial infarction	4.1791	0.216733	0.0933333	
+aspirin	aripiprazole	myocardial infarction	acute myocardial infarction	2.6087	0.457131	0.00641711	
+aspirin	aripiprazole	myocardial infarction	myocardial infarction	1.5942	0.184276	0.0352941	
+aspirin	aripiprazole	pancreatitis	pancreatitis	7.56757	0.248123	0.0299465	
+aspirin	aripiprazole	pancreatitis	pancreatitis acute	12.1053	0.308113	0.0245989	
+aspirin	aripiprazole	pancreatitis	pancreatitis chronic	20.0	0.706274	0.00641711	
+aspirin	aripiprazole	pancreatitis	pancreatitis relapsing	20.0	1.22426	0.00213904	
+naloxone	clopidogrel	myocardial infarction	myocardial infarction	15.0	0.883715	0.142857	
+levodopa	clopidogrel	myocardial infarction	acute myocardial infarction	30.0	0.814307	0.0194805	
+levodopa	clopidogrel	myocardial infarction	myocardial infarction	1.5493	0.318468	0.0357143	
+sulindac	levothyroxine	neuropathy	autonomic neuropathy	10.0	1.41162	0.00666667	
+aspirin	naproxen	myocardial infarction	acute myocardial infarction	3.27434	0.188785	0.00796384	
+aspirin	naproxen	myocardial infarction	myocardial infarction	2.02944	0.0774345	0.0415411	
+aspirin	naproxen	myocardial infarction	silent myocardial infarction	6.66667	0.645314	0.000860956	
+aspirin	telmisartan	edema	lymphoedema	1.66667	1.07991	0.000415455	
+aspirin	telmisartan	myocardial infarction	acute myocardial infarction	2.61538	0.271572	0.00706273	
+aspirin	telmisartan	myocardial infarction	myocardial infarction	1.64609	0.118746	0.0332364	
+aspirin	telmisartan	edema	localised oedema	2.5	0.79028	0.00083091	
+aspirin	telmisartan	edema	oedema peripheral	1.9573	0.145889	0.02285	
+aspirin	telmisartan	edema	acute pulmonary oedema	2.0	0.774302	0.00083091	
+aspirin	telmisartan	edema	pulmonary oedema	2.38806	0.277432	0.00664728	
+aspirin	telmisartan	edema	corneal oedema	2.0	1.09524	0.000415455	
+aspirin	telmisartan	edema	eyelid oedema	2.0	0.547305	0.00166182	
+aspirin	telmisartan	edema	periorbital oedema	1.66667	0.763463	0.00083091	
+aspirin	telmisartan	edema	gastrointestinal oedema	2.5	1.11783	0.000415455	
+aspirin	telmisartan	edema	lip oedema	4.28571	0.689734	0.00124636	
+aspirin	telmisartan	edema	oedema mouth	0.833333	1.04061	0.000415455	
+aspirin	telmisartan	edema	face oedema	2.36842	0.370094	0.00373909	
+aspirin	telmisartan	edema	generalised oedema	4.58333	0.363481	0.00457	
+aspirin	telmisartan	edema	gravitational oedema	5.0	1.22456	0.000415455	
+aspirin	telmisartan	edema	oedema	3.5	0.218534	0.0116327	
+aspirin	telmisartan	edema	angioedema	2.18182	0.317896	0.00498546	
+aspirin	telmisartan	edema	laryngeal oedema	0.769231	1.03753	0.000415455	
+aspirin	telmisartan	edema	angioneurotic oedema	1.11111	1.05388	0.000415455	
+aspirin	telmisartan	edema	brain oedema	2.14286	0.63585	0.00124636	
+aspirin	telmisartan	edema	nasal oedema	3.33333	1.1545	0.000415455	
+aspirin	telmisartan	edema	pharyngeal oedema	1.21951	0.473216	0.00207727	
+aspirin	telmisartan	edema	skin oedema	10.0	1.41405	0.000415455	
+aspirin	disopyramide	myocardial infarction	acute myocardial infarction	3.33333	1.1517	0.00628931	
+aspirin	disopyramide	myocardial infarction	myocardial infarction	1.66667	0.433043	0.0377358	
+aspirin	diclofenac	myocardial infarction	acute myocardial infarction	2.70588	0.234234	0.00789022	
+aspirin	diclofenac	myocardial infarction	myocardial infarction	1.0935	0.1253	0.0236707	
+aspirin	diclofenac	myocardial infarction	silent myocardial infarction	5.0	1.22459	0.000343053	
+aspirin	thalidomide	pancreatitis	pancreatitis	0.652174	0.59496	0.00298805	
+aspirin	thalidomide	pancreatitis	pancreatitis acute	0.37037	1.01781	0.000996016	
+aspirin	erythromycin	pancreatitis	pancreatitis	1.11111	0.60683	0.00580271	
+aspirin	erythromycin	pancreatitis	pancreatitis acute	0.769231	1.03672	0.00193424	
+clonidine	ambrisentan	hypertension	pulmonary arterial hypertension	2.5	1.11464	0.00689655	
+clonidine	ambrisentan	hypertension	pulmonary hypertension	5.0	0.701722	0.0206897	
+clonidine	ambrisentan	hypertension	hypertension	2.5	0.639594	0.0206897	
+cinacalcet	citalopram	pancreatitis	pancreatitis	2.5	1.1098	0.0166667	
+aspirin	prazosin	pancreatitis	pancreatitis	1.66667	0.76112	0.00732601	
+aspirin	prazosin	pancreatitis	pancreatitis acute	2.22222	0.779155	0.00732601	
+hydrochlorothiazide	repaglinide	myocardial infarction	acute myocardial infarction	4.28571	0.686778	0.0123457	
+hydrochlorothiazide	repaglinide	myocardial infarction	myocardial infarction	1.63265	0.375342	0.0329218	
+probenecid	levothyroxine	neuropathy	neuropathy peripheral	2.5	1.10937	0.0175439	
+hydrochlorothiazide	nefazodone	hypertension	hypertension	27.5	0.572412	0.13253	
+olanzapine	aspirin	myocardial infarction	acute myocardial infarction	6.92308	0.305358	0.0126582	
+olanzapine	aspirin	myocardial infarction	myocardial infarction	2.26837	0.128475	0.0499297	
+olanzapine	aspirin	pancreatitis	alcoholic pancreatitis	40.0	1.11769	0.00281294	
+olanzapine	aspirin	pancreatitis	pancreatitis	8.23529	0.178296	0.0393812	
+olanzapine	aspirin	pancreatitis	pancreatitis acute	4.64286	0.33446	0.00914205	
+olanzapine	aspirin	pancreatitis	pancreatitis chronic	25.0	0.836198	0.00351617	
+candesartan	aspirin	myocardial infarction	acute myocardial infarction	4.78992	0.160382	0.0116564	
+candesartan	aspirin	myocardial infarction	myocardial infarction	1.43984	0.0872385	0.0298569	
+candesartan	aspirin	myocardial infarction	silent myocardial infarction	2.0	1.09534	0.000204499	
+aspirin	losartan	myocardial infarction	acute myocardial infarction	4.63855	0.137332	0.0105639	
+aspirin	losartan	myocardial infarction	myocardial infarction	2.1794	0.0596852	0.0449993	
+aspirin	losartan	myocardial infarction	silent myocardial infarction	1.42857	1.06897	0.000137193	
+aspirin	pilocarpine	myocardial infarction	acute myocardial infarction	6.0	0.726124	0.0165746	
+aspirin	pilocarpine	myocardial infarction	myocardial infarction	0.681818	0.591594	0.0165746	
+paroxetine	ambrisentan	hypertension	pulmonary arterial hypertension	20.0	1.22134	0.0151515	
+paroxetine	ambrisentan	hypertension	pulmonary hypertension	60.0	1.07626	0.0454545	
+goserelin	carvedilol	sepsis	sepsis	10.0	0.986494	0.0487805	
+aspirin	desipramine	myocardial infarction	myocardial infarction	4.0	0.575356	0.0689655	
+adenosine	clopidogrel	myocardial infarction	myocardial infarction	4.28571	0.672894	0.0638298	
+sucralfate	diphenhydramine	gastric ulcer	gastric ulcer	5.0	0.863211	0.00884956	
+repaglinide	caffeine	myocardial infarction	myocardial infarction	5.0	1.19635	0.0625	
+melatonin	memantine	delirium	delirium	10.0	1.40306	0.0285714	
+aspirin	nicardipine	myocardial infarction	acute myocardial infarction	3.33333	0.813685	0.00833333	
+aspirin	nicardipine	myocardial infarction	myocardial infarction	1.17647	0.426252	0.025	
+enalapril	aliskiren	myocardial infarction	acute myocardial infarction	2.14286	0.634331	0.00650759	
+enalapril	aliskiren	myocardial infarction	myocardial infarction	1.04651	0.346919	0.0195228	
+bromocriptine	clopidogrel	myocardial infarction	myocardial infarction	10.0	1.38969	0.0625	
+desipramine	clopidogrel	myocardial infarction	myocardial infarction	20.0	1.19443	0.133333	
+nicardipine	clopidogrel	myocardial infarction	acute myocardial infarction	3.33333	1.15193	0.00581395	
+nicardipine	clopidogrel	myocardial infarction	myocardial infarction	0.909091	0.516074	0.0232558	
+metoclopramide	clopidogrel	myocardial infarction	acute myocardial infarction	14.0909	0.276394	0.0371703	
+metoclopramide	clopidogrel	myocardial infarction	myocardial infarction	1.97861	0.176226	0.0443645	
+hydrochlorothiazide	lisdexamfetamine	myocardial infarction	myocardial infarction	3.33333	1.13923	0.0322581	
+hydrochlorothiazide	nortriptyline	myocardial infarction	acute myocardial infarction	1.66667	1.07849	0.00320513	
+hydrochlorothiazide	nortriptyline	myocardial infarction	myocardial infarction	1.38462	0.350671	0.0288462	
+hydrochlorothiazide	nortriptyline	hypertension	hypertension	3.84615	0.297963	0.0480769	
+aspirin	pergolide	myocardial infarction	myocardial infarction	5.0	0.849585	0.0512821	
+hydrochlorothiazide	doxepin	hypertension	pulmonary hypertension	3.33333	0.813637	0.00847458	
+hydrochlorothiazide	doxepin	hypertension	malignant hypertension	10.0	1.41256	0.00423729	
+hydrochlorothiazide	doxepin	hypertension	hypertension	7.36842	0.345542	0.059322	
+lidocaine	mirtazapine	neuropathy	diabetic neuropathy	3.33333	1.15205	0.00555556	
+lidocaine	mirtazapine	neuropathy	polyneuropathy	5.0	1.22225	0.00555556	
+lidocaine	mirtazapine	neuropathy	neuropathy peripheral	10.0	0.528775	0.0388889	
+pramipexole	clopidogrel	myocardial infarction	acute myocardial infarction	5.0	0.863848	0.00684932	
+pramipexole	clopidogrel	myocardial infarction	myocardial infarction	2.16667	0.299704	0.0445205	
+maraviroc	clopidogrel	myocardial infarction	myocardial infarction	30.0	1.13063	0.15	
+hyoscyamine	sucralfate	gastric ulcer	gastric ulcer	6.66667	0.906298	0.0217391	
+hydrochlorothiazide	modafinil	hypertension	pulmonary arterial hypertension	10.0	0.998362	0.00595238	
+hydrochlorothiazide	modafinil	hypertension	pulmonary hypertension	6.66667	0.911076	0.00595238	
+hydrochlorothiazide	modafinil	hypertension	essential hypertension	10.0	1.41306	0.00297619	
+hydrochlorothiazide	modafinil	hypertension	hypertension	4.87805	0.266677	0.0595238	
+hydrochlorothiazide	modafinil	hypertension	gestational hypertension	5.0	1.22341	0.00297619	
+ambrisentan	promethazine	hypertension	pulmonary arterial hypertension	30.0	1.14983	0.0306122	
+ambrisentan	promethazine	hypertension	pulmonary hypertension	4.0	0.829925	0.0204082	
+hydrochlorothiazide	diclofenac	myocardial infarction	acute myocardial infarction	2.5	0.455251	0.00588813	
+hydrochlorothiazide	diclofenac	myocardial infarction	myocardial infarction	1.02439	0.226755	0.0206084	
+cinacalcet	clonidine	pancreatitis	pancreatitis	1.17647	0.744367	0.00862069	
+cinacalcet	clonidine	pancreatitis	pancreatitis acute	10.0	0.997626	0.00862069	
+losartan	caffeine	myocardial infarction	myocardial infarction	2.5	0.542916	0.0645161	
+pergolide	clopidogrel	myocardial infarction	myocardial infarction	10.0	1.38142	0.0833333	
+cinacalcet	gabapentin	pancreatitis	pancreatitis	0.909091	1.04182	0.00502513	
+cinacalcet	gabapentin	pancreatitis	pancreatitis acute	2.0	1.09292	0.00502513	
+hydrochlorothiazide	terazosin	hypertension	pulmonary hypertension	1.53846	0.758424	0.00312012	
+hydrochlorothiazide	terazosin	hypertension	essential hypertension	10.0	0.999142	0.00312012	
+hydrochlorothiazide	terazosin	hypertension	hypertension	2.52632	0.224671	0.0374415	
+hydrochlorothiazide	terazosin	hypertension	systolic hypertension	10.0	1.41361	0.00156006	
+diphenhydramine	ambrisentan	hypertension	pulmonary arterial hypertension	10.0	1.41016	0.0104167	
+diphenhydramine	ambrisentan	hypertension	pulmonary hypertension	20.0	1.22006	0.0208333	
+diphenhydramine	ambrisentan	hypertension	essential hypertension	10.0	1.41016	0.0104167	
+aspirin	olmesartan	edema	bone marrow oedema	10.0	1.41411	0.000267308	
+aspirin	olmesartan	edema	lymphoedema	1.11111	1.05395	0.000267308	
+aspirin	olmesartan	myocardial infarction	acute myocardial infarction	4.87805	0.192097	0.0106923	
+aspirin	olmesartan	myocardial infarction	myocardial infarction	1.21827	0.106732	0.0256616	
+aspirin	olmesartan	edema	oedema peripheral	2.74463	0.103866	0.0307404	
+aspirin	olmesartan	edema	acute pulmonary oedema	2.66667	0.56247	0.00106923	
+aspirin	olmesartan	edema	pulmonary oedema	2.15517	0.219833	0.00668271	
+aspirin	olmesartan	edema	hereditary angioedema	1.11111	1.05395	0.000267308	
+aspirin	olmesartan	edema	eye oedema	1.11111	1.05395	0.000267308	
+aspirin	olmesartan	edema	conjunctival oedema	3.33333	1.15457	0.000267308	
+aspirin	olmesartan	edema	corneal oedema	1.66667	1.07999	0.000267308	
+aspirin	olmesartan	edema	eyelid oedema	1.02564	0.524735	0.00106923	
+aspirin	olmesartan	edema	lip oedema	1.11111	1.05395	0.000267308	
+aspirin	olmesartan	edema	oedema mouth	1.25	0.612132	0.000801925	
+aspirin	olmesartan	edema	tongue oedema	0.666667	1.03265	0.000267308	
+aspirin	olmesartan	edema	face oedema	0.666667	0.516113	0.00106923	
+aspirin	olmesartan	edema	generalised oedema	2.25	0.368534	0.00240577	
+aspirin	olmesartan	edema	oedema	2.35772	0.205715	0.00775194	
+aspirin	olmesartan	edema	pitting oedema	4.0	0.836484	0.000534616	
+aspirin	olmesartan	edema	gallbladder oedema	5.0	1.22462	0.000267308	
+aspirin	olmesartan	edema	angioedema	0.7	0.390593	0.00187116	
+aspirin	olmesartan	edema	laryngeal oedema	1.0	1.04867	0.000267308	
+aspirin	olmesartan	edema	angioneurotic oedema	0.434783	1.02136	0.000267308	
+aspirin	olmesartan	edema	brain oedema	0.277778	1.01365	0.000267308	
+aspirin	olmesartan	edema	breast oedema	20.0	1.22462	0.000534616	
+aspirin	olmesartan	edema	oedema genital	3.33333	1.15457	0.000267308	
+aspirin	olmesartan	edema	nasal oedema	1.42857	1.06891	0.000267308	
+aspirin	olmesartan	edema	pharyngeal oedema	1.01695	0.428161	0.00160385	
+pindolol	clopidogrel	myocardial infarction	myocardial infarction	2.5	1.09818	0.04	
+sucralfate	ibuprofen	gastric ulcer	gastric ulcer	6.66667	0.641348	0.0194175	
+caffeine	naproxen	myocardial infarction	acute myocardial infarction	1.25	1.05916	0.00288184	
+caffeine	naproxen	myocardial infarction	myocardial infarction	0.28169	0.714783	0.00576369	
+aspirin	irbesartan	edema	lymphoedema	2.72727	0.651109	0.000816549	
+aspirin	irbesartan	myocardial infarction	acute myocardial infarction	4.0566	0.179973	0.0117039	
+aspirin	irbesartan	myocardial infarction	myocardial infarction	1.61039	0.0952041	0.0337507	
+aspirin	irbesartan	myocardial infarction	silent myocardial infarction	2.0	1.09531	0.000272183	
+aspirin	irbesartan	edema	localised oedema	1.81818	0.768511	0.000544366	
+aspirin	irbesartan	edema	oedema peripheral	2.1513	0.114253	0.0247686	
+aspirin	irbesartan	edema	acute pulmonary oedema	3.125	0.512055	0.00136091	
+aspirin	irbesartan	edema	pulmonary oedema	2.21239	0.220341	0.00680457	
+aspirin	irbesartan	edema	eyelid oedema	0.909091	0.521946	0.00108873	
+aspirin	irbesartan	edema	periorbital oedema	0.833333	1.04069	0.000272183	
+aspirin	irbesartan	edema	macular oedema	2.0	0.632219	0.000816549	
+aspirin	irbesartan	edema	retinal oedema	1.42857	1.0689	0.000272183	
+aspirin	irbesartan	edema	papilloedema	1.42857	0.755731	0.000544366	
+aspirin	irbesartan	edema	lip oedema	0.769231	1.0376	0.000272183	
+aspirin	irbesartan	edema	oedema mouth	1.0	0.741418	0.000544366	
+aspirin	irbesartan	edema	tongue oedema	2.10526	0.549847	0.00108873	
+aspirin	irbesartan	edema	face oedema	0.78125	0.464032	0.00136091	
+aspirin	irbesartan	edema	generalised oedema	1.94444	0.412717	0.00190528	
+aspirin	irbesartan	edema	oedema	2.9927	0.177173	0.0111595	
+aspirin	irbesartan	edema	pitting oedema	5.0	0.865853	0.000544366	
+aspirin	irbesartan	edema	angioedema	1.44578	0.308354	0.00326619	
+aspirin	irbesartan	edema	laryngeal oedema	1.76471	0.625985	0.000816549	
+aspirin	irbesartan	edema	angioneurotic oedema	2.4	0.454277	0.0016331	
+aspirin	irbesartan	edema	brain oedema	0.37037	1.0182	0.000272183	
+aspirin	irbesartan	edema	scrotal oedema	3.33333	1.15457	0.000272183	
+aspirin	irbesartan	edema	pharyngeal oedema	1.88679	0.344338	0.00272183	
+ibuprofen	caffeine	myocardial infarction	myocardial infarction	0.6	0.340794	0.0133929	
+dronabinol	metoclopramide	myocardial infarction	myocardial infarction	0.30303	1.01113	0.00719424	
+aspirin	imipramine	myocardial infarction	acute myocardial infarction	5.55556	0.554082	0.0186567	
+aspirin	imipramine	myocardial infarction	myocardial infarction	1.15942	0.367951	0.0298507	
+nortriptyline	clopidogrel	myocardial infarction	acute myocardial infarction	3.33333	0.811671	0.0142857	
+nortriptyline	clopidogrel	myocardial infarction	myocardial infarction	5.66667	0.290344	0.121429	
+valsartan	aspirin	myocardial infarction	acute myocardial infarction	5.37037	0.114612	0.012057	
+valsartan	aspirin	myocardial infarction	myocardial infarction	2.03822	0.0527207	0.0432387	
+valsartan	aspirin	myocardial infarction	silent myocardial infarction	1.25	1.06061	0.000103939	
+valsartan	aspirin	pancreatitis	alcoholic pancreatitis	10.0	0.999943	0.000207879	
+valsartan	aspirin	pancreatitis	oedematous pancreatitis	4.0	0.836592	0.000207879	
+valsartan	aspirin	pancreatitis	pancreatitis	1.80751	0.12337	0.00800333	
+valsartan	aspirin	pancreatitis	pancreatitis acute	2.67123	0.179933	0.00405363	
+valsartan	aspirin	pancreatitis	pancreatitis chronic	2.38095	0.497498	0.000519697	
+valsartan	aspirin	pancreatitis	pancreatitis haemorrhagic	3.33333	1.15465	0.000103939	
+valsartan	aspirin	pancreatitis	pancreatitis necrotising	3.0	0.658194	0.000311818	
+valsartan	aspirin	pancreatitis	pancreatitis relapsing	4.0	0.836592	0.000207879	
+dronabinol	mirtazapine	myocardial infarction	acute myocardial infarction	5.0	1.21771	0.015625	
+aspirin	clomipramine	myocardial infarction	myocardial infarction	1.21212	0.522778	0.0254777	
+lidocaine	carvedilol	neuropathy	diabetic neuropathy	30.0	1.1533	0.00882353	
+lidocaine	carvedilol	neuropathy	neuropathy peripheral	7.5	0.437275	0.0264706	
+hydrochlorothiazide	ziprasidone	hypertension	pulmonary hypertension	3.33333	0.663902	0.0100334	
+hydrochlorothiazide	ziprasidone	hypertension	hypertension	5.42857	0.278431	0.0635452	
+prasugrel	metoclopramide	myocardial infarction	myocardial infarction	30.0	1.1143	0.25	
+estradiol	caffeine	myocardial infarction	acute myocardial infarction	10.0	0.99373	0.0227273	
+estradiol	caffeine	myocardial infarction	myocardial infarction	1.36364	0.605217	0.0340909	
+aspirin	triptorelin	myocardial infarction	myocardial infarction	2.0	0.61701	0.0526316	
+caffeine	captopril	myocardial infarction	myocardial infarction	10.0	1.3784	0.0909091	
+prasugrel	amitriptyline	myocardial infarction	myocardial infarction	13.3333	0.724871	0.210526	
+propranolol	clopidogrel	myocardial infarction	acute myocardial infarction	2.72727	0.649181	0.00765306	
+propranolol	clopidogrel	myocardial infarction	myocardial infarction	2.70588	0.228991	0.0586735	
+caffeine	celecoxib	myocardial infarction	acute myocardial infarction	2.5	1.11338	0.00943396	
+caffeine	celecoxib	myocardial infarction	myocardial infarction	1.92308	0.477582	0.0471698	
+aspirin	carvedilol	edema	bone marrow oedema	3.33333	0.816441	0.00016632	
+aspirin	carvedilol	edema	lymphoedema	0.681818	0.596631	0.00024948	
+aspirin	carvedilol	edema	localised oedema	2.5	0.372555	0.000748441	
+aspirin	carvedilol	edema	oedema peripheral	2.53047	0.0588067	0.0293555	
+aspirin	carvedilol	edema	acute pulmonary oedema	4.47761	0.21947	0.0024948	
+aspirin	carvedilol	edema	pulmonary oedema	4.77011	0.0938413	0.0138046	
+aspirin	carvedilol	edema	hereditary angioedema	0.4	1.01976	8.31601e-05	
+aspirin	carvedilol	edema	diabetic retinal oedema	30.0	1.15466	0.00024948	
+aspirin	carvedilol	edema	eye oedema	0.47619	1.02349	8.31601e-05	
+aspirin	carvedilol	edema	corneal oedema	0.769231	1.0377	8.31601e-05	
+aspirin	carvedilol	edema	eyelid oedema	1.2	0.273085	0.0012474	
+aspirin	carvedilol	edema	periorbital oedema	0.444444	0.722586	0.00016632	
+aspirin	carvedilol	edema	macular oedema	1.39535	0.435696	0.00049896	
+aspirin	carvedilol	edema	papilloedema	0.25641	1.01269	8.31601e-05	
+aspirin	carvedilol	edema	orbital oedema	0.833333	1.04079	8.31601e-05	
+aspirin	carvedilol	edema	oedematous pancreatitis	3.33333	1.15466	8.31601e-05	
+aspirin	carvedilol	edema	gastrointestinal oedema	2.5	0.790512	0.00016632	
+aspirin	carvedilol	edema	oesophageal oedema	10.0	0.816441	0.00024948	
+aspirin	carvedilol	edema	lip oedema	0.952381	0.739951	0.00016632	
+aspirin	carvedilol	edema	oedema mouth	1.2987	0.335999	0.000831601	
+aspirin	carvedilol	edema	tongue oedema	0.344828	1.01705	8.31601e-05	
+aspirin	carvedilol	edema	oedema mucosal	2.0	0.774538	0.00016632	
+aspirin	carvedilol	edema	allergic oedema	2.5	1.11799	8.31601e-05	
+aspirin	carvedilol	edema	face oedema	1.78082	0.212648	0.00216216	
+aspirin	carvedilol	edema	generalised oedema	2.33333	0.209657	0.00232848	
+aspirin	carvedilol	edema	gravitational oedema	8.0	0.670752	0.00033264	
+aspirin	carvedilol	edema	oedema	2.94537	0.101727	0.0103119	
+aspirin	carvedilol	edema	pitting oedema	2.22222	0.781677	0.00016632	
+aspirin	carvedilol	edema	gallbladder oedema	10.0	1.41418	8.31601e-05	
+aspirin	carvedilol	edema	angioedema	1.20275	0.178652	0.0029106	
+aspirin	carvedilol	edema	circumoral oedema	6.66667	0.912821	0.00016632	
+aspirin	carvedilol	edema	laryngeal oedema	0.819672	0.465083	0.0004158	
+aspirin	carvedilol	edema	angioneurotic oedema	0.746269	0.463502	0.0004158	
+aspirin	carvedilol	edema	incision site oedema	20.0	1.22471	0.00016632	
+aspirin	carvedilol	edema	brain oedema	0.32967	0.586712	0.00024948	
+aspirin	carvedilol	edema	penile oedema	6.66667	0.912821	0.00016632	
+aspirin	carvedilol	edema	scrotal oedema	15.0	0.645426	0.00049896	
+aspirin	carvedilol	edema	bronchial oedema	5.0	1.22471	8.31601e-05	
+aspirin	carvedilol	edema	non-cardiogenic pulmonary oedema	2.5	1.11799	8.31601e-05	
+aspirin	carvedilol	edema	nasal oedema	4.28571	0.689999	0.00024948	
+aspirin	carvedilol	edema	pharyngeal oedema	1.21053	0.220567	0.00191268	
+aspirin	carvedilol	edema	skin oedema	0.833333	1.04079	8.31601e-05	
+aspirin	carvedilol	edema	cystoid macular oedema	1.25	1.06062	8.31601e-05	
+dronabinol	amitriptyline	myocardial infarction	myocardial infarction	2.0	0.618498	0.047619	
+nortriptyline	chlorpromazine	delirium	delirium	10.0	1.40591	0.0212766	
+pentazocine	clopidogrel	myocardial infarction	myocardial infarction	10.0	0.976815	0.0833333	
+ambrisentan	modafinil	hypertension	pulmonary arterial hypertension	10.0	1.39557	0.047619	
+aspirin	etanercept	pneumonia	eosinophilic pneumonia	4.0	0.836384	0.000839631	
+aspirin	etanercept	pneumonia	pneumonia staphylococcal	6.0	0.729981	0.00125945	
+aspirin	etanercept	pneumonia	pneumonia pneumococcal	10.0	1.41405	0.000419815	
+aspirin	etanercept	pneumonia	pneumonia fungal	2.5	1.11783	0.000419815	
+aspirin	etanercept	pneumonia	pneumocystis jiroveci pneumonia	6.66667	0.407682	0.00419815	
+aspirin	etanercept	pneumonia	bronchopneumonia	3.68421	0.441619	0.00293871	
+aspirin	etanercept	pneumonia	lobar pneumonia	2.5	0.790277	0.000839631	
+aspirin	etanercept	pneumonia	pneumonia	2.25627	0.121117	0.034005	
+aspirin	etanercept	pneumonia	pneumonia primary atypical	3.33333	1.1545	0.000419815	
+aspirin	etanercept	pneumonia	pneumonia aspiration	0.645161	0.729244	0.000839631	
+aspirin	etanercept	pneumonia	organising pneumonia	15.0	0.912618	0.00125945	
+aspirin	etanercept	pneumonia	pneumocystis jirovecii pneumonia	5.0	0.70678	0.00125945	
+sucralfate	caffeine	gastric ulcer	gastric ulcer	10.0	1.40273	0.0294118	
+hydrochlorothiazide	dextroamphetamine	hypertension	hypertension	3.52941	0.466858	0.0410959	
+hydrochlorothiazide	ketoprofen	myocardial infarction	myocardial infarction	1.25	0.6043	0.0267857	
+aspirin	nortriptyline	myocardial infarction	acute myocardial infarction	3.57143	0.519263	0.00815661	
+aspirin	nortriptyline	myocardial infarction	myocardial infarction	2.20183	0.221464	0.0391517	
+tramadol	ambrisentan	hypertension	pulmonary arterial hypertension	20.0	0.86357	0.015444	
+tramadol	ambrisentan	hypertension	pulmonary hypertension	13.3333	0.536115	0.030888	
+tramadol	ambrisentan	hypertension	hypertension	0.277778	1.0117	0.003861	
+hydrochlorothiazide	ibuprofen	myocardial infarction	acute myocardial infarction	3.33333	0.264086	0.00749803	
+hydrochlorothiazide	ibuprofen	myocardial infarction	myocardial infarction	1.52542	0.117451	0.0319653	
+aspirin	ropinirole	myocardial infarction	acute myocardial infarction	2.0	0.44622	0.00484262	
+aspirin	ropinirole	myocardial infarction	myocardial infarction	0.91954	0.211211	0.0193705	
+aspirin	ropinirole	pancreatitis	pancreatitis	1.09091	0.428906	0.00484262	
+aspirin	ropinirole	pancreatitis	pancreatitis chronic	2.5	1.11764	0.000807102	
+hydrochlorothiazide	nicardipine	myocardial infarction	myocardial infarction	0.357143	1.01347	0.0078125	
+olanzapine	ambrisentan	hypertension	pulmonary hypertension	5.0	1.19443	0.0666667	
+octreotide	clopidogrel	myocardial infarction	myocardial infarction	3.84615	0.509098	0.0806452	
+prasugrel	dexamethasone	myocardial infarction	myocardial infarction	6.66667	0.878762	0.111111	
+donepezil	ambrisentan	hypertension	pulmonary hypertension	20.0	1.21185	0.0571429	
+insulin detemir	levothyroxine	neuropathy	diabetic neuropathy	15.0	0.912015	0.00426136	
+insulin detemir	levothyroxine	neuropathy	polyneuropathy	10.0	0.706001	0.00568182	
+insulin detemir	levothyroxine	neuropathy	neuropathy peripheral	2.27273	0.493854	0.00710227	
+memantine	calcium	delirium	delirium	10.0	1.41235	0.00478469	
+ropinirole	amitriptyline	sepsis	sepsis	1.25	0.747217	0.00757576	
+imipramine	clopidogrel	myocardial infarction	acute myocardial infarction	10.0	1.40803	0.015873	
+imipramine	clopidogrel	myocardial infarction	myocardial infarction	5.0	0.482224	0.0952381	
+atropine	clopidogrel	myocardial infarction	acute myocardial infarction	20.0	0.858695	0.045977	
+atropine	clopidogrel	myocardial infarction	myocardial infarction	5.88235	0.382335	0.114943	
+risperidone	aspirin	myocardial infarction	acute myocardial infarction	3.75	0.337532	0.00715137	
+risperidone	aspirin	myocardial infarction	myocardial infarction	1.31234	0.14822	0.0297974	
+risperidone	aspirin	pancreatitis	alcoholic pancreatitis	20.0	1.22448	0.0011919	
+risperidone	aspirin	pancreatitis	pancreatitis	6.57143	0.188067	0.0274136	
+risperidone	aspirin	pancreatitis	pancreatitis acute	5.35714	0.318944	0.00893921	
+risperidone	aspirin	pancreatitis	pancreatitis chronic	35.0	0.801375	0.00417163	
+risperidone	aspirin	pancreatitis	pancreatitis necrotising	1.66667	1.07982	0.000595948	
+prasugrel	gabapentin	myocardial infarction	acute myocardial infarction	10.0	0.807087	0.0416667	
+prasugrel	gabapentin	myocardial infarction	myocardial infarction	10.0	0.389087	0.166667	
+sucralfate	lidocaine	gastric ulcer	gastric ulcer	16.6667	0.726005	0.0284091	
+aripiprazole	clopidogrel	myocardial infarction	acute myocardial infarction	5.0	0.861918	0.0129032	
+aripiprazole	clopidogrel	myocardial infarction	myocardial infarction	3.0303	0.351007	0.0645161	
+oxybutynin	ambrisentan	hypertension	pulmonary hypertension	10.0	0.988229	0.0425532	
+oxybutynin	ambrisentan	hypertension	hypertension	10.0	1.40591	0.0212766	
+epinephrine	aspirin	myocardial infarction	acute myocardial infarction	9.47368	0.326206	0.0290792	
+epinephrine	aspirin	myocardial infarction	myocardial infarction	1.84211	0.233696	0.0339257	
+erlotinib	levothyroxine	neuropathy	optic ischaemic neuropathy	5.0	1.22358	0.0025974	
+erlotinib	levothyroxine	neuropathy	neuropathy peripheral	2.0	0.77275	0.00519481	
+erlotinib	levothyroxine	neuropathy	neuropathy	5.0	1.22358	0.0025974	
+ketoprofen	clopidogrel	myocardial infarction	myocardial infarction	1.15385	0.602372	0.0243902	
+aspirin	desmopressin	edema	oedema peripheral	1.92308	0.481366	0.0306748	
+aspirin	desmopressin	edema	oedema mouth	3.33333	1.15177	0.00613497	
+aspirin	desmopressin	edema	angioedema	10.0	0.99662	0.0122699	
+aspirin	desmopressin	edema	brain oedema	25.0	0.832617	0.0306748	
+aspirin	desmopressin	edema	pharyngeal oedema	10.0	1.41183	0.00613497	
+aspirin	dexamethasone	myocardial infarction	acute myocardial infarction	5.7377	0.14935	0.0112667	
+aspirin	dexamethasone	myocardial infarction	myocardial infarction	0.844515	0.0997898	0.017222	
+apomorphine	clopidogrel	myocardial infarction	myocardial infarction	10.0	0.956757	0.153846	
+pramipexole	carvedilol	sepsis	sepsis	2.85714	0.562195	0.0195122	
+hydrochlorothiazide	captopril	myocardial infarction	acute myocardial infarction	2.72727	0.458905	0.00833333	
+hydrochlorothiazide	captopril	myocardial infarction	myocardial infarction	1.30435	0.247536	0.025	
+erlotinib	carvedilol	neuropathy	neuropathy peripheral	2.5	0.784846	0.0163934	
+hydrochlorothiazide	piroxicam	myocardial infarction	myocardial infarction	1.875	0.437034	0.0377358	
+aspirin	trimipramine	myocardial infarction	acute myocardial infarction	16.6667	0.721785	0.0561798	
+aspirin	trimipramine	myocardial infarction	myocardial infarction	1.42857	0.607118	0.0337079	
+hydrochlorothiazide	celecoxib	myocardial infarction	acute myocardial infarction	4.69388	0.251838	0.00970464	
+hydrochlorothiazide	celecoxib	myocardial infarction	myocardial infarction	2.09402	0.10898	0.0413502	
+hydrochlorothiazide	celecoxib	myocardial infarction	silent myocardial infarction	10.0	1.41405	0.000421941	
+quetiapine	chlorpromazine	delirium	delirium	4.16667	0.374995	0.0095057	
+dronabinol	trazodone	myocardial infarction	acute myocardial infarction	10.0	1.40737	0.0175439	
+dronabinol	trazodone	myocardial infarction	myocardial infarction	0.769231	1.02841	0.0175439	
+hydrochlorothiazide	naproxen	myocardial infarction	acute myocardial infarction	2.82051	0.340449	0.00644783	
+hydrochlorothiazide	naproxen	myocardial infarction	myocardial infarction	1.43251	0.146085	0.0304807	
+clozapine	clopidogrel	myocardial infarction	acute myocardial infarction	15.0	0.908976	0.0193548	
+clozapine	clopidogrel	myocardial infarction	myocardial infarction	4.41176	0.298298	0.0967742	
+rizatriptan	clopidogrel	myocardial infarction	myocardial infarction	10.0	1.38616	0.0714286	
+prasugrel	fentanyl	myocardial infarction	myocardial infarction	10.0	0.970621	0.105263	
+hydrochlorothiazide	phenylephrine	myocardial infarction	myocardial infarction	1.92308	0.476813	0.050505	
+tacrolimus	levothyroxine	neuropathy	optic neuropathy	5.0	1.22409	0.0014556	
+tacrolimus	levothyroxine	neuropathy	polyneuropathy	13.3333	0.762714	0.00582242	
+tacrolimus	levothyroxine	neuropathy	neuropathy peripheral	3.33333	0.514845	0.00727802	
+tacrolimus	levothyroxine	neuropathy	peripheral sensory neuropathy	3.33333	1.15401	0.0014556	
+tacrolimus	levothyroxine	neuropathy	neuropathy	5.0	1.22409	0.0014556	
+diphenhydramine	clopidogrel	myocardial infarction	acute myocardial infarction	10.8333	0.397924	0.0226087	
+diphenhydramine	clopidogrel	myocardial infarction	myocardial infarction	3.01887	0.196903	0.0556522	
+paroxetine	gefitinib	pneumonia	eosinophilic pneumonia	10.0	1.40609	0.0208333	
+paroxetine	gefitinib	pneumonia	bronchopneumonia	10.0	1.40609	0.0208333	
+paroxetine	gefitinib	pneumonia	pneumonia	5.0	0.593366	0.0833333	
+paroxetine	gefitinib	pneumonia	pneumonia aspiration	10.0	1.40609	0.0208333	
+gefitinib	tiotropium	pneumonia	pneumonia	6.66667	0.87178	0.133333	
+aspirin	atropine	myocardial infarction	acute myocardial infarction	28.0	0.517049	0.0520446	
+aspirin	atropine	myocardial infarction	myocardial infarction	2.75862	0.275049	0.0594796	
+aspirin	atropine	pancreatitis	pancreatitis	5.0	0.609024	0.0148699	
+dronabinol	diphenhydramine	myocardial infarction	acute myocardial infarction	3.33333	1.1494	0.0111111	
+dronabinol	diphenhydramine	myocardial infarction	myocardial infarction	0.952381	0.731708	0.0222222	
+hydrochlorothiazide	fluoxetine	myocardial infarction	acute myocardial infarction	4.25	0.288363	0.0103595	
+hydrochlorothiazide	fluoxetine	myocardial infarction	myocardial infarction	1.86782	0.132619	0.03961	
+hydrochlorothiazide	aripiprazole	myocardial infarction	myocardial infarction	0.283019	0.583718	0.00556586	
+hydrochlorothiazide	aripiprazole	hypertension	pulmonary hypertension	13.3333	0.762425	0.00742115	
+hydrochlorothiazide	aripiprazole	hypertension	essential hypertension	20.0	1.22391	0.00371058	
+hydrochlorothiazide	aripiprazole	hypertension	hypertension	5.96154	0.222369	0.0575139	
+dexamethasone	clopidogrel	myocardial infarction	acute myocardial infarction	9.04762	0.314089	0.0276163	
+dexamethasone	clopidogrel	myocardial infarction	myocardial infarction	2.0	0.203121	0.0406977	
+clopidogrel	disopyramide	myocardial infarction	myocardial infarction	7.5	0.739369	0.1	
+fluoxetine	caffeine	myocardial infarction	myocardial infarction	0.666667	0.725225	0.0134228	
+terazosin	ambrisentan	hypertension	pulmonary hypertension	10.0	1.40366	0.027027	
+ropinirole	clopidogrel	myocardial infarction	acute myocardial infarction	3.75	0.67508	0.0070922	
+ropinirole	clopidogrel	myocardial infarction	myocardial infarction	2.04301	0.246544	0.0449173	
+prasugrel	trazodone	myocardial infarction	myocardial infarction	10.0	0.967106	0.117647	
+dronabinol	dexamethasone	myocardial infarction	acute myocardial infarction	3.33333	0.813138	0.00995025	
+dronabinol	dexamethasone	myocardial infarction	myocardial infarction	0.952381	0.518012	0.0199005	
+hydrochlorothiazide	tacrolimus	myocardial infarction	myocardial infarction	1.38889	0.470629	0.0285714	
+quetiapine	cinacalcet	pancreatitis	pancreatitis	10.0	1.39792	0.0416667	
+epinephrine	etanercept	myocardial infarction	acute myocardial infarction	10.0	1.40514	0.0232558	
+risperidone	clopidogrel	myocardial infarction	acute myocardial infarction	5.45455	0.5045	0.0166667	
+risperidone	clopidogrel	myocardial infarction	myocardial infarction	3.37838	0.224628	0.0694444	
+memantine	clopidogrel	myocardial infarction	acute myocardial infarction	5.45455	0.505056	0.0136054	
+memantine	clopidogrel	myocardial infarction	myocardial infarction	0.97561	0.367016	0.0181406	
+caffeine	amitriptyline	myocardial infarction	myocardial infarction	0.697674	0.592574	0.0148515	
+hydrochlorothiazide	flurbiprofen	myocardial infarction	myocardial infarction	6.66667	0.878762	0.111111	
+hydrochlorothiazide	prednisone	myocardial infarction	acute myocardial infarction	2.05607	0.233518	0.0053948	
+hydrochlorothiazide	prednisone	myocardial infarction	myocardial infarction	0.961969	0.111699	0.0210888	
+hydrochlorothiazide	imipramine	myocardial infarction	acute myocardial infarction	5.0	1.22073	0.00892857	
+hydrochlorothiazide	imipramine	myocardial infarction	myocardial infarction	0.37037	1.01352	0.00892857	
+hydrochlorothiazide	imipramine	hypertension	pulmonary hypertension	2.0	1.09095	0.00892857	
+hydrochlorothiazide	imipramine	hypertension	hypertension	6.36364	0.473228	0.0625	
+hydrochlorothiazide	estradiol	myocardial infarction	myocardial infarction	1.49533	0.18684	0.0294931	
+ambrisentan	escitalopram	hypertension	portal hypertension	10.0	1.41244	0.00456621	
+ambrisentan	escitalopram	hypertension	pulmonary arterial hypertension	40.0	1.11579	0.0182648	
+ambrisentan	escitalopram	hypertension	pulmonary hypertension	50.0	1.09315	0.0228311	
+indomethacin	levothyroxine	neuropathy	diabetic neuropathy	3.33333	1.15319	0.00316456	
+indomethacin	levothyroxine	neuropathy	polyneuropathy	2.5	1.11648	0.00316456	
+indomethacin	levothyroxine	neuropathy	neuropathy peripheral	1.30435	0.611008	0.00949367	
+indomethacin	levothyroxine	neuropathy	peripheral sensory neuropathy	20.0	1.22332	0.00632911	
+atropine	albuterol	sepsis	sepsis	5.0	0.45523	0.0448718	
+atropine	albuterol	sepsis	urosepsis	10.0	1.41172	0.00641026	
+aspirin	celecoxib	myocardial infarction	acute myocardial infarction	6.45455	0.151463	0.0151289	
+aspirin	celecoxib	myocardial infarction	myocardial infarction	4.31655	0.056341	0.089495	
+aspirin	celecoxib	myocardial infarction	silent myocardial infarction	10.0	0.999883	0.000426167	
+paroxetine	propranolol	sepsis	candida sepsis	10.0	1.41363	0.0015083	
+paroxetine	propranolol	sepsis	sepsis	1.29032	0.529716	0.00603318	
+candesartan	cinacalcet	pancreatitis	pancreatitis	2.5	1.1131	0.01	
+tramadol	clopidogrel	myocardial infarction	acute myocardial infarction	7.35294	0.262168	0.0154512	
+tramadol	clopidogrel	myocardial infarction	myocardial infarction	3.23442	0.10706	0.0673671	
+vemurafenib	levothyroxine	neuropathy	neuropathy peripheral	5.0	1.22076	0.00884956	
+dronabinol	fentanyl	myocardial infarction	myocardial infarction	0.555556	0.722649	0.010101	
+diflunisal	aspirin	myocardial infarction	myocardial infarction	2.5	1.10347	0.0294118	
+hydrochlorothiazide	testosterone	myocardial infarction	acute myocardial infarction	2.5	0.556937	0.00843882	
+hydrochlorothiazide	testosterone	myocardial infarction	myocardial infarction	1.5	0.305798	0.0253165	
+ambrisentan	pramipexole	hypertension	pulmonary hypertension	10.0	1.40873	0.0140845	
+amitriptyline	clopidogrel	myocardial infarction	acute myocardial infarction	5.17241	0.316214	0.0157895	
+amitriptyline	clopidogrel	myocardial infarction	myocardial infarction	4.0201	0.127934	0.0842105	
+clopidogrel	trazodone	myocardial infarction	acute myocardial infarction	6.0	0.363099	0.0162822	
+clopidogrel	trazodone	myocardial infarction	myocardial infarction	3.59477	0.152398	0.0746269	
+hydrochlorothiazide	salicylic acid	myocardial infarction	myocardial infarction	4.0	0.814453	0.0666667	
+cinacalcet	losartan	pancreatitis	pancreatitis	2.5	1.11325	0.00970874	
+pseudoephedrine	ambrisentan	hypertension	pulmonary hypertension	5.0	1.21255	0.027027	
+aspirin	eprosartan	edema	oedema peripheral	2.5	0.553058	0.0240964	
+aspirin	eprosartan	edema	pulmonary oedema	1.0	1.04564	0.0060241	
+aspirin	eprosartan	edema	eyelid oedema	10.0	0.996681	0.0120482	
+aspirin	eprosartan	edema	oedema	1.25	1.05753	0.0060241	
+aspirin	eprosartan	edema	angioedema	5.0	0.862191	0.0120482	
+aspirin	eprosartan	edema	angioneurotic oedema	10.0	1.41187	0.0060241	
+aspirin	hydroxyzine	myocardial infarction	acute myocardial infarction	2.14286	0.449024	0.00413508	
+aspirin	hydroxyzine	myocardial infarction	myocardial infarction	2.2807	0.134667	0.0447967	
+aspirin	dextroamphetamine	myocardial infarction	myocardial infarction	0.196078	1.00711	0.00485437	
+diclofenac	caffeine	myocardial infarction	acute myocardial infarction	5.0	1.2216	0.00699301	
+diclofenac	caffeine	myocardial infarction	myocardial infarction	1.6129	0.473884	0.034965	
+hydrochlorothiazide	amitriptyline	myocardial infarction	acute myocardial infarction	5.18518	0.328249	0.00913838	
+hydrochlorothiazide	amitriptyline	myocardial infarction	myocardial infarction	1.53374	0.149497	0.0326371	
+hydrochlorothiazide	amitriptyline	myocardial infarction	silent myocardial infarction	2.5	1.11771	0.000652742	
+hydrochlorothiazide	amitriptyline	hypertension	portal hypertension	4.0	0.836231	0.00130548	
+hydrochlorothiazide	amitriptyline	hypertension	benign intracranial hypertension	1.66667	1.07979	0.000652742	
+hydrochlorothiazide	amitriptyline	hypertension	pulmonary arterial hypertension	1.11111	1.05375	0.000652742	
+hydrochlorothiazide	amitriptyline	hypertension	pulmonary hypertension	6.4	0.319033	0.0104439	
+hydrochlorothiazide	amitriptyline	hypertension	malignant hypertension	20.0	1.22445	0.00130548	
+hydrochlorothiazide	amitriptyline	hypertension	essential hypertension	10.0	0.706599	0.00261097	
+hydrochlorothiazide	amitriptyline	hypertension	hypertension	3.34951	0.136488	0.0450392	
+hydrochlorothiazide	amitriptyline	hypertension	labile hypertension	20.0	1.22445	0.00130548	
+ambrisentan	trazodone	hypertension	pulmonary arterial hypertension	4.0	0.832295	0.013245	
+ambrisentan	trazodone	hypertension	pulmonary hypertension	10.0	0.812023	0.0198676	
+ambrisentan	trazodone	hypertension	hypertension	0.588235	1.02545	0.00662252	
+caffeine	prednisone	myocardial infarction	myocardial infarction	0.454545	0.719564	0.00900901	
+clonidine	ropinirole	sepsis	sepsis	1.53846	0.753786	0.015873	
+formoterol	paroxetine	sepsis	sepsis	2.5	0.642986	0.00882353	
+dronabinol	octreotide	myocardial infarction	myocardial infarction	20.0	1.18322	0.181818	
+hydrochlorothiazide	midodrine	hypertension	pulmonary arterial hypertension	10.0	1.38804	0.0666667	
+hydrochlorothiazide	midodrine	hypertension	pulmonary hypertension	10.0	1.38804	0.0666667	
+epinephrine	lidocaine	ventricular tachy	supraventricular tachycardia	12.5	0.66976	0.00645995	
+epinephrine	lidocaine	ventricular tachy	ventricular tachycardia	11.4286	0.364016	0.0206718	
+aspirin	clozapine	myocardial infarction	acute myocardial infarction	3.57143	0.366819	0.0105263	
+aspirin	clozapine	myocardial infarction	myocardial infarction	2.34694	0.16026	0.0484211	
+aspirin	clozapine	pancreatitis	pancreatitis	2.22222	0.347943	0.0105263	
+aspirin	clozapine	pancreatitis	pancreatitis acute	1.53846	0.758792	0.00210526	
+aspirin	clozapine	pancreatitis	pancreatitis chronic	10.0	1.4138	0.00105263	
+aspirin	clozapine	pancreatitis	pancreatitis relapsing	10.0	1.4138	0.00105263	
+clopidogrel	gabapentin	myocardial infarction	acute myocardial infarction	5.86667	0.188829	0.0161705	
+clopidogrel	gabapentin	myocardial infarction	myocardial infarction	3.41969	0.0798333	0.0727674	
+clonidine	paroxetine	sepsis	sepsis	2.0	0.545694	0.00806452	
+clonidine	paroxetine	sepsis	urosepsis	5.0	1.22384	0.00201613	
+clonidine	paroxetine	sepsis	device related sepsis	20.0	1.22384	0.00403226	
+epinephrine	bivalirudin	myocardial infarction	myocardial infarction	5.0	1.20506	0.0434783	
+aspirin	piroxicam	myocardial infarction	acute myocardial infarction	1.66667	1.07845	0.00327869	
+aspirin	piroxicam	myocardial infarction	myocardial infarction	2.5	0.272981	0.052459	
+hydrochlorothiazide	sulindac	myocardial infarction	myocardial infarction	1.48148	0.526429	0.036036	
+promethazine	gefitinib	pneumonia	pneumonia	7.5	0.734393	0.12	
+aspirin	goserelin	myocardial infarction	acute myocardial infarction	1.66667	0.761413	0.00651466	
+aspirin	goserelin	myocardial infarction	myocardial infarction	1.51515	0.334019	0.0325733	
+ambrisentan	metoclopramide	hypertension	pulmonary arterial hypertension	13.3333	0.757933	0.0322581	
+ambrisentan	metoclopramide	hypertension	pulmonary hypertension	15.0	0.907999	0.0241935	
+aspirin	salicylic acid	myocardial infarction	acute myocardial infarction	5.0	1.21624	0.0188679	
+aspirin	salicylic acid	myocardial infarction	myocardial infarction	2.72727	0.635207	0.0566038	
+citalopram	ambrisentan	hypertension	pulmonary arterial hypertension	8.33333	0.601619	0.0214592	
+citalopram	ambrisentan	hypertension	pulmonary hypertension	27.5	0.579817	0.0472103	
+olanzapine	clopidogrel	myocardial infarction	acute myocardial infarction	11.6667	0.55315	0.0225806	
+olanzapine	clopidogrel	myocardial infarction	myocardial infarction	4.70588	0.205931	0.103226	
+quetiapine	melatonin	delirium	delirium	7.5	0.760358	0.0141509	
+ropinirole	ambrisentan	hypertension	pulmonary arterial hypertension	10.0	1.40968	0.0116279	
+fentanyl	clopidogrel	myocardial infarction	acute myocardial infarction	5.58824	0.284726	0.0168291	
+fentanyl	clopidogrel	myocardial infarction	myocardial infarction	2.98643	0.136756	0.0584588	
+quinapril	aliskiren	myocardial infarction	myocardial infarction	2.0	1.081	0.0285714	
+hydrochlorothiazide	iloprost	hypertension	pulmonary hypertension	20.0	1.21698	0.0344828	
+hydrochlorothiazide	iloprost	hypertension	hypertension	4.0	0.825248	0.0344828	
+aspirin	donepezil	myocardial infarction	acute myocardial infarction	4.4	0.254714	0.0115063	
+aspirin	donepezil	myocardial infarction	myocardial infarction	1.19898	0.152487	0.0245816	
+hydrochlorothiazide	loxapine	hypertension	hypertension	12.0	0.570899	0.222222	
+pramipexole	amitriptyline	sepsis	sepsis	1.66667	1.07819	0.00380228	
+prasugrel	paroxetine	myocardial infarction	myocardial infarction	20.0	1.20088	0.105263	
+perphenazine	clopidogrel	myocardial infarction	myocardial infarction	6.0	0.704746	0.1	
+aspirin	pramipexole	myocardial infarction	acute myocardial infarction	4.09091	0.394378	0.00844278	
+aspirin	pramipexole	myocardial infarction	myocardial infarction	1.08491	0.217171	0.021576	
+aspirin	pramipexole	pancreatitis	pancreatitis	1.5	0.356014	0.00844278	
+aspirin	pramipexole	pancreatitis	pancreatitis acute	0.5	1.02419	0.000938086	
+aspirin	mirtazapine	myocardial infarction	acute myocardial infarction	4.44444	0.244307	0.0108942	
+aspirin	mirtazapine	myocardial infarction	myocardial infarction	1.34529	0.135682	0.0272356	
+aspirin	mirtazapine	myocardial infarction	silent myocardial infarction	3.33333	1.15448	0.000453926	
+aspirin	mirtazapine	pancreatitis	pancreatitis	2.0	0.250317	0.0086246	
+aspirin	mirtazapine	pancreatitis	pancreatitis acute	4.4	0.361123	0.00499319	
+aspirin	mirtazapine	pancreatitis	pancreatitis chronic	7.5	0.763436	0.00136178	
+chlorpromazine	ziprasidone	delirium	delirium	3.33333	0.814495	0.00593472	
+hydrochlorothiazide	clozapine	myocardial infarction	myocardial infarction	0.666667	0.591979	0.0139535	
+hydrochlorothiazide	clozapine	hypertension	hypertension	2.5	0.416479	0.0325581	
+sulfasalazine	aspirin	pneumonia	eosinophilic pneumonia	5.0	1.22413	0.00137174	
+sulfasalazine	aspirin	sepsis	neutropenic sepsis	70.0	1.06834	0.00960219	
+sulfasalazine	aspirin	pancreatitis	pancreatitis	1.47059	0.477392	0.00685871	
+sulfasalazine	aspirin	pancreatitis	pancreatitis acute	1.0	1.04809	0.00137174	
+sulfasalazine	aspirin	pneumonia	pneumonia staphylococcal	5.0	1.22413	0.00137174	
+sulfasalazine	aspirin	sepsis	staphylococcal sepsis	2.5	1.11736	0.00137174	
+sulfasalazine	aspirin	pneumonia	pneumonia streptococcal	10.0	1.41368	0.00137174	
+sulfasalazine	aspirin	sepsis	streptococcal sepsis	10.0	1.41368	0.00137174	
+sulfasalazine	aspirin	pneumonia	pneumocystis jiroveci pneumonia	12.5	0.669695	0.00685871	
+sulfasalazine	aspirin	pneumonia	bronchopneumonia	3.75	0.675888	0.00411523	
+sulfasalazine	aspirin	pneumonia	lobar pneumonia	6.66667	0.912044	0.00274348	
+sulfasalazine	aspirin	pneumonia	pneumonia	2.7027	0.202073	0.0411523	
+sulfasalazine	aspirin	sepsis	bacterial sepsis	10.0	1.41368	0.00137174	
+sulfasalazine	aspirin	sepsis	sepsis	3.6	0.272115	0.0246914	
+sulfasalazine	aspirin	pneumonia	pneumonia aspiration	3.33333	0.815572	0.00274348	
+hydrochlorothiazide	clomipramine	myocardial infarction	myocardial infarction	0.909091	1.03621	0.015625	
+ascorbic acid	carvedilol	edema	localised oedema	5.0	1.22395	0.0017762	
+ascorbic acid	carvedilol	edema	oedema peripheral	3.13433	0.246152	0.0373002	
+ascorbic acid	carvedilol	edema	acute pulmonary oedema	3.33333	1.15385	0.0017762	
+ascorbic acid	carvedilol	edema	pulmonary oedema	5.29412	0.409855	0.0159858	
+ascorbic acid	carvedilol	edema	macular oedema	10.0	1.41352	0.0017762	
+ascorbic acid	carvedilol	edema	lip oedema	5.0	1.22395	0.0017762	
+ascorbic acid	carvedilol	edema	face oedema	1.42857	1.06813	0.0017762	
+ascorbic acid	carvedilol	edema	generalised oedema	20.0	0.864897	0.0071048	
+ascorbic acid	carvedilol	edema	oedema	3.15789	0.466202	0.0106572	
+ascorbic acid	carvedilol	edema	angioedema	2.0	0.773334	0.0035524	
+ascorbic acid	carvedilol	edema	brain oedema	1.42857	1.06813	0.0017762	
+ascorbic acid	carvedilol	edema	pharyngeal oedema	0.769231	1.03681	0.0017762	
+aspirin	amitriptyline	myocardial infarction	acute myocardial infarction	3.98058	0.183843	0.0112144	
+aspirin	amitriptyline	myocardial infarction	myocardial infarction	1.90709	0.0856264	0.0426696	
+aspirin	amitriptyline	myocardial infarction	silent myocardial infarction	7.5	0.763566	0.000820569	
+hydrochlorothiazide	clonidine	myocardial infarction	acute myocardial infarction	5.12821	0.273957	0.0107066	
+hydrochlorothiazide	clonidine	myocardial infarction	myocardial infarction	1.83879	0.125015	0.0390792	
+hydrochlorothiazide	clonidine	hypertension	pulmonary arterial hypertension	1.0	1.04853	0.000535332	
+hydrochlorothiazide	clonidine	hypertension	pulmonary hypertension	2.42424	0.393337	0.00428266	
+hydrochlorothiazide	clonidine	hypertension	accelerated hypertension	30.0	1.15445	0.001606	
+hydrochlorothiazide	clonidine	hypertension	essential hypertension	4.0	0.836308	0.00107066	
+hydrochlorothiazide	clonidine	hypertension	hypertension	7.73148	0.100144	0.0894004	
+aspirin	diphenhydramine	myocardial infarction	acute myocardial infarction	3.63636	0.219825	0.0096253	
+aspirin	diphenhydramine	myocardial infarction	myocardial infarction	1.3257	0.116637	0.0278446	
+bivalirudin	metoclopramide	myocardial infarction	myocardial infarction	10.0	1.38969	0.0625	
+sumatriptan	clopidogrel	myocardial infarction	acute myocardial infarction	6.66667	0.904345	0.028169	
+sumatriptan	clopidogrel	myocardial infarction	myocardial infarction	6.66667	0.388811	0.140845	
+tinzaparin	clopidogrel	myocardial infarction	acute myocardial infarction	10.0	1.4088	0.0138889	
+tinzaparin	clopidogrel	myocardial infarction	myocardial infarction	0.833333	1.03347	0.0138889	
+hydrochlorothiazide	trimipramine	myocardial infarction	myocardial infarction	1.66667	1.06793	0.0238095	
+tramadol	prasugrel	myocardial infarction	myocardial infarction	5.0	0.440358	0.12963	
+aspirin	citalopram	myocardial infarction	acute myocardial infarction	3.48837	0.172518	0.00866718	
+aspirin	citalopram	myocardial infarction	myocardial infarction	1.62833	0.0797359	0.0340909	
+aspirin	citalopram	myocardial infarction	silent myocardial infarction	5.0	1.22466	0.000192604	
+ambrisentan	tiotropium	hypertension	pulmonary arterial hypertension	13.3333	0.538309	0.0137457	
+ambrisentan	tiotropium	hypertension	pulmonary hypertension	32.8571	0.429471	0.0395189	
+ambrisentan	tiotropium	hypertension	hypertension	0.175439	1.0078	0.00171821	
+clonidine	pramipexole	sepsis	sepsis	2.5	0.782971	0.0217391	
+aspirin	cyclobenzaprine	myocardial infarction	acute myocardial infarction	7.85714	0.200261	0.0191972	
+aspirin	cyclobenzaprine	myocardial infarction	myocardial infarction	2.86624	0.0951347	0.0589005	
+aspirin	cyclobenzaprine	myocardial infarction	silent myocardial infarction	5.0	0.865748	0.0008726	
+ambrisentan	amitriptyline	hypertension	pulmonary arterial hypertension	15.0	0.639511	0.041958	
+ambrisentan	amitriptyline	hypertension	pulmonary hypertension	50.0	1.09193	0.034965	
+ambrisentan	amitriptyline	hypertension	hypertension	1.0	1.04514	0.00699301	
+aspirin	tramadol	myocardial infarction	acute myocardial infarction	5.11111	0.147317	0.0124034	
+aspirin	tramadol	myocardial infarction	myocardial infarction	1.86908	0.0726078	0.0390077	
+aspirin	tramadol	myocardial infarction	silent myocardial infarction	4.0	0.836542	0.000359518	
+sucralfate	metoprolol	gastric ulcer	gastric ulcer	16.25	0.447132	0.0235935	
+sucralfate	metoprolol	gastric ulcer	gastric ulcer haemorrhage	30.0	1.15384	0.00544465	
+ambrisentan	pilocarpine	hypertension	pulmonary hypertension	30.0	1.12935	0.157895	
