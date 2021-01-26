@@ -1,0 +1,16 @@
+Tofacitinib	drug	
+CYP3A4	drug_target	
+ALB	drug_target	
+CYP2C19	drug_target	
+JAK2	drug_target	
+JAK1	drug_target	
+JAK3	drug_target	
+Interstitial lung and liver disease	phenotype	
+Interferon gamma-1b	drug	
+CYP1A2	drug_target	
+IFNGR1	drug_target	
+IFNGR2	drug_target	
+IFNG	intermediate	
+IL4	intermediate	
+STAT3	intermediate	
+IL2RA	intermediate	

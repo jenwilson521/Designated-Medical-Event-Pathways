@@ -1,0 +1,9 @@
+Heparin	drug	
+F10	drug_target	
+SERPINC1	drug_target	
+SELP	drug_target	
+HPSE	drug_target	
+Deep vein thrombosis of lower limb	phenotype	
+F3	intermediate	
+F7	intermediate	
+F2	intermediate	

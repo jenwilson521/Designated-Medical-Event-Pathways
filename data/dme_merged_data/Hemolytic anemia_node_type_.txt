@@ -1,0 +1,43 @@
+Alemtuzumab	drug	
+FCGR3B	drug_target	
+C1R	drug_target	
+C1QA	drug_target	
+C1QB	drug_target	
+C1QC	drug_target	
+FCGR3A	drug_target	
+FCGR1A	drug_target	
+FCGR2A	drug_target	
+FCGR2B	drug_target	
+FCGR2C	drug_target	
+CD52	drug_target	
+Autoimmune hemolytic anemia	phenotype	
+Natalizumab	drug	
+ITGA4	drug_target	
+ICAM1	drug_target	
+Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	phenotype	
+Rituximab	drug	
+C1S	drug_target	
+MS4A1	drug_target	
+Aminosalicylic Acid	drug	
+PTGS2	drug_target	
+MPO	drug_target	
+ALOX5	drug_target	
+CHUK	drug_target	
+PLA2G2E	drug_target	
+Ipilimumab	drug	
+CTLA4	drug_target	
+Pegademase bovine	drug	
+GRB2	drug_target	
+IGHV2-5	intermediate	
+CD3G	intermediate	
+NFKB2	intermediate	
+NFKB1	intermediate	
+CD19	intermediate	
+WAS	intermediate	
+TFRC	intermediate	
+WIPF1	intermediate	
+NRAS	intermediate	
+SPTB	intermediate	
+SPTA1	intermediate	
+ICOS	intermediate	
+IL2RA	intermediate	
