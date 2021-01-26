@@ -1,0 +1,52 @@
+CXCR2	Hepatic necrosis	
+Sevoflurane	CYP2E1	
+OPRD1	CXCR2	
+Hydrocodone	OPRM1	
+Hydrocodone	OPRD1	
+Sevoflurane	KCNA1	
+TGFA	Hepatic necrosis	
+OPRM1	FPR1	
+MT-ND1	NDUFA12	
+MT-ND1	NDUFA2	
+OPRK1	CXCR2	
+HADH	Hepatic necrosis	
+CYP3A4	Hepatic necrosis	
+OPRM1	CNR2	
+NDUFA10	Hepatic necrosis	
+MT-ND1	NDUFS4	
+NDUFAF2	Hepatic necrosis	
+NDUFA12	Hepatic necrosis	
+Desflurane	MT-ND1	
+NDUFA2	Hepatic necrosis	
+OPRK1	CNR2	
+Sevoflurane	GRIA1	
+NDUFS4	Hepatic necrosis	
+Desflurane	GLRA1	
+Menthol	OPRK1	
+GRIA1	TGFA	
+Sevoflurane	ATP5D	
+OPRK1	FPR1	
+Sevoflurane	ALB	
+Desflurane	ATP2C1	
+Sevoflurane	GABRA1	
+MT-ND1	NDUFAF2	
+Sevoflurane	CYP2A6	
+Desflurane	GRIA1	
+FPR1	Hepatic necrosis	
+OPRD1	CNR2	
+Desflurane	ALB	
+Hydrocodone	CYP2D6	
+Sevoflurane	GLRA1	
+Sevoflurane	ATP2C1	
+Desflurane	ATP5D	
+OPRD1	FPR1	
+Sevoflurane	MT-ND1	
+Hydrocodone	CYP3A4	
+Sevoflurane	CYP3A4	
+Menthol	TRPM8	
+Sevoflurane	CYP2B6	
+MT-ND1	NDUFA10	
+CNR2	Hepatic necrosis	
+MT-ND1	HADH	
+Desflurane	KCNA1	
+OPRM1	CXCR2	

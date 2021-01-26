@@ -1,0 +1,90 @@
+Natalizumab	FCGR1A	
+GRB2	CD19	
+Rituximab	MS4A1	
+WAS	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	
+Rituximab	FCGR2C	
+Rituximab	C1QC	
+Alemtuzumab	FCGR2B	
+FCGR2B	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	
+GRB2	WIPF1	
+Alemtuzumab	C1QC	
+Rituximab	FCGR3A	
+GRB2	SPTA1	
+MS4A1	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	
+Alemtuzumab	FCGR2C	
+Alemtuzumab	FCGR3B	
+Alemtuzumab	C1QA	
+Aminosalicylic Acid	CHUK	
+IGHV2-5	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	
+Natalizumab	ITGA4	
+GRB2	NRAS	
+FCGR2A	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	
+Rituximab	FCGR1A	
+GRB2	TFRC	
+Alemtuzumab	FCGR2A	
+NFKB2	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	
+Natalizumab	C1QB	
+FCGR3A	Autoimmune hemolytic anemia	
+NFKB1	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	
+SPTB	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	
+Rituximab	FCGR3B	
+FCGR1A	FCGR3A	
+WIPF1	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	
+TFRC	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	
+Natalizumab	FCGR3A	
+FCGR2C	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	
+GRB2	IL2RA	
+IL2RA	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	
+Rituximab	FCGR2B	
+Pegademase bovine	GRB2	
+Aminosalicylic Acid	ALOX5	
+FCGR2A	FCGR3A	
+Natalizumab	FCGR2C	
+GRB2	SPTB	
+GRB2	WAS	
+GRB2	CD3G	
+FCGR1A	CD3G	
+FCGR3B	Autoimmune hemolytic anemia	
+CD19	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	
+Rituximab	FCGR2A	
+Aminosalicylic Acid	PTGS2	
+Natalizumab	ICAM1	
+Aminosalicylic Acid	PLA2G2E	
+Rituximab	C1R	
+NRAS	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	
+Rituximab	C1QB	
+Alemtuzumab	FCGR3A	
+IGHV2-5	Autoimmune hemolytic anemia	
+GRB2	IGHV2-5	
+MS4A1	Autoimmune hemolytic anemia	
+Natalizumab	C1QC	
+CHUK	NFKB2	
+Rituximab	C1S	
+CTLA4	Autoimmune hemolytic anemia	
+Natalizumab	FCGR2B	
+Natalizumab	FCGR3B	
+Natalizumab	C1QA	
+FCGR2A	IGHV2-5	
+Natalizumab	FCGR2A	
+PTGS2	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	
+Alemtuzumab	C1QB	
+ICAM1	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	
+FCGR3A	FCGR2A	
+ICOS	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	
+Aminosalicylic Acid	MPO	
+FCGR1A	IGHV2-5	
+CHUK	NFKB1	
+CD3G	Autoimmune hemolytic anemia	
+CD3G	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	
+FCGR2A	CD3G	
+Alemtuzumab	C1R	
+GRB2	ICOS	
+Alemtuzumab	FCGR1A	
+FCGR3A	CD3G	
+FCGR3A	IGHV2-5	
+SPTA1	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	
+Natalizumab	C1R	
+FCGR1A	FCGR2A	
+Rituximab	C1QA	
+Ipilimumab	CTLA4	
+Alemtuzumab	CD52	

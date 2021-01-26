@@ -1,0 +1,28 @@
+Tofacitinib	JAK3	
+JAK1	IFNG	
+JAK2	IL4	
+Tofacitinib	ALB	
+IL4	Interstitial lung and liver disease	
+Interferon gamma-1b	IFNGR1	
+JAK3	IL4	
+JAK2	IL2RA	
+JAK3	IL2RA	
+IFNGR2	IFNG	
+JAK2	IFNG	
+JAK2	STAT3	
+Tofacitinib	JAK1	
+JAK1	JAK2	
+JAK1	JAK3	
+Tofacitinib	CYP2C19	
+Interferon gamma-1b	CYP1A2	
+JAK1	IL2RA	
+IL2RA	Interstitial lung and liver disease	
+IFNG	Interstitial lung and liver disease	
+IFNGR1	IFNG	
+JAK3	JAK1	
+Interferon gamma-1b	IFNGR2	
+JAK1	STAT3	
+STAT3	Interstitial lung and liver disease	
+JAK3	JAK2	
+Tofacitinib	CYP3A4	
+Tofacitinib	JAK2	

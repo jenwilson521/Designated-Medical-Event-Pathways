@@ -1,0 +1,456 @@
+Choline	SLC44A3	
+Zonisamide	SCN1B	
+TGFB1	SMAD3	
+Probenecid	ABCC11	
+Trastuzumab	ERBB2	
+PARP1	XPC	
+Acitretin	RBP1	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	GJC2	
+Tetracycline	ALB	
+Indomethacin	ALB	
+CYP3A4	MGST1	
+ABCC4	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Hydrochlorothiazide	CA9	
+Hydrochlorothiazide	SLC12A3	
+IRS2	INSR	
+IL3	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Insulin Lispro	INSR	
+MGST1	CYP3A4	
+Zonisamide	CACNA1H	
+ADRB2	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+ERBB2	EGFR	
+DNM2	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Vemurafenib	CYP2D6	
+Probenecid	SLC22A8	
+Erlotinib	CYP1A2	
+RARA	RXRA	
+MGST2	CYP3A4	
+Hydrochlorothiazide	SLC22A6	
+MED1	PPARG	
+Indomethacin	PPARA	
+Trastuzumab	C1QB	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ATM	
+ALB	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	
+Probenecid	SLC16A7	
+PPARA	MED1	
+Trastuzumab	FCGR1A	
+Trastuzumab	FCGR2B	
+EGFR	LAT	
+Probenecid	SLC16A1	
+TTR	Peripheral axonal neuropathy	
+Indomethacin	PTGDR2	
+Lidocaine	CYP2C18	
+PRNP	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Choline	SLC22A2	
+ERBB2	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+FCGR1A	CD3G	
+NLRC4	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+RASGRP1	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	GSN	
+Choline	CHKB	
+Tetracycline	SLC22A8	
+Indomethacin	CYP2C9	
+EGFR	NEFL	
+Insulin Detemir	ALB	
+LAT	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	
+Indomethacin	ABCC2	
+Indomethacin	ABCC6	
+GJC2	Peripheral axonal neuropathy	
+Insulin Glargine	INSR	
+NCOA3	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	
+Indomethacin	ABCC3	
+ABCC6	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Probenecid	ABCC1	
+ABCC2	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Zonisamide	CA9	
+SCN2A	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+NCOA3	RXRA	
+INS	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+ERBB2	GFRA1	
+Probenecid	ABCC4	
+LAT	EGFR	
+Indomethacin	SLCO1A2	
+Erlotinib	UGT1A1	
+Indomethacin	PTGR2	
+Sulindac	CYP1A1	
+GJC2	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Vemurafenib	ALB	
+Trastuzumab	FCGR2A	
+ABCB1	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Olaparib	PARP2	
+Olaparib	CYP2B6	
+Sulindac	CYP1A2	
+CYP1A2	MGST1	
+CES1	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+INSR	INS	
+CD3G	FCGR3A	
+IRS2	IGF1R	
+Trastuzumab	FCGR3B	
+FCGR1A	IGHG1	
+CACNA1G	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Indomethacin	SLC10A1	
+Acitretin	CYP26A1	
+PPARG	MED25	
+RXRA	MED25	
+EGFR	KRAS	
+Choline	SLC44A2	
+Zonisamide	CA13	
+Zonisamide	AOX1	
+Indomethacin	PPARG	
+CYP3A5	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Vemurafenib	BRAF	
+Zonisamide	MAOB	
+CD3G	FCGR1A	
+SERPING1	Peripheral axonal neuropathy	
+Choline	PHOSPHO1	
+Probenecid	CYP2C8	
+Choline	SLC44A4	
+Pertuzumab	ERBB2	
+EGFR	GFRA1	
+Sulindac	PTGS1	
+APOB	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+EGFR	GDNF	
+Trastuzumab emtansine	CYP3A4	
+SCN4A	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+SPAST	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Vemurafenib	CYP3A4	
+ARTN	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+AKR1B1	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+CYP3A4	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SERPING1	
+PPARA	HDAC3	
+Riluzole	SLC7A11	
+EGFR	ADRB2	
+Tacrolimus	ABCA5	
+PPBP	PTGDR2	
+Tacrolimus	ALB	
+FCGR2C	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Probenecid	SLC22A5	
+FCGR3A	IGHG1	
+Choline	SLC5A7	
+CD3G	EGFR	
+INSR	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+EGFR	ERBB2	
+TGFBR2	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+FGFR4	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+EGFR	IL2	
+PARP1	XPA	
+Choline	CEPT1	
+Zonisamide	CA5A	
+Choline	SLC22A4	
+CD3G	FCGR2A	
+Insulin Lispro	IGF1R	
+Olaparib	CYP3A4	
+CYP19A1	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Sulindac	MAPK3	
+Probenecid	CYP3A4	
+RXRA	PPARG	
+Zonisamide	CYP2C19	
+PPARG	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+IRS1	IGF1R	
+IGF1R	IGF1	
+EGFR	PIK3CA	
+PARP2	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+FKBP1A	TGFBR2	
+SETX	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Trastuzumab emtansine	CYP3A5	
+ERCC2	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Tacrolimus	CYP3A4	
+EGFR	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+PTGS2	TP53	
+Insulin Glargine	IGF1R	
+Probenecid	ALB	
+JAK2	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Erlotinib	ORM1	
+Zonisamide	SCN4A	
+EGFR	JAK2	
+EGFR	EGF	
+Trastuzumab emtansine	ABCB1	
+XPC	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+PARP1	CUL4B	
+Erlotinib	CYP2C8	
+Hydrochlorothiazide	CA4	
+Trastuzumab emtansine	ERBB2	
+ERBB2	FGFR4	
+Sulindac	PTGDR2	
+ERBB2	CSF2	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	TTR	
+INS	Peripheral axonal neuropathy	
+Riluzole	CYP1A1	
+Acitretin	RXRB	
+MED25	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+IGF1R	IRS1	
+LDB3	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Trastuzumab	C1S	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	GFAP	
+Acitretin	RARB	
+Erlotinib	CYP2D6	
+GTF2H1	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Erlotinib	CYP1B1	
+Lidocaine	SLC22A5	
+INSR	IRS1	
+Tetracycline	SLC22A6	
+MAPK3	BRAF	
+KCNMA1	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	
+Zonisamide	CYP3A4	
+PPBP	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	
+XPA	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Olaparib	PARP3	
+ABCC5	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Indomethacin	UGT1A1	
+Indomethacin	GLO1	
+Probenecid	CYP2C9	
+Trastuzumab	C1R	
+Choline	PLD2	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PPBP	
+Lidocaine	CYP2D6	
+RARB	CRABP2	
+IL17RD	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Vemurafenib	CYP1A2	
+Lidocaine	EGFR	
+Trastuzumab	C1QA	
+Tetracycline	CYP3A4	
+IGF1R	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+ABCC1	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SACS	
+Indomethacin	ABCC1	
+MED9	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+SLC22A8	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+PARP1	ERCC4	
+EGFR	DNM2	
+TGFB1	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Indomethacin	CES1	
+BRAF	KRAS	
+Indomethacin	ABCC4	
+Erlotinib	CYP1A1	
+Lidocaine	CYP2C9	
+FCGR2A	CD3G	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SETX	
+HGF	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Probenecid	SLCO1A2	
+EGFR	RET	
+Indomethacin	UGT2B7	
+Erlotinib	CYP3A4	
+EGFR	CD3G	
+Tacrolimus	ORM1	
+ERCC3	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Indomethacin	PLA2G2A	
+Tacrolimus	ABCB1	
+GFRA1	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Riluzole	ABCG2	
+MAPK3	MAPK1	
+Lidocaine	ABCB1	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	NLRC4	
+Erlotinib	EGFR	
+Choline	SLC22A1	
+Trastuzumab	FCGR3A	
+Erlotinib	ALB	
+Choline	PLD1	
+Insulin Glargine	CYP1A2	
+Zonisamide	SCN1A	
+ATM	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+IRS1	INSR	
+Zonisamide	CA6	
+Probenecid	ABCB1	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	TLN2	
+Zonisamide	CA14	
+Zonisamide	CA5B	
+Prilocaine	SCN5A	
+CSF2	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Choline	SLC44A1	
+Lidocaine	SCN10A	
+PARP1	DDB2	
+Choline	PCYT1A	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	APOE	
+BRAF	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Insulin Detemir	INSR	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SPAST	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	NCOA3	
+MAPK1	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+IL2	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+MGST3	CYP1A2	
+Hydrochlorothiazide	KCNMA1	
+ERBB2	ICOS	
+EGFR	ARTN	
+Choline	CHDH	
+TTR	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Probenecid	SLC22A12	
+ERBB2	EGF	
+EGFR	RASGRP1	
+Indomethacin	UGT1A9	
+Lidocaine	CYP3A4	
+Insulin Detemir	CYP1A2	
+Vemurafenib	ABCG2	
+EGFR	FGFR4	
+Probenecid	CYP2C19	
+Vemurafenib	ABCC1	
+Zonisamide	SCN5A	
+IGF1R	IGF2	
+Indomethacin	PTGS2	
+Probenecid	SLC22A11	
+SLC22A5	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Tacrolimus	CYP3A5	
+IGF2	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Lidocaine	SCN5A	
+Tetracycline	SLC22A11	
+Zonisamide	CA10	
+ERBB2	GDNF	
+CA2	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+MAPK3	IL17RD	
+PPARG	MED9	
+PPARA	NCOR1	
+Acitretin	RXRA	
+EGFR	IL3	
+Sulfamethizole	ALB	
+Zonisamide	CA7	
+Choline	SLC22A5	
+Choline	CHAT	
+Probenecid	SLC22A6	
+GFAP	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Hyaluronidase	ALB	
+MGST1	CYP1A2	
+Sulindac	AKR1B1	
+GDNF	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Zonisamide	CA2	
+PPARA	NCOR2	
+Probenecid	SLCO1C1	
+Zonisamide	CA12	
+MGST2	CYP1A2	
+Tacrolimus	FKBP1A	
+RXRA	NCOA3	
+Hyaluronidase	TGFB1	
+BRAF	Peripheral axonal neuropathy	
+PIK3CA	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+SMAD3	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+IGF1	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+EGF	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Zonisamide	CACNA1I	
+Riluzole	SCN5A	
+DDB2	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+EGFR	HGF	
+Indomethacin	ABCC11	
+SPTBN2	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+UGT2B7	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+SERPING1	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+CYP1A2	MGST2	
+Trastuzumab	EGFR	
+ERBB2	IL3	
+Probenecid	PANX1	
+Sulindac	PPARD	
+Zonisamide	SCN3A	
+Zonisamide	CA1	
+PPARD	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Hydrochlorothiazide	CA2	
+FCGR3A	CD3G	
+Sulindac	PTGS2	
+CYP2C8	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+CYP1A1	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Vemurafenib	ORM1	
+ERBB2	NEFL	
+Indomethacin	SLC22A8	
+PARP1	GTF2H1	
+PARP1	ERCC3	
+EGFR	APOB	
+Choline	SLC22A3	
+EGFR	CSF2	
+RXRG	CRABP2	
+Hydrochlorothiazide	CA1	
+Tetracycline	PRNP	
+SLC12A3	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Sulindac	ALB	
+APOE	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Sulindac	SLC22A6	
+Erlotinib	CYP3A5	
+INSR	IRS2	
+Choline	ACHE	
+Zonisamide	SCN4B	
+Erlotinib	NR1I2	
+CYP1A2	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+RXRA	MED9	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	LDB3	
+Trastuzumab	CYP19A1	
+RARG	CRABP2	
+KRAS	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Lidocaine	CYP2C8	
+Probenecid	SLC22A2	
+ERBB2	ARTN	
+PTGDR2	APP	
+SACS	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+GSN	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Zonisamide	SCN2A	
+Zonisamide	CA3	
+CRABP2	RXRA	
+SETX	Peripheral axonal neuropathy	
+Choline	BCHE	
+Probenecid	ABCC2	
+Probenecid	ABCC6	
+NCOR1	PPARG	
+Probenecid	ABCC3	
+ERBB2	KRAS	
+Zonisamide	CACNA1G	
+KRAS	Peripheral axonal neuropathy	
+RET	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Indomethacin	ABCB1	
+FCGR2A	IGHG1	
+Sulfamethizole	CYP2C9	
+SCN5A	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	
+Acitretin	RXRG	
+ABCC3	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+ERBB2	RET	
+CYP3A4	MGST2	
+Lidocaine	CYP2A6	
+NEFL	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Zonisamide	MAOA	
+EGFR	SPTBN2	
+Zonisamide	CA4	
+RXRB	CRABP2	
+MAPK3	KRAS	
+Lidocaine	CYP3A5	
+Acitretin	RARA	
+TGFB1	TGFBR2	
+APP	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Erlotinib	ABCB1	
+TLN2	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Riluzole	CYP1A2	
+PARP1	ERCC2	
+PARP1	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Indomethacin	PTGS1	
+Choline	PCYT1B	
+Probenecid	SLC10A1	
+Zonisamide	CA8	
+CYP1A2	MGST3	
+NCOR2	PPARG	
+Lidocaine	CYP1A2	
+Lidocaine	CYP2B6	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	LAT	
+SLC5A7	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Indomethacin	CYP2C19	
+HDAC3	PPARG	
+CACNA1I	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	
+PTGS1	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+PTGDR2	PPBP	
+ICOS	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Indomethacin	SLC22A11	
+CUL4B	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+ERBB2	HGF	
+CHKB	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	
+Insulin Lispro	CYP1A2	
+Hydrochlorothiazide	CA12	
+ERBB2	PIK3CA	
+IGF1R	IRS2	
+Choline	CHKA	
+Probenecid	SLC22A1	
+Tetracycline	PADI4	
+Indomethacin	SLC22A6	
+Erlotinib	ABCG2	
+Trastuzumab	C1QC	
+MGST3	CYP3A4	
+ERCC4	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+CYP3A4	MGST3	
+Acitretin	ALB	
+Acitretin	RARG	
+TP53	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Probenecid	ABCC5	
+IGHG1	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	
+Trastuzumab	FCGR2C	
+Olaparib	PARP1	
