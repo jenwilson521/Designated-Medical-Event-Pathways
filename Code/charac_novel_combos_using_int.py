@@ -40,6 +40,7 @@ def split_drugs(dstr):
 all_net_classes = set()
 all_combinations = set()
 combos_with_dmes = set()
+all_dmes_net_classes = pd.DataFrame()
 for dme in nc_xl.sheet_names:
 	# dme = 'Thrombocytopenia'
 	nc_df = nc_xl.parse(dme)
@@ -52,6 +53,8 @@ for dme in nc_xl.sheet_names:
 	co_df = co_df.set_index('Drug Target found in DME pathway').drop(['Unnamed: 0'],axis=1)
 	co_df['Node Type'] = co_df.index.map(targs2type)
 	co_df['All drugs'] = co_df.index.map(targs2dmedrugs)
+	co_df['AR'] = dme
+	all_dmes_net_classes = pd.concat([all_dmes_net_classes,co_df]) # save this later for creating supplement file
 	for net_node in co_df.index:
 		all_net_classes.add((dme,net_node))
 	dme_net_classes = set(co_df.index)
@@ -107,12 +110,15 @@ ts_drugs = list(set(list(tsides_short.drug_1_concept_name) + list(tsides_short.d
 ts_in_dbid = [d for d in ts_drugs if d.lower() in syns_to_dbid] # 1722
 ts_all_combos = set()
 ts_combos_ars = set()
-for (d1,d2,ar) in zip(tsides_short.drug_1_concept_name,tsides_short.drug_2_concept_name,tsides_short.condition_concept_name):
+ts_prr_data = []
+for (d1,d2,ar,prr) in zip(tsides_short.drug_1_concept_name,tsides_short.drug_2_concept_name,tsides_short.condition_concept_name,tsides_short.PRR):
 	d1_id = syns_to_dbid[d1.lower()]
 	d2_id = syns_to_dbid[d2.lower()]
 	dkey = '__'.join(sorted([d1_id,d2_id]))
 	ts_all_combos.add(dkey)
 	ts_combos_ars.add((dkey,ar))
+	row_data = {'DrugKey':dkey,'drug_1_concept_name':d1,'drug_2_concept_name':d2,'condition_concept_name':ar,'PRR':prr}
+	ts_prr_data.append(row_data)
 
 # some drug names are in dint but not in syns_to_dbid?
 all_pfx_drugs = list(set([d for dc in combos_not_shared for d in dc.split('__')]))
@@ -153,11 +159,64 @@ for (dk,tsarr) in ts_combos_ars:
 	ts_combos_ars_dic[dk].append(tsarr) 
 
 # look if the ARs are similar between datasets
-pfx_in_tsides_matched_ar = set() # 50.22364217252397 -> 786/1565
+pfx_in_tsides_matched_ar = set() # 50.22364217252397 <- 786/1565
+tsides_full_keys = set()
 for (dk,parr) in pfx_in_tsides_with_ars:
 	for tsarr in ts_combos_ars_dic[dk]:
 		if word_match(parr,tsarr):
 			pfx_in_tsides_matched_ar.add((dk,parr))
+			full_key = dk+'__'+tsarr
+			tsides_full_keys.add(full_key)
 
 
+# save all PRRs for supplement
+ts_prr_df = pd.DataFrame(ts_prr_data) # (40675109, 13)
+ts_prr_df = ts_prr_df[ts_prr_df['DrugKey'].isin(pfx_in_tsides)] # (213908, 5)
+ts_prr_df['fullkey'] = ts_prr_df['DrugKey']+'__'+ts_prr_df['condition_concept_name']
+ts_prr_df = ts_prr_df[ts_prr_df['fullkey'].isin(tsides_full_keys)] # (1742, 6)
+ts_prr_df.to_excel('../TWOSIDES/all_pfx_pred_tsides_prr.xlsx',index=False)
 
+# keep track of all network genes for faster lookup in final table
+true_positives_dbid = pickle.load(open('../data/true_positives_dbid.pkl','rb'))
+all_pos_dbs = list(set([x[0] for (ar,dlist) in true_positives_dbid.items() for x in dlist]))
+nfdir = '../data/all_drugbank_network_files/'
+nfs = [f for f in os.listdir(nfdir)]
+nf_dic = dict([(f.split('_')[0],f) for f in nfs if 'merged_neighborhood_.txt' in f])
+db_to_netgenes = defaultdict(set)
+for (dbid,nf) in nf_dic.items():
+	net_data = [l.strip().split('\t') for l in open(os.path.join(nfdir,nf)).readlines()]
+	if net_data:
+		(prota,protb,scr) = zip(*net_data)
+		all_prot = prota+protb
+		db_to_netgenes[dbid] =set(all_prot)
+
+# write all predicted drug-drug-AR-network classes that overlap with TWOSIDES for supplement.
+# add non-network, non-overlapping drug list too
+all_class_pred = [] #non-overlapping targets, have an outcome in TWOSIDES
+predicted_data = [(nnode,dc,nt,addrugs,ar) for (nnode,dc,nt,addrugs,ar) in zip(all_dmes_net_classes.index,all_dmes_net_classes['Drug'].to_list(), all_dmes_net_classes['Node Type'].to_list(), all_dmes_net_classes['All drugs'].to_list(), all_dmes_net_classes.AR)]
+for (nnode,dc,nt,addrugs,ar) in predicted_data:
+#	print((nnode,dc,nt,addrugs,ar))
+	if dc.lower() not in syns_to_dbid:
+		continue
+	dc_dbid = syns_to_dbid[dc.lower()]
+	db1 = syns_to_dbid[dc.lower()]
+	keep_addrugs = set() 
+	for adrug in addrugs:
+		db2 = syns_to_dbid[adrug.lower()]
+		dkey = '__'.join(sorted([db1,db2]))
+		if (dkey,ar) in pfx_in_tsides_matched_ar:
+#			print([dkey,ar])
+			keep_addrugs.add(adrug)
+	if len(keep_addrugs) > 0:
+		keep_addrugs_dbid = set([syns_to_dbid[x.lower()] for x in keep_addrugs])
+		all_true_positives_db = set([x[0] for x in true_positives_dbid[ar]])
+		non_class_tps = all_true_positives_db.difference(keep_addrugs_dbid)
+		non_class_non_overlap = set([dbid for dbid in non_class_tps if not overlap_targets('__'.join([dc_dbid,dbid]))]) 
+		nonClass_nonOv_noNnode = [dbid for dbid in non_class_non_overlap if nnode not in db_to_netgenes[dbid]] # remove drugs with nnode in their network; some have the gene, but wasn't on shortest path between drug target and AR-assoc gene
+		common_names = [dbid_to_all_names[dbid][0] for dbid in nonClass_nonOv_noNnode]
+		row_data = {'AR':ar,'Predicted Combo':dc,'NetworkClassGene':nnode,'NodeType':nt,'AR-associated drugs':','.join(sorted(keep_addrugs)),'NonNetworkClass,AR-associated Drugs':','.join(sorted(common_names))} 
+		all_class_pred.append(row_data)
+
+final_class_pred = pd.DataFrame(all_class_pred)
+final_class_pred.to_excel('all_SP_drug_class_predictions.xlsx',index=False)
+		
