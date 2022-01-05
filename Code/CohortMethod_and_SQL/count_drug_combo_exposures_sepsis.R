@@ -73,7 +73,7 @@ sql <- render(sql,results_schema=results_schema,results_table=results_table)
 sql <- translate(sql, targetDialect = connectionDetails$dbms)
 executeSql(connection, sql)
 
-# now look for subsequent mirtazapine treatment
+# now look for subsequent combo drug treatment
 sql <- readSql("look_for_overlaps.sql") # paroxetine or atropine followed by albuterol
 sql <- render(sql, results_schema = results_schema,results_table = results_table,cohort_id = 55, first_cohort = 2, second_cohort = 3) 
 sql <- translate(sql, targetDialect = connectionDetails$dbms)
@@ -139,21 +139,25 @@ covSettings <- createDefaultCovariateSettings(excludedCovariateConceptIds = netw
 
 # cohortMethodData <- getDbCohortMethodData(connectionDetails = connectionDetails, cdmDatabaseSchema = source_schema,oracleTempSchema = results_schema, targetId = 55, comparatorId = 6, outcomeIds = 1, studyStartDate = "", studyEndDate = "", exposureDatabaseSchema = results_schema, exposureTable = results_table, outcomeDatabaseSchema = results_schema, outcomeTable = results_table, cdmVersion = cdmVersion, firstExposureOnly = TRUE, removeDuplicateSubjects = TRUE, restrictToCommonPeriod = FALSE, washoutPeriod = 180, covariateSettings = covSettings) # 5.43 hours
 
-# saveCohortMethodData(cohortMethodData, "./sepsisDrugCombos/sepsisWithCombo.zip")
-#print("Loading cohort method data, with drug combo")
-#cohortMethodData <- loadCohortMethodData("./sepsisDrugCombos/sepsisWithCombo.zip")
-#
-#print("Setting up studyPop and PS model")
-#studyPop <- createStudyPopulation(cohortMethodData = cohortMethodData, outcomeId = 1,
-#firstExposureOnly = FALSE, restrictToCommonPeriod = FALSE, washoutPeriod = 0, removeDuplicateSubjects = "remove all",
-#removeSubjectsWithPriorOutcome = FALSE, minDaysAtRisk = 1,riskWindowStart = 0, startAnchor = "cohort start", riskWindowEnd = 30,endAnchor = "cohort end")
-#ps <- createPs(cohortMethodData = cohortMethodData, population = studyPop,errorOnHighCorrelation=FALSE)
-#psauc<-computePsAuc(ps)
-#print("PS AUC")
-#print(psauc)
-#outcomeModel <- fitOutcomeModel(population = ps, modelType = "cox",inversePtWeighting = TRUE)
-#print("Outcome model, IPW:")
-#print(outcomeModel)
+ saveCohortMethodData(cohortMethodData, "./sepsisDrugCombos/sepsisWithCombo.zip")
+print("Loading cohort method data, with drug combo")
+cohortMethodData <- loadCohortMethodData("./sepsisDrugCombos/sepsisWithCombo.zip")
+
+print("Setting up studyPop and PS model")
+studyPop <- createStudyPopulation(cohortMethodData = cohortMethodData, outcomeId = 1,
+firstExposureOnly = FALSE, restrictToCommonPeriod = FALSE, washoutPeriod = 0, removeDuplicateSubjects = "remove all",
+removeSubjectsWithPriorOutcome = FALSE, minDaysAtRisk = 1,riskWindowStart = 0, startAnchor = "cohort start", riskWindowEnd = 30,endAnchor = "cohort end")
+ps <- createPs(cohortMethodData = cohortMethodData, population = studyPop,errorOnHighCorrelation=FALSE)
+psauc<-computePsAuc(ps)
+print("PS AUC")
+print(psauc)
+#       [1] "PS AUC"
+#       [1] 0.9956643
+
+outcomeModel <- fitOutcomeModel(population = ps, modelType = "cox",inversePtWeighting = TRUE)
+print("Outcome model, IPW:")
+print(outcomeModel)
+
 	#[1] "Outcome model, IPW:"
 	#Model type: cox
 	#Stratified: FALSE
@@ -167,10 +171,11 @@ covSettings <- createDefaultCovariateSettings(excludedCovariateConceptIds = netw
 	#Using 1 thread(s)
 	#Fitting outcome model took 0.354 secs
 
-#matchedPop <- matchOnPs(ps,caliper = 0.2, caliperScale = "standardized logit", maxRatio= 1)
-#outcomeModel <- fitOutcomeModel(population = matchedPop, modelType = "cox",)
-#print("Outcome model, Matched")
-#print(outcomeModel)
+matchedPop <- matchOnPs(ps,caliper = 0.2, caliperScale = "standardized logit", maxRatio= 1)
+outcomeModel <- fitOutcomeModel(population = matchedPop, modelType = "cox",)
+print("Outcome model, Matched")
+print(outcomeModel)
+
 	#[1] "Outcome model, Matched"
 	#Model type: cox
 	#Stratified: FALSE
@@ -197,19 +202,44 @@ ps <- createPs(cohortMethodData = cohortMethodData, population = studyPop,errorO
 psauc<-computePsAuc(ps)
 print("PS AUC")
 print(psauc)
+#       [1] "PS AUC"
+#       [1] 0.998172
+
 outcomeModel <- fitOutcomeModel(population = ps, modelType = "cox",inversePtWeighting = TRUE)
 print("Outcome model, IPW:")
 print(outcomeModel)
+#       Using prior: None
+#       Using 1 thread(s)
+#       Fitting outcome model took 1.15 mins
+#       [1] "Outcome model, IPW:"
+#       Model type: cox
+#       Stratified: FALSE
+#       Use covariates: FALSE
+#       Use inverse probability of treatment weighting: TRUE
+#       Status: OK
+#
+#                 Estimate lower .95 upper .95    logRr seLogRr
+#       treatment  0.16700   0.14770   0.18793 -1.78975  0.0615
 
 matchedPop <- matchOnPs(ps,caliper = 0.2, caliperScale = "standardized logit", maxRatio= 1)
+# create tables for supplement
+pdf("OptumSepsis_MatchedAttri_NoCombo_072021.pdf")
+drawAttritionDiagram(matchedPop)
+dev.off()
+balance <- computeCovariateBalance(matchedPop, cohortMethodData)
+btable1 <- createCmTable1(balance)
+write.table(btable1, file="OptumSepsis_CovBalTable_NoCombo_072021.txt",sep = "\t",row.names = FALSE,quote=FALSE)
+
 outcomeModel <- fitOutcomeModel(population = matchedPop, modelType = "cox",)
 print("Outcome model, Matched")
 print(outcomeModel)
-
-#pdf("OptumNeuropath_PS_overlap_72920.pdf") 
-#plotPs(ps, scale = "preference", showCountsLabel = TRUE, showAucLabel = TRUE, showEquiposeLabel = TRUE)
-#dev.off()
-#pdf("OptumNeuropath_FollwUpDist_72920.pdf") 
-#plotFollowUpDistribution(population = matchedPop)
-#dev.off()
+#       [1] "Outcome model, Matched"
+#       Model type: cox
+#       Stratified: FALSE
+#       Use covariates: FALSE
+#       Use inverse probability of treatment weighting: FALSE
+#       Status: OK
 #
+#                 Estimate lower .95 upper .95    logRr seLogRr
+#       treatment  0.29290   0.24060   0.35375 -1.22794  0.0983
+

@@ -1,0 +1,90 @@
+	Before matching			After matching		
+	Target	Comparator		Target	Comparator	
+Characteristic	%	%	Std. diff	%	%	Std. diff
+Age group	  	  	   	  	  	   
+   -5 -  -1	 0.0	 0.0	 0.00	  	  	   
+    0 -   4	 4.3	 0.0	 0.29	 3.3	 2.5	 0.05
+    5 -   9	 6.6	 0.2	 0.36	 7.5	 4.8	 0.11
+   10 -  14	 3.7	 0.9	 0.19	 3.5	 2.7	 0.05
+   15 -  19	 4.3	 2.5	 0.10	 1.7	 1.2	 0.04
+   20 -  24	 4.5	 3.0	 0.08	 1.3	 1.4	 0.00
+   25 -  29	 5.5	 4.0	 0.07	 1.8	 1.6	 0.01
+   30 -  34	 6.3	 5.4	 0.04	 2.3	 2.5	-0.01
+   35 -  39	 7.1	 6.7	 0.02	 2.8	 2.4	 0.03
+   40 -  44	 7.7	 7.9	-0.01	 3.4	 2.7	 0.04
+   45 -  49	 8.0	 9.1	-0.04	 4.1	 3.2	 0.05
+   50 -  54	 8.0	10.0	-0.07	 4.9	 4.7	 0.01
+   55 -  59	 7.8	 9.9	-0.07	 6.0	 5.2	 0.04
+   60 -  64	 6.8	 8.7	-0.07	 7.3	 6.7	 0.02
+   65 -  69	 4.2	 9.5	-0.21	 6.9	 7.5	-0.03
+   70 -  74	 3.4	 8.0	-0.20	 7.3	 7.9	-0.02
+   75 -  79	 4.6	 6.6	-0.09	11.6	12.9	-0.04
+   80 -  84	 3.6	 5.0	-0.07	11.9	14.2	-0.07
+   85 -  89	 3.6	 2.5	 0.06	12.4	15.9	-0.10
+Gender: female	57.5	63.2	-0.12	52.9	52.0	 0.02
+Medical history: General	  	  	   	  	  	   
+  Acute respiratory disease	34.4	30.4	 0.09	26.7	29.0	-0.05
+  Attention deficit hyperactivity disorder	 1.5	 2.1	-0.04	 1.5	 1.7	-0.01
+  Chronic liver disease	 1.5	 2.2	-0.05	 1.5	 1.4	 0.01
+  Chronic obstructive lung disease	 4.4	 8.3	-0.16	10.8	15.7	-0.14
+  Crohn's disease	 0.6	 0.7	-0.01	 0.5	 0.5	 0.00
+  Dementia	 4.4	 2.0	 0.13	15.4	20.2	-0.13
+  Depressive disorder	 9.0	16.8	-0.24	13.0	16.3	-0.09
+  Diabetes mellitus	10.5	20.6	-0.28	20.7	25.5	-0.11
+  Gastroesophageal reflux disease	13.3	16.3	-0.08	14.3	19.4	-0.14
+  Gastrointestinal hemorrhage	 3.8	 3.4	 0.02	 4.1	 5.8	-0.07
+  Human immunodeficiency virus infection	 0.1	 0.3	-0.03	 0.2	 0.3	-0.02
+  Hyperlipidemia	25.1	41.0	-0.34	33.8	39.4	-0.11
+  Hypertensive disorder	27.3	44.4	-0.36	45.0	53.9	-0.18
+  Lesion of liver	 0.7	 1.1	-0.04	 2.1	 3.4	-0.08
+  Obesity	 4.5	10.6	-0.23	 5.7	 6.6	-0.03
+  Osteoarthritis	11.8	34.1	-0.55	21.7	27.3	-0.13
+  Pneumonia	 4.3	 4.1	 0.01	10.2	14.9	-0.14
+  Psoriasis	 0.6	 1.9	-0.12	 0.9	 0.9	-0.01
+  Renal impairment	 4.7	 8.1	-0.14	14.6	20.3	-0.15
+  Rheumatoid arthritis	 0.8	 3.6	-0.19	 1.8	 2.4	-0.04
+  Schizophrenia	 0.2	 0.3	-0.02	 0.7	 1.2	-0.04
+  Ulcerative colitis	 0.5	 0.7	-0.02	 0.5	 0.8	-0.04
+  Urinary tract infectious disease	15.2	12.0	 0.09	17.7	23.6	-0.14
+  Viral hepatitis C	 0.4	 0.9	-0.07	 0.6	 0.6	 0.00
+  Visual system disorder	38.1	29.4	 0.18	59.5	65.9	-0.13
+Medical history: Cardiovascular disease	  	  	   	  	  	   
+  Atrial fibrillation	 3.5	 4.6	-0.06	10.4	13.4	-0.09
+  Cerebrovascular disease	 2.7	 4.4	-0.09	 8.2	12.0	-0.13
+  Coronary arteriosclerosis	 6.2	10.1	-0.14	14.6	18.8	-0.11
+  Heart disease	16.4	23.3	-0.17	32.4	41.9	-0.20
+  Heart failure	 4.2	 5.4	-0.06	12.9	17.6	-0.13
+  Ischemic heart disease	 3.9	 6.2	-0.10	 8.2	11.4	-0.11
+  Peripheral vascular disease	 8.7	14.8	-0.19	22.2	28.9	-0.15
+  Pulmonary embolism	 0.4	 0.8	-0.05	 1.2	 2.0	-0.06
+  Venous thrombosis	 1.8	 2.6	-0.05	 4.0	 5.5	-0.07
+Medical history: Neoplasms	  	  	   	  	  	   
+  Hematologic neoplasm	 0.9	 1.7	-0.07	 2.4	 4.3	-0.11
+  Malignant lymphoma	 0.3	 0.6	-0.04	 0.7	 1.1	-0.04
+  Malignant neoplasm of anorectum	 0.2	 0.3	-0.01	 0.5	 0.7	-0.03
+  Malignant neoplastic disease	 6.8	 9.7	-0.11	13.2	18.7	-0.15
+  Malignant tumor of breast	 1.0	 2.0	-0.09	 1.7	 2.1	-0.04
+  Malignant tumor of colon	 0.4	 0.6	-0.03	 0.9	 1.6	-0.06
+  Malignant tumor of lung	 0.5	 0.8	-0.03	 1.9	 3.7	-0.11
+  Malignant tumor of urinary bladder	 0.5	 0.3	 0.03	 0.7	 1.0	-0.04
+  Primary malignant neoplasm of prostate	 1.1	 1.0	 0.01	 1.7	 2.0	-0.02
+Medication use	  	  	   	  	  	   
+  Agents acting on the renin-angiotensin system	18.2	31.1	-0.30	31.1	34.5	-0.07
+  Antibacterials for systemic use	70.0	58.7	 0.24	65.1	70.8	-0.12
+  Antidepressants	20.1	36.2	-0.36	28.6	34.5	-0.13
+  Antiepileptics	57.1	14.0	 1.01	11.5	13.7	-0.07
+  Antiinflammatory and antirheumatic products	20.6	36.8	-0.36	19.7	21.7	-0.05
+  Antineoplastic agents	 1.7	 3.3	-0.10	 2.9	 3.5	-0.03
+  Antipsoriatics	 0.5	 0.9	-0.04	 0.9	 1.0	-0.02
+  Antithrombotic agents	 6.0	10.7	-0.17	15.1	18.1	-0.08
+  Beta blocking agents	16.5	22.9	-0.16	31.0	37.9	-0.14
+  Calcium channel blockers	 9.2	15.6	-0.20	18.2	20.8	-0.07
+  Diuretics	16.5	25.9	-0.23	29.4	34.4	-0.11
+  Drugs for acid related disorders	23.3	25.2	-0.04	25.1	32.1	-0.16
+  Drugs for obstructive airway diseases	21.9	25.8	-0.09	26.3	29.8	-0.08
+  Drugs used in diabetes	 8.4	17.3	-0.27	17.2	19.9	-0.07
+  Immunosuppressants	 1.5	 4.0	-0.15	 2.9	 3.8	-0.05
+  Lipid modifying agents	18.4	31.8	-0.31	30.3	33.9	-0.08
+  Opioids	19.5	33.6	-0.32	27.0	30.5	-0.08
+  Psycholeptics	68.2	31.4	 0.79	31.5	37.8	-0.13
+  Psychostimulants, agents used for adhd and nootropics	 3.9	 6.3	-0.11	 3.2	 3.3	-0.01
